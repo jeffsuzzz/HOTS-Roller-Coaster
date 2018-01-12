@@ -1,0 +1,445 @@
+fileFormatVersion: 2
+guid: b43931d8d3788164288892fbd5093e09
+timeCreated: 1498201885
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone_Ankle_Front_L
+    100002: Bone_Ankle_Front_R
+    100004: Bone_Ankle_Rear_L
+    100006: Bone_Ankle_Rear_R
+    100008: Bone_Chest
+    100010: Bone_Head
+    100012: Bone_Hip_Rear_L
+    100014: Bone_Hip_Rear_R
+    100016: Bone_Jaw
+    100018: Bone_Knee_Rear_L
+    100020: Bone_Knee_Rear_R
+    100022: Bone_Neck_01
+    100024: Bone_Neck_02
+    100026: Bone_Paw_Front_L
+    100028: Bone_Paw_Front_R
+    100030: Bone_Paw_Rear_L
+    100032: Bone_Paw_Rear_R
+    100034: Bone_Pelvis
+    100036: Bone_Root
+    100038: Bone_Shoulder_Front_L
+    100040: Bone_Shoulder_Front_R
+    100042: Bone_Spine
+    100044: Bone_Tail_01
+    100046: Bone_Tail_02
+    100048: Bone_Tail_03
+    100050: Ctrl_Main
+    100052: Ctrl_Root
+    100054: //RootNode
+    100056: HitTestFuzzy006
+    100058: HitTestFuzzy02
+    100060: HitTestFuzzy04
+    100062: HitTestFuzzy05
+    100064: HitTestTight
+    100066: Mesh 1
+    100068: Mesh_Direwolf_Body
+    100070: Mesh_Direwolf_Gear
+    100072: Mesh_Rank15_01_Body
+    100074: Ref_Center
+    100076: Ref_Center_BoneRef
+    100078: Ref_Mount
+    100080: Ref_Mount 1
+    100082: Ref_Mount_BoneRef
+    100084: Ref_Origin
+    100086: Ref_Origin_BoneRef
+    100088: Ref_Overhead
+    100090: Ref_Overhead_BoneRef
+    100092: SC2Physics_Bone_Chest
+    100094: SC2Physics_Bone_Pelvis
+    100096: SC2Physics_Bone_Root
+    100098: SC2Physics_Bone_Tail_01
+    100100: SC2Physics_Bone_Tail_02
+    100102: SC2Physics_Bone_Tail_03
+    400000: Bone_Ankle_Front_L
+    400002: Bone_Ankle_Front_R
+    400004: Bone_Ankle_Rear_L
+    400006: Bone_Ankle_Rear_R
+    400008: Bone_Chest
+    400010: Bone_Head
+    400012: Bone_Hip_Rear_L
+    400014: Bone_Hip_Rear_R
+    400016: Bone_Jaw
+    400018: Bone_Knee_Rear_L
+    400020: Bone_Knee_Rear_R
+    400022: Bone_Neck_01
+    400024: Bone_Neck_02
+    400026: Bone_Paw_Front_L
+    400028: Bone_Paw_Front_R
+    400030: Bone_Paw_Rear_L
+    400032: Bone_Paw_Rear_R
+    400034: Bone_Pelvis
+    400036: Bone_Root
+    400038: Bone_Shoulder_Front_L
+    400040: Bone_Shoulder_Front_R
+    400042: Bone_Spine
+    400044: Bone_Tail_01
+    400046: Bone_Tail_02
+    400048: Bone_Tail_03
+    400050: Ctrl_Main
+    400052: Ctrl_Root
+    400054: //RootNode
+    400056: HitTestFuzzy006
+    400058: HitTestFuzzy02
+    400060: HitTestFuzzy04
+    400062: HitTestFuzzy05
+    400064: HitTestTight
+    400066: Mesh 1
+    400068: Mesh_Direwolf_Body
+    400070: Mesh_Direwolf_Gear
+    400072: Mesh_Rank15_01_Body
+    400074: Ref_Center
+    400076: Ref_Center_BoneRef
+    400078: Ref_Mount
+    400080: Ref_Mount 1
+    400082: Ref_Mount_BoneRef
+    400084: Ref_Origin
+    400086: Ref_Origin_BoneRef
+    400088: Ref_Overhead
+    400090: Ref_Overhead_BoneRef
+    400092: SC2Physics_Bone_Chest
+    400094: SC2Physics_Bone_Pelvis
+    400096: SC2Physics_Bone_Root
+    400098: SC2Physics_Bone_Tail_01
+    400100: SC2Physics_Bone_Tail_02
+    400102: SC2Physics_Bone_Tail_03
+    4300000: Mesh 1
+    7400000: Stand
+    7400002: Walk
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Mesh 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Stand
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 120
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone_Root
+        weight: 1
+      - path: Bone_Root/Bone_Pelvis
+        weight: 1
+      - path: Bone_Root/Bone_Pelvis/Bone_Hip_Rear_L
+        weight: 1
+      - path: Bone_Root/Bone_Pelvis/Bone_Hip_Rear_L/Bone_Knee_Rear_L
+        weight: 1
+      - path: Bone_Root/Bone_Pelvis/Bone_Hip_Rear_L/Bone_Knee_Rear_L/Bone_Ankle_Rear_L
+        weight: 1
+      - path: Bone_Root/Bone_Pelvis/Bone_Hip_Rear_L/Bone_Knee_Rear_L/Bone_Ankle_Rear_L/Bone_Paw_Rear_L
+        weight: 1
+      - path: Bone_Root/Bone_Pelvis/Bone_Hip_Rear_R
+        weight: 1
+      - path: Bone_Root/Bone_Pelvis/Bone_Hip_Rear_R/Bone_Knee_Rear_R
+        weight: 1
+      - path: Bone_Root/Bone_Pelvis/Bone_Hip_Rear_R/Bone_Knee_Rear_R/Bone_Ankle_Rear_R
+        weight: 1
+      - path: Bone_Root/Bone_Pelvis/Bone_Hip_Rear_R/Bone_Knee_Rear_R/Bone_Ankle_Rear_R/Bone_Paw_Rear_R
+        weight: 1
+      - path: Bone_Root/Bone_Pelvis/Bone_Tail_01
+        weight: 1
+      - path: Bone_Root/Bone_Pelvis/Bone_Tail_01/Bone_Tail_02
+        weight: 1
+      - path: Bone_Root/Bone_Pelvis/Bone_Tail_01/Bone_Tail_02/Bone_Tail_03
+        weight: 1
+      - path: Bone_Root/Bone_Pelvis/Bone_Tail_01/Bone_Tail_02/Bone_Tail_03/SC2Physics_Bone_Tail_03
+        weight: 1
+      - path: Bone_Root/Bone_Pelvis/Bone_Tail_01/Bone_Tail_02/HitTestFuzzy006
+        weight: 1
+      - path: Bone_Root/Bone_Pelvis/Bone_Tail_01/Bone_Tail_02/SC2Physics_Bone_Tail_02
+        weight: 1
+      - path: Bone_Root/Bone_Pelvis/Bone_Tail_01/SC2Physics_Bone_Tail_01
+        weight: 1
+      - path: Bone_Root/Bone_Pelvis/SC2Physics_Bone_Pelvis
+        weight: 1
+      - path: Bone_Root/Bone_Spine
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Chest
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Chest/Bone_Neck_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Chest/Bone_Neck_01/Bone_Neck_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Chest/Bone_Neck_01/Bone_Neck_02/Bone_Head
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Chest/Bone_Neck_01/Bone_Neck_02/Bone_Head/Bone_Jaw
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Chest/Bone_Neck_01/Bone_Neck_02/HitTestFuzzy02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Chest/Bone_Shoulder_Front_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Chest/Bone_Shoulder_Front_L/Bone_Ankle_Front_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Chest/Bone_Shoulder_Front_L/Bone_Ankle_Front_L/Bone_Paw_Front_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Chest/Bone_Shoulder_Front_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Chest/Bone_Shoulder_Front_R/Bone_Ankle_Front_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Chest/Bone_Shoulder_Front_R/Bone_Ankle_Front_R/Bone_Paw_Front_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Chest/HitTestFuzzy05
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Chest/SC2Physics_Bone_Chest
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Ref_Center_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Ref_Center_BoneRef/Ref_Center
+        weight: 1
+      - path: Bone_Root/HitTestFuzzy04
+        weight: 1
+      - path: Bone_Root/HitTestTight
+        weight: 1
+      - path: Bone_Root/Ref_Mount_BoneRef
+        weight: 1
+      - path: Bone_Root/Ref_Mount_BoneRef/Ref_Mount 1
+        weight: 1
+      - path: Bone_Root/SC2Physics_Bone_Root
+        weight: 1
+      - path: Ctrl_Main
+        weight: 1
+      - path: Ctrl_Root
+        weight: 1
+      - path: Mesh 1
+        weight: 1
+      - path: Mesh_Direwolf_Body
+        weight: 1
+      - path: Mesh_Direwolf_Gear
+        weight: 1
+      - path: Mesh_Rank15_01_Body
+        weight: 1
+      - path: Ref_Mount
+        weight: 1
+      - path: Ref_Origin_BoneRef
+        weight: 1
+      - path: Ref_Origin_BoneRef/Ref_Origin
+        weight: 1
+      - path: Ref_Overhead_BoneRef
+        weight: 1
+      - path: Ref_Overhead_BoneRef/Ref_Overhead
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 449
+      lastFrame: 468
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone_Root
+        weight: 1
+      - path: Bone_Root/Bone_Pelvis
+        weight: 1
+      - path: Bone_Root/Bone_Pelvis/Bone_Hip_Rear_L
+        weight: 1
+      - path: Bone_Root/Bone_Pelvis/Bone_Hip_Rear_L/Bone_Knee_Rear_L
+        weight: 1
+      - path: Bone_Root/Bone_Pelvis/Bone_Hip_Rear_L/Bone_Knee_Rear_L/Bone_Ankle_Rear_L
+        weight: 1
+      - path: Bone_Root/Bone_Pelvis/Bone_Hip_Rear_L/Bone_Knee_Rear_L/Bone_Ankle_Rear_L/Bone_Paw_Rear_L
+        weight: 1
+      - path: Bone_Root/Bone_Pelvis/Bone_Hip_Rear_R
+        weight: 1
+      - path: Bone_Root/Bone_Pelvis/Bone_Hip_Rear_R/Bone_Knee_Rear_R
+        weight: 1
+      - path: Bone_Root/Bone_Pelvis/Bone_Hip_Rear_R/Bone_Knee_Rear_R/Bone_Ankle_Rear_R
+        weight: 1
+      - path: Bone_Root/Bone_Pelvis/Bone_Hip_Rear_R/Bone_Knee_Rear_R/Bone_Ankle_Rear_R/Bone_Paw_Rear_R
+        weight: 1
+      - path: Bone_Root/Bone_Pelvis/Bone_Tail_01
+        weight: 1
+      - path: Bone_Root/Bone_Pelvis/Bone_Tail_01/Bone_Tail_02
+        weight: 1
+      - path: Bone_Root/Bone_Pelvis/Bone_Tail_01/Bone_Tail_02/Bone_Tail_03
+        weight: 1
+      - path: Bone_Root/Bone_Pelvis/Bone_Tail_01/Bone_Tail_02/Bone_Tail_03/SC2Physics_Bone_Tail_03
+        weight: 1
+      - path: Bone_Root/Bone_Pelvis/Bone_Tail_01/Bone_Tail_02/HitTestFuzzy006
+        weight: 1
+      - path: Bone_Root/Bone_Pelvis/Bone_Tail_01/Bone_Tail_02/SC2Physics_Bone_Tail_02
+        weight: 1
+      - path: Bone_Root/Bone_Pelvis/Bone_Tail_01/SC2Physics_Bone_Tail_01
+        weight: 1
+      - path: Bone_Root/Bone_Pelvis/SC2Physics_Bone_Pelvis
+        weight: 1
+      - path: Bone_Root/Bone_Spine
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Chest
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Chest/Bone_Neck_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Chest/Bone_Neck_01/Bone_Neck_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Chest/Bone_Neck_01/Bone_Neck_02/Bone_Head
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Chest/Bone_Neck_01/Bone_Neck_02/Bone_Head/Bone_Jaw
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Chest/Bone_Neck_01/Bone_Neck_02/HitTestFuzzy02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Chest/Bone_Shoulder_Front_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Chest/Bone_Shoulder_Front_L/Bone_Ankle_Front_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Chest/Bone_Shoulder_Front_L/Bone_Ankle_Front_L/Bone_Paw_Front_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Chest/Bone_Shoulder_Front_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Chest/Bone_Shoulder_Front_R/Bone_Ankle_Front_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Chest/Bone_Shoulder_Front_R/Bone_Ankle_Front_R/Bone_Paw_Front_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Chest/HitTestFuzzy05
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Chest/SC2Physics_Bone_Chest
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Ref_Center_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Ref_Center_BoneRef/Ref_Center
+        weight: 1
+      - path: Bone_Root/HitTestFuzzy04
+        weight: 1
+      - path: Bone_Root/HitTestTight
+        weight: 1
+      - path: Bone_Root/Ref_Mount_BoneRef
+        weight: 1
+      - path: Bone_Root/Ref_Mount_BoneRef/Ref_Mount 1
+        weight: 1
+      - path: Bone_Root/SC2Physics_Bone_Root
+        weight: 1
+      - path: Ctrl_Main
+        weight: 1
+      - path: Ctrl_Root
+        weight: 1
+      - path: Mesh 1
+        weight: 1
+      - path: Mesh_Direwolf_Body
+        weight: 1
+      - path: Mesh_Direwolf_Gear
+        weight: 1
+      - path: Mesh_Rank15_01_Body
+        weight: 1
+      - path: Ref_Mount
+        weight: 1
+      - path: Ref_Origin_BoneRef
+        weight: 1
+      - path: Ref_Origin_BoneRef/Ref_Origin
+        weight: 1
+      - path: Ref_Overhead_BoneRef
+        weight: 1
+      - path: Ref_Overhead_BoneRef/Ref_Overhead
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

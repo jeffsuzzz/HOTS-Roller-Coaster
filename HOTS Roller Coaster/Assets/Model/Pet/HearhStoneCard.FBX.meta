@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: 9984837c18fe5fc41bc5edf11f597b25
+timeCreated: 1498202324
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone_Back
+    100002: Bone_Back_L
+    100004: Bone_Back_R
+    100006: Bone_Front
+    100008: Bone_Front_L
+    100010: Bone_Front_R
+    100012: Bone_Root
+    100014: Bone_Side_L
+    100016: Bone_Side_R
+    100018: Ctrl_Main
+    100020: Ctrl_Root
+    100022: Glow
+    100024: //RootNode
+    100026: HitTestFuzzy
+    100028: HitTestTight
+    100030: Mesh 1
+    100032: Ref_Center
+    100034: Ref_Center_BoneRef
+    100036: Ref_Mount
+    100038: Ref_Mount_BoneRef
+    100040: Ref_Origin
+    100042: Ref_Origin_BoneRef
+    100044: Ref_Overhead
+    100046: Ref_Overhead_BoneRef
+    100048: SC2Particles003
+    100050: SC2Physics_Bone_Root
+    100052: Storm_Mount_ HearthstoneCard_base
+    400000: Bone_Back
+    400002: Bone_Back_L
+    400004: Bone_Back_R
+    400006: Bone_Front
+    400008: Bone_Front_L
+    400010: Bone_Front_R
+    400012: Bone_Root
+    400014: Bone_Side_L
+    400016: Bone_Side_R
+    400018: Ctrl_Main
+    400020: Ctrl_Root
+    400022: Glow
+    400024: //RootNode
+    400026: HitTestFuzzy
+    400028: HitTestTight
+    400030: Mesh 1
+    400032: Ref_Center
+    400034: Ref_Center_BoneRef
+    400036: Ref_Mount
+    400038: Ref_Mount_BoneRef
+    400040: Ref_Origin
+    400042: Ref_Origin_BoneRef
+    400044: Ref_Overhead
+    400046: Ref_Overhead_BoneRef
+    400048: SC2Particles003
+    400050: SC2Physics_Bone_Root
+    400052: Storm_Mount_ HearthstoneCard_base
+    4300000: Mesh 1
+    9500000: //RootNode
+    13700000: Mesh 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: f99ce27142e4d144cbe9d48a919331b4
+timeCreated: 1498202323
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone_Back
+    100002: Bone_Back_L
+    100004: Bone_Back_R
+    100006: Bone_Front
+    100008: Bone_Front_L
+    100010: Bone_Front_R
+    100012: Bone_Root
+    100014: Bone_Side_L
+    100016: Bone_Side_R
+    100018: Ctrl_Main
+    100020: Ctrl_Root
+    100022: DummyRibbon
+    100024: FX_Stars
+    100026: Glow
+    100028: //RootNode
+    100030: HitTestFuzzy
+    100032: HitTestTight
+    100034: Mesh 1
+    100036: Ref_Center
+    100038: Ref_Center 1
+    100040: Ref_Center_BoneRef
+    100042: Ref_Mount
+    100044: Ref_Mount 1
+    100046: Ref_Mount_BoneRef
+    100048: Ref_Origin
+    100050: Ref_Origin 1
+    100052: Ref_Origin_BoneRef
+    100054: Ref_Overhead
+    100056: Ref_Overhead 1
+    100058: Ref_Overhead_BoneRef
+    100060: SC2Particles003
+    100062: SC2Physics_Bone_Root
+    100064: SC2Ribbon_MainTrail
+    100066: SC2Ribbon_StarTrail
+    100068: Storm_Mount_ HearthstoneCard_base
+    400000: Bone_Back
+    400002: Bone_Back_L
+    400004: Bone_Back_R
+    400006: Bone_Front
+    400008: Bone_Front_L
+    400010: Bone_Front_R
+    400012: Bone_Root
+    400014: Bone_Side_L
+    400016: Bone_Side_R
+    400018: Ctrl_Main
+    400020: Ctrl_Root
+    400022: DummyRibbon
+    400024: FX_Stars
+    400026: Glow
+    400028: //RootNode
+    400030: HitTestFuzzy
+    400032: HitTestTight
+    400034: Mesh 1
+    400036: Ref_Center
+    400038: Ref_Center 1
+    400040: Ref_Center_BoneRef
+    400042: Ref_Mount
+    400044: Ref_Mount 1
+    400046: Ref_Mount_BoneRef
+    400048: Ref_Origin
+    400050: Ref_Origin 1
+    400052: Ref_Origin_BoneRef
+    400054: Ref_Overhead
+    400056: Ref_Overhead 1
+    400058: Ref_Overhead_BoneRef
+    400060: SC2Particles003
+    400062: SC2Physics_Bone_Root
+    400064: SC2Ribbon_MainTrail
+    400066: SC2Ribbon_StarTrail
+    400068: Storm_Mount_ HearthstoneCard_base
+    4300000: Mesh 1
+    7400000: Stand
+    7400002: Walk
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Mesh 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Stand
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 130
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Ctrl_Main
+        weight: 1
+      - path: Ctrl_Main/Ctrl_Root
+        weight: 1
+      - path: Ctrl_Main/Ctrl_Root/Bone_Root
+        weight: 1
+      - path: Ctrl_Main/Ctrl_Root/Bone_Root/Bone_Back
+        weight: 1
+      - path: Ctrl_Main/Ctrl_Root/Bone_Root/Bone_Back/Bone_Back_L
+        weight: 1
+      - path: Ctrl_Main/Ctrl_Root/Bone_Root/Bone_Back/Bone_Back_R
+        weight: 1
+      - path: Ctrl_Main/Ctrl_Root/Bone_Root/Bone_Front
+        weight: 1
+      - path: Ctrl_Main/Ctrl_Root/Bone_Root/Bone_Front/Bone_Front_L
+        weight: 1
+      - path: Ctrl_Main/Ctrl_Root/Bone_Root/Bone_Front/Bone_Front_R
+        weight: 1
+      - path: Ctrl_Main/Ctrl_Root/Bone_Root/Bone_Side_L
+        weight: 1
+      - path: Ctrl_Main/Ctrl_Root/Bone_Root/Bone_Side_R
+        weight: 1
+      - path: Ctrl_Main/Ctrl_Root/Bone_Root/HitTestFuzzy
+        weight: 1
+      - path: Ctrl_Main/Ctrl_Root/Bone_Root/HitTestTight
+        weight: 1
+      - path: Ctrl_Main/Ctrl_Root/Bone_Root/Ref_Center_BoneRef
+        weight: 1
+      - path: Ctrl_Main/Ctrl_Root/Bone_Root/Ref_Center_BoneRef/Ref_Center 1
+        weight: 1
+      - path: Ctrl_Main/Ctrl_Root/Bone_Root/Ref_Mount_BoneRef
+        weight: 1
+      - path: Ctrl_Main/Ctrl_Root/Bone_Root/Ref_Mount_BoneRef/Ref_Mount 1
+        weight: 1
+      - path: Ctrl_Main/Ctrl_Root/Bone_Root/SC2Physics_Bone_Root
+        weight: 1
+      - path: DummyRibbon
+        weight: 1
+      - path: FX_Stars
+        weight: 1
+      - path: Glow
+        weight: 1
+      - path: Mesh 1
+        weight: 1
+      - path: Ref_Center
+        weight: 1
+      - path: Ref_Mount
+        weight: 1
+      - path: Ref_Origin
+        weight: 1
+      - path: Ref_Origin_BoneRef
+        weight: 1
+      - path: Ref_Origin_BoneRef/Ref_Origin 1
+        weight: 1
+      - path: Ref_Overhead
+        weight: 1
+      - path: Ref_Overhead_BoneRef
+        weight: 1
+      - path: Ref_Overhead_BoneRef/Ref_Overhead 1
+        weight: 1
+      - path: SC2Particles003
+        weight: 1
+      - path: SC2Ribbon_MainTrail
+        weight: 1
+      - path: SC2Ribbon_StarTrail
+        weight: 1
+      - path: Storm_Mount_ HearthstoneCard_base
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 230
+      lastFrame: 260
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Ctrl_Main
+        weight: 1
+      - path: Ctrl_Main/Ctrl_Root
+        weight: 1
+      - path: Ctrl_Main/Ctrl_Root/Bone_Root
+        weight: 1
+      - path: Ctrl_Main/Ctrl_Root/Bone_Root/Bone_Back
+        weight: 1
+      - path: Ctrl_Main/Ctrl_Root/Bone_Root/Bone_Back/Bone_Back_L
+        weight: 1
+      - path: Ctrl_Main/Ctrl_Root/Bone_Root/Bone_Back/Bone_Back_R
+        weight: 1
+      - path: Ctrl_Main/Ctrl_Root/Bone_Root/Bone_Front
+        weight: 1
+      - path: Ctrl_Main/Ctrl_Root/Bone_Root/Bone_Front/Bone_Front_L
+        weight: 1
+      - path: Ctrl_Main/Ctrl_Root/Bone_Root/Bone_Front/Bone_Front_R
+        weight: 1
+      - path: Ctrl_Main/Ctrl_Root/Bone_Root/Bone_Side_L
+        weight: 1
+      - path: Ctrl_Main/Ctrl_Root/Bone_Root/Bone_Side_R
+        weight: 1
+      - path: Ctrl_Main/Ctrl_Root/Bone_Root/HitTestFuzzy
+        weight: 1
+      - path: Ctrl_Main/Ctrl_Root/Bone_Root/HitTestTight
+        weight: 1
+      - path: Ctrl_Main/Ctrl_Root/Bone_Root/Ref_Center_BoneRef
+        weight: 1
+      - path: Ctrl_Main/Ctrl_Root/Bone_Root/Ref_Center_BoneRef/Ref_Center 1
+        weight: 1
+      - path: Ctrl_Main/Ctrl_Root/Bone_Root/Ref_Mount_BoneRef
+        weight: 1
+      - path: Ctrl_Main/Ctrl_Root/Bone_Root/Ref_Mount_BoneRef/Ref_Mount 1
+        weight: 1
+      - path: Ctrl_Main/Ctrl_Root/Bone_Root/SC2Physics_Bone_Root
+        weight: 1
+      - path: DummyRibbon
+        weight: 1
+      - path: FX_Stars
+        weight: 1
+      - path: Glow
+        weight: 1
+      - path: Mesh 1
+        weight: 1
+      - path: Ref_Center
+        weight: 1
+      - path: Ref_Mount
+        weight: 1
+      - path: Ref_Origin
+        weight: 1
+      - path: Ref_Origin_BoneRef
+        weight: 1
+      - path: Ref_Origin_BoneRef/Ref_Origin 1
+        weight: 1
+      - path: Ref_Overhead
+        weight: 1
+      - path: Ref_Overhead_BoneRef
+        weight: 1
+      - path: Ref_Overhead_BoneRef/Ref_Overhead 1
+        weight: 1
+      - path: SC2Particles003
+        weight: 1
+      - path: SC2Ribbon_MainTrail
+        weight: 1
+      - path: SC2Ribbon_StarTrail
+        weight: 1
+      - path: Storm_Mount_ HearthstoneCard_base
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,418 @@
+fileFormatVersion: 2
+guid: a7da6bee2c3ee104e9ae5811ed0c154c
+timeCreated: 1498294712
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone_Antenna_L
+    100002: Bone_Antenna_R
+    100004: Bone_Arm_Jiggle_L
+    100006: Bone_Arm_Jiggle_R
+    100008: Bone_Arm_L
+    100010: Bone_Arm_R
+    100012: Bone_ArmFingerA_L
+    100014: Bone_ArmFingerA_L_01
+    100016: Bone_ArmFingerA_R
+    100018: Bone_ArmFingerA_R_01
+    100020: Bone_ArmFore_Jiggle_Lower_L
+    100022: Bone_ArmFore_Jiggle_Lower_R
+    100024: Bone_ArmFore_Jiggle_Upper_L
+    100026: Bone_ArmFore_Jiggle_Upper_R
+    100028: Bone_ArmFore_L
+    100030: Bone_ArmFore_R
+    100032: Bone_ArmHand_L
+    100034: Bone_ArmHand_R
+    100036: Bone_ArmThumb_L
+    100038: Bone_ArmThumb_L_01
+    100040: Bone_ArmThumb_R
+    100042: Bone_ArmThumb_R_01
+    100044: Bone_Base
+    100046: Bone_Base_Lid
+    100048: Bone_Belly
+    100050: Bone_Braid_L
+    100052: Bone_Braid_R
+    100054: Bone_Chest
+    100056: Bone_Cloth_Lower_Back_L
+    100058: Bone_Cloth_Lower_Back_R
+    100060: Bone_Cloth_Lower_Back_R_01
+    100062: Bone_Cloth_Lower_Center_L
+    100064: Bone_Cloth_Lower_Center_R
+    100066: Bone_Cloth_Lower_Front
+    100068: Bone_Cloth_Mid_Back_L
+    100070: Bone_Cloth_Mid_Back_R
+    100072: Bone_Cloth_Mid_Center_L
+    100074: Bone_Cloth_Mid_Center_R
+    100076: Bone_Cloth_Upper_Back_L
+    100078: Bone_Cloth_Upper_Back_R
+    100080: Bone_Cloth_Upper_Center_L
+    100082: Bone_Cloth_Upper_Center_R
+    100084: Bone_Cloth_Upper_Front
+    100086: Bone_Head
+    100088: Bone_Hip
+    100090: Bone_Neck
+    100092: Bone_Root
+    100094: Bone_Spine
+    100096: Bone_Staff
+    100098: Bone_Tassel_L
+    100100: Bone_Tassel_L_01
+    100102: Bone_Tassel_L_02
+    100104: Bone_Tassel_L_03
+    100106: Bone_Tassel_R
+    100108: Bone_Tassel_R_01
+    100110: Bone_Tassel_R_02
+    100112: Bone_Tassel_R_03
+    100114: //RootNode
+    100116: FX_Ethereal30_WellParticles
+    100118: FX_Ethereal48_WellSkirt
+    100120: FX_Mesh_Well
+    100122: HitTestFuzzy
+    100124: HitTestFuzzy01
+    100126: HitTestFuzzy02
+    100128: HitTestFuzzy03
+    100130: HitTestFuzzy04
+    100132: HitTestTight
+    100134: Mesh 1
+    100136: Mesh 2
+    100138: Object036
+    100140: Ref_Center
+    100142: Ref_Center_BoneRef
+    100144: Ref_Origin
+    100146: Ref_Origin_BoneRef
+    100148: Ref_Overhead
+    100150: Ref_Overhead_BoneRef
+    100152: Ref_Target
+    100154: Vol_Target_BoneRef
+    400000: Bone_Antenna_L
+    400002: Bone_Antenna_R
+    400004: Bone_Arm_Jiggle_L
+    400006: Bone_Arm_Jiggle_R
+    400008: Bone_Arm_L
+    400010: Bone_Arm_R
+    400012: Bone_ArmFingerA_L
+    400014: Bone_ArmFingerA_L_01
+    400016: Bone_ArmFingerA_R
+    400018: Bone_ArmFingerA_R_01
+    400020: Bone_ArmFore_Jiggle_Lower_L
+    400022: Bone_ArmFore_Jiggle_Lower_R
+    400024: Bone_ArmFore_Jiggle_Upper_L
+    400026: Bone_ArmFore_Jiggle_Upper_R
+    400028: Bone_ArmFore_L
+    400030: Bone_ArmFore_R
+    400032: Bone_ArmHand_L
+    400034: Bone_ArmHand_R
+    400036: Bone_ArmThumb_L
+    400038: Bone_ArmThumb_L_01
+    400040: Bone_ArmThumb_R
+    400042: Bone_ArmThumb_R_01
+    400044: Bone_Base
+    400046: Bone_Base_Lid
+    400048: Bone_Belly
+    400050: Bone_Braid_L
+    400052: Bone_Braid_R
+    400054: Bone_Chest
+    400056: Bone_Cloth_Lower_Back_L
+    400058: Bone_Cloth_Lower_Back_R
+    400060: Bone_Cloth_Lower_Back_R_01
+    400062: Bone_Cloth_Lower_Center_L
+    400064: Bone_Cloth_Lower_Center_R
+    400066: Bone_Cloth_Lower_Front
+    400068: Bone_Cloth_Mid_Back_L
+    400070: Bone_Cloth_Mid_Back_R
+    400072: Bone_Cloth_Mid_Center_L
+    400074: Bone_Cloth_Mid_Center_R
+    400076: Bone_Cloth_Upper_Back_L
+    400078: Bone_Cloth_Upper_Back_R
+    400080: Bone_Cloth_Upper_Center_L
+    400082: Bone_Cloth_Upper_Center_R
+    400084: Bone_Cloth_Upper_Front
+    400086: Bone_Head
+    400088: Bone_Hip
+    400090: Bone_Neck
+    400092: Bone_Root
+    400094: Bone_Spine
+    400096: Bone_Staff
+    400098: Bone_Tassel_L
+    400100: Bone_Tassel_L_01
+    400102: Bone_Tassel_L_02
+    400104: Bone_Tassel_L_03
+    400106: Bone_Tassel_R
+    400108: Bone_Tassel_R_01
+    400110: Bone_Tassel_R_02
+    400112: Bone_Tassel_R_03
+    400114: //RootNode
+    400116: FX_Ethereal30_WellParticles
+    400118: FX_Ethereal48_WellSkirt
+    400120: FX_Mesh_Well
+    400122: HitTestFuzzy
+    400124: HitTestFuzzy01
+    400126: HitTestFuzzy02
+    400128: HitTestFuzzy03
+    400130: HitTestFuzzy04
+    400132: HitTestTight
+    400134: Mesh 1
+    400136: Mesh 2
+    400138: Object036
+    400140: Ref_Center
+    400142: Ref_Center_BoneRef
+    400144: Ref_Origin
+    400146: Ref_Origin_BoneRef
+    400148: Ref_Overhead
+    400150: Ref_Overhead_BoneRef
+    400152: Ref_Target
+    400154: Vol_Target_BoneRef
+    4300000: Mesh 1
+    4300002: Mesh 2
+    7400000: Stand
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Mesh 1
+    13700002: Mesh 2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Stand
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 449
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone_Base
+        weight: 1
+      - path: Bone_Base/Bone_Base_Lid
+        weight: 1
+      - path: Bone_Base/Bone_Root
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Belly
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Belly/Bone_Spine
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Belly/Bone_Spine/Bone_Chest
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Belly/Bone_Spine/Bone_Chest/Bone_Arm_L
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Belly/Bone_Spine/Bone_Chest/Bone_Arm_L/Bone_Arm_Jiggle_L
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Belly/Bone_Spine/Bone_Chest/Bone_Arm_L/Bone_ArmFore_L
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Belly/Bone_Spine/Bone_Chest/Bone_Arm_L/Bone_ArmFore_L/Bone_ArmFore_Jiggle_Lower_L
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Belly/Bone_Spine/Bone_Chest/Bone_Arm_L/Bone_ArmFore_L/Bone_ArmFore_Jiggle_Upper_L
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Belly/Bone_Spine/Bone_Chest/Bone_Arm_L/Bone_ArmFore_L/Bone_ArmHand_L
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Belly/Bone_Spine/Bone_Chest/Bone_Arm_L/Bone_ArmFore_L/Bone_ArmHand_L/Bone_ArmFingerA_L
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Belly/Bone_Spine/Bone_Chest/Bone_Arm_L/Bone_ArmFore_L/Bone_ArmHand_L/Bone_ArmFingerA_L/Bone_ArmFingerA_L_01
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Belly/Bone_Spine/Bone_Chest/Bone_Arm_L/Bone_ArmFore_L/Bone_ArmHand_L/Bone_ArmThumb_L
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Belly/Bone_Spine/Bone_Chest/Bone_Arm_L/Bone_ArmFore_L/Bone_ArmHand_L/Bone_ArmThumb_L/Bone_ArmThumb_L_01
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Belly/Bone_Spine/Bone_Chest/Bone_Arm_R
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Belly/Bone_Spine/Bone_Chest/Bone_Arm_R/Bone_Arm_Jiggle_R
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Belly/Bone_Spine/Bone_Chest/Bone_Arm_R/Bone_ArmFore_R
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Belly/Bone_Spine/Bone_Chest/Bone_Arm_R/Bone_ArmFore_R/Bone_ArmFore_Jiggle_Lower_R
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Belly/Bone_Spine/Bone_Chest/Bone_Arm_R/Bone_ArmFore_R/Bone_ArmFore_Jiggle_Upper_R
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Belly/Bone_Spine/Bone_Chest/Bone_Arm_R/Bone_ArmFore_R/Bone_ArmHand_R
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Belly/Bone_Spine/Bone_Chest/Bone_Arm_R/Bone_ArmFore_R/Bone_ArmHand_R/Bone_ArmFingerA_R
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Belly/Bone_Spine/Bone_Chest/Bone_Arm_R/Bone_ArmFore_R/Bone_ArmHand_R/Bone_ArmFingerA_R/Bone_ArmFingerA_R_01
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Belly/Bone_Spine/Bone_Chest/Bone_Arm_R/Bone_ArmFore_R/Bone_ArmHand_R/Bone_ArmThumb_R
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Belly/Bone_Spine/Bone_Chest/Bone_Arm_R/Bone_ArmFore_R/Bone_ArmHand_R/Bone_ArmThumb_R/Bone_ArmThumb_R_01
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Belly/Bone_Spine/Bone_Chest/Bone_Neck
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Belly/Bone_Spine/Bone_Chest/Bone_Neck/Bone_Head
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Belly/Bone_Spine/Bone_Chest/Bone_Neck/Bone_Head/Bone_Antenna_L
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Belly/Bone_Spine/Bone_Chest/Bone_Neck/Bone_Head/Bone_Antenna_L/Bone_Braid_L
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Belly/Bone_Spine/Bone_Chest/Bone_Neck/Bone_Head/Bone_Antenna_R
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Belly/Bone_Spine/Bone_Chest/Bone_Neck/Bone_Head/Bone_Antenna_R/Bone_Braid_R
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Belly/Bone_Spine/Bone_Chest/Bone_Neck/Bone_Head/HitTestFuzzy01
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Belly/Bone_Spine/Bone_Chest/Bone_Tassel_L
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Belly/Bone_Spine/Bone_Chest/Bone_Tassel_L/Bone_Tassel_L_01
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Belly/Bone_Spine/Bone_Chest/Bone_Tassel_L/Bone_Tassel_L_01/Bone_Tassel_L_02
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Belly/Bone_Spine/Bone_Chest/Bone_Tassel_L/Bone_Tassel_L_01/Bone_Tassel_L_02/Bone_Tassel_L_03
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Belly/Bone_Spine/Bone_Chest/Bone_Tassel_R
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Belly/Bone_Spine/Bone_Chest/Bone_Tassel_R/Bone_Tassel_R_01
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Belly/Bone_Spine/Bone_Chest/Bone_Tassel_R/Bone_Tassel_R_01/Bone_Tassel_R_02
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Belly/Bone_Spine/Bone_Chest/Bone_Tassel_R/Bone_Tassel_R_01/Bone_Tassel_R_02/Bone_Tassel_R_03
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Hip
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Hip/Bone_Cloth_Upper_Back_L
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Hip/Bone_Cloth_Upper_Back_L/Bone_Cloth_Mid_Back_L
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Hip/Bone_Cloth_Upper_Back_L/Bone_Cloth_Mid_Back_L/Bone_Cloth_Lower_Back_L
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Hip/Bone_Cloth_Upper_Back_R
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Hip/Bone_Cloth_Upper_Back_R/Bone_Cloth_Mid_Back_R
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Hip/Bone_Cloth_Upper_Back_R/Bone_Cloth_Mid_Back_R/Bone_Cloth_Lower_Back_R
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Hip/Bone_Cloth_Upper_Back_R/Bone_Cloth_Mid_Back_R/Bone_Cloth_Lower_Back_R/Bone_Cloth_Lower_Back_R_01
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Hip/Bone_Cloth_Upper_Center_L
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Hip/Bone_Cloth_Upper_Center_L/Bone_Cloth_Mid_Center_L
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Hip/Bone_Cloth_Upper_Center_L/Bone_Cloth_Mid_Center_L/Bone_Cloth_Lower_Center_L
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Hip/Bone_Cloth_Upper_Center_R
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Hip/Bone_Cloth_Upper_Center_R/Bone_Cloth_Mid_Center_R
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Hip/Bone_Cloth_Upper_Center_R/Bone_Cloth_Mid_Center_R/Bone_Cloth_Lower_Center_R
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Hip/Bone_Cloth_Upper_Front
+        weight: 1
+      - path: Bone_Base/Bone_Root/Bone_Hip/Bone_Cloth_Upper_Front/Bone_Cloth_Lower_Front
+        weight: 1
+      - path: Bone_Base/Bone_Root/HitTestFuzzy
+        weight: 1
+      - path: Bone_Staff
+        weight: 1
+      - path: Bone_Staff/HitTestFuzzy02
+        weight: 1
+      - path: Bone_Staff/HitTestFuzzy04
+        weight: 1
+      - path: FX_Ethereal30_WellParticles
+        weight: 1
+      - path: FX_Ethereal48_WellSkirt
+        weight: 1
+      - path: FX_Mesh_Well
+        weight: 1
+      - path: HitTestFuzzy03
+        weight: 1
+      - path: HitTestTight
+        weight: 1
+      - path: Mesh 1
+        weight: 1
+      - path: Mesh 2
+        weight: 1
+      - path: Object036
+        weight: 1
+      - path: Ref_Center_BoneRef
+        weight: 1
+      - path: Ref_Center_BoneRef/Ref_Center
+        weight: 1
+      - path: Ref_Origin_BoneRef
+        weight: 1
+      - path: Ref_Origin_BoneRef/Ref_Origin
+        weight: 1
+      - path: Ref_Overhead_BoneRef
+        weight: 1
+      - path: Ref_Overhead_BoneRef/Ref_Overhead
+        weight: 1
+      - path: Vol_Target_BoneRef
+        weight: 1
+      - path: Vol_Target_BoneRef/Ref_Target
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

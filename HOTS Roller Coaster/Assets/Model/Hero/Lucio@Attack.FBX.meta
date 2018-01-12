@@ -1,0 +1,3940 @@
+fileFormatVersion: 2
+guid: bd7255aa967acd44881fe3b20379b7f6
+timeCreated: 1498284508
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ArmTube
+    100002: Bone_Arm_Clav_L
+    100004: Bone_Arm_Clav_R
+    100006: Bone_Arm_Hand_L
+    100008: Bone_Arm_Hand_R
+    100010: Bone_Arm_Lower_L
+    100012: Bone_Arm_Lower_R
+    100014: Bone_Arm_Upper_L
+    100016: Bone_Arm_Upper_R
+    100018: Bone_ArmFingerA_Lower_L
+    100020: Bone_ArmFingerA_Upper_L
+    100022: Bone_ArmFingerB_Lower_L
+    100024: Bone_ArmFingerB_Upper_L
+    100026: Bone_ArmFingerC_Lower_L
+    100028: Bone_ArmFingerC_Upper_L
+    100030: Bone_ArmFingerD_Lower_L
+    100032: Bone_ArmFingerD_Upper_L
+    100034: Bone_ArmThumb_Lower_L
+    100036: Bone_ArmThumb_Upper_L
+    100038: Bone_Backpack
+    100040: Bone_Backpack_ColorA
+    100042: Bone_Backpack_ColorB
+    100044: Bone_Cheek_L
+    100046: Bone_Cheek_R
+    100048: Bone_DreadCenter_01
+    100050: Bone_DreadCenter_02
+    100052: Bone_DreadLeft_01
+    100054: Bone_DreadLeft_02
+    100056: Bone_DreadRight_01
+    100058: Bone_DreadRight_02
+    100060: Bone_Eye_L
+    100062: Bone_Eye_R
+    100064: Bone_EyebrowA_L
+    100066: Bone_EyebrowA_R
+    100068: Bone_EyebrowB_L
+    100070: Bone_EyebrowB_R
+    100072: Bone_EyeLid_Lower_L
+    100074: Bone_EyeLid_Lower_R
+    100076: Bone_EyeLid_Upper_L
+    100078: Bone_EyeLid_Upper_R
+    100080: Bone_EyeLidsParent
+    100082: Bone_Head
+    100084: Bone_Hip
+    100086: Bone_Jaw
+    100088: Bone_Leg_Calf_L
+    100090: Bone_Leg_Calf_R
+    100092: Bone_Leg_Calf_Stretch_L
+    100094: Bone_Leg_Calf_Stretch_R
+    100096: Bone_Leg_Foot_Blades_ColorA_L
+    100098: Bone_Leg_Foot_Blades_ColorA_R
+    100100: Bone_Leg_Foot_Blades_ColorB_L
+    100102: Bone_Leg_Foot_Blades_ColorB_R
+    100104: Bone_Leg_Foot_L
+    100106: Bone_Leg_Foot_R
+    100108: Bone_Leg_KneeCap_L
+    100110: Bone_Leg_KneeCap_R
+    100112: Bone_Leg_Thigh_Flap_L
+    100114: Bone_Leg_Thigh_Flap_R
+    100116: Bone_Leg_Thigh_L
+    100118: Bone_Leg_Thigh_R
+    100120: Bone_Leg_Thigh_Stretch_L
+    100122: Bone_Leg_Thigh_Stretch_R
+    100124: Bone_MainDread_01
+    100126: Bone_MainDread_02
+    100128: Bone_Mouth_Lower
+    100130: Bone_Mouth_Lower_L
+    100132: Bone_Mouth_Lower_R
+    100134: Bone_Mouth_Upper
+    100136: Bone_Mouth_Upper_L
+    100138: Bone_Mouth_Upper_R
+    100140: Bone_MouthCorner_L
+    100142: Bone_MouthCorner_R
+    100144: Bone_Neck
+    100146: Bone_NoseTip
+    100148: Bone_Nostril_L
+    100150: Bone_Nostril_R
+    100152: Bone_Overhead
+    100154: Bone_Root
+    100156: Bone_Spine
+    100158: Bone_Torso
+    100160: Bone_Waist_Tubes
+    100162: Bone_Weapon
+    100164: Bone_Weapon_Cone
+    100166: Engine_Objects
+    100168: Geo_Final
+    100170: Glasses
+    100172: Grp_Lucio_Base_Geo
+    100174: HitTestFuzzy
+    100176: HitTestFuzzy_Calf_L
+    100178: HitTestFuzzy_Calf_R
+    100180: HitTestFuzzy_Forearm_L
+    100182: HitTestFuzzy_Forearm_R
+    100184: HitTestFuzzy_Weapon
+    100186: HitTestTight
+    100188: //RootNode
+    100190: Mesh 1
+    100192: Mesh 2
+    100194: Mesh 3
+    100196: Mesh_Lucio_Base_Body_Combined
+    100198: Mesh_Lucio_Base_Glasses
+    100200: Ref_Back
+    100202: Ref_Back_BoneRef
+    100204: Ref_Center
+    100206: Ref_Center_BoneRef
+    100208: Ref_Chest
+    100210: Ref_Chest_BoneRef
+    100212: Ref_Face
+    100214: Ref_Face_BoneRef
+    100216: Ref_Foot Left
+    100218: Ref_Foot Left 1
+    100220: Ref_Foot Left_BoneRef
+    100222: Ref_Foot Right
+    100224: Ref_Foot Right 1
+    100226: Ref_Foot Right_BoneRef
+    100228: Ref_Forearm Left
+    100230: Ref_Forearm Left_BoneRef
+    100232: Ref_Forearm Right
+    100234: Ref_Forearm Right_BoneRef
+    100236: Ref_Hand Left
+    100238: Ref_Hand Left_BoneRef
+    100240: Ref_Hand Right
+    100242: Ref_Hand Right_BoneRef
+    100244: Ref_Haven
+    100246: Ref_Head
+    100248: Ref_Head Top
+    100250: Ref_Head Top_BoneRef
+    100252: Ref_Head_BoneRef
+    100254: Ref_Knee Left
+    100256: Ref_Knee Left_BoneRef
+    100258: Ref_Knee Right
+    100260: Ref_Knee Right_BoneRef
+    100262: Ref_Lip Upper
+    100264: Ref_Lip Upper_BoneRef
+    100266: Ref_MacGuffin
+    100268: Ref_MacGuffin_BoneRef
+    100270: Ref_Origin
+    100272: Ref_Origin_BoneRef
+    100274: Ref_Overhead
+    100276: Ref_Overhead_BoneRef
+    100278: Ref_Shield
+    100280: Ref_Shoulder Left
+    100282: Ref_Shoulder Left_BoneRef
+    100284: Ref_Shoulder Right
+    100286: Ref_Shoulder Right_BoneRef
+    100288: Ref_Target
+    100290: Ref_Waist Back
+    100292: Ref_Waist Back_BoneRef
+    100294: Ref_Waist Front
+    100296: Ref_Waist Front_BoneRef
+    100298: Ref_Waist Left
+    100300: Ref_Waist Left_BoneRef
+    100302: Ref_Waist Right
+    100304: Ref_Waist Right_BoneRef
+    100306: Ref_Weapon
+    100308: Ref_Weapon_BoneRef
+    100310: SC2Physics_Bone_Arm_Upper_L
+    100312: SC2Physics_Bone_Arm_Upper_R
+    100314: SC2Physics_Bone_DreadCenter_01
+    100316: SC2Physics_Bone_DreadCenter_02
+    100318: SC2Physics_Bone_DreadLeft_01
+    100320: SC2Physics_Bone_DreadLeft_02
+    100322: SC2Physics_Bone_DreadRight_01
+    100324: SC2Physics_Bone_DreadRight_02
+    100326: SC2Physics_Bone_Head
+    100328: SC2Physics_Bone_Leg_Calf_L
+    100330: SC2Physics_Bone_Leg_Calf_R
+    100332: SC2Physics_Bone_MainDread_01
+    100334: SC2Physics_Bone_MainDread_02
+    100336: SC2Physics_Bone_Torso
+    100338: Vol_Shield_BoneRef
+    100340: Vol_Target_BoneRef
+    400000: ArmTube
+    400002: Bone_Arm_Clav_L
+    400004: Bone_Arm_Clav_R
+    400006: Bone_Arm_Hand_L
+    400008: Bone_Arm_Hand_R
+    400010: Bone_Arm_Lower_L
+    400012: Bone_Arm_Lower_R
+    400014: Bone_Arm_Upper_L
+    400016: Bone_Arm_Upper_R
+    400018: Bone_ArmFingerA_Lower_L
+    400020: Bone_ArmFingerA_Upper_L
+    400022: Bone_ArmFingerB_Lower_L
+    400024: Bone_ArmFingerB_Upper_L
+    400026: Bone_ArmFingerC_Lower_L
+    400028: Bone_ArmFingerC_Upper_L
+    400030: Bone_ArmFingerD_Lower_L
+    400032: Bone_ArmFingerD_Upper_L
+    400034: Bone_ArmThumb_Lower_L
+    400036: Bone_ArmThumb_Upper_L
+    400038: Bone_Backpack
+    400040: Bone_Backpack_ColorA
+    400042: Bone_Backpack_ColorB
+    400044: Bone_Cheek_L
+    400046: Bone_Cheek_R
+    400048: Bone_DreadCenter_01
+    400050: Bone_DreadCenter_02
+    400052: Bone_DreadLeft_01
+    400054: Bone_DreadLeft_02
+    400056: Bone_DreadRight_01
+    400058: Bone_DreadRight_02
+    400060: Bone_Eye_L
+    400062: Bone_Eye_R
+    400064: Bone_EyebrowA_L
+    400066: Bone_EyebrowA_R
+    400068: Bone_EyebrowB_L
+    400070: Bone_EyebrowB_R
+    400072: Bone_EyeLid_Lower_L
+    400074: Bone_EyeLid_Lower_R
+    400076: Bone_EyeLid_Upper_L
+    400078: Bone_EyeLid_Upper_R
+    400080: Bone_EyeLidsParent
+    400082: Bone_Head
+    400084: Bone_Hip
+    400086: Bone_Jaw
+    400088: Bone_Leg_Calf_L
+    400090: Bone_Leg_Calf_R
+    400092: Bone_Leg_Calf_Stretch_L
+    400094: Bone_Leg_Calf_Stretch_R
+    400096: Bone_Leg_Foot_Blades_ColorA_L
+    400098: Bone_Leg_Foot_Blades_ColorA_R
+    400100: Bone_Leg_Foot_Blades_ColorB_L
+    400102: Bone_Leg_Foot_Blades_ColorB_R
+    400104: Bone_Leg_Foot_L
+    400106: Bone_Leg_Foot_R
+    400108: Bone_Leg_KneeCap_L
+    400110: Bone_Leg_KneeCap_R
+    400112: Bone_Leg_Thigh_Flap_L
+    400114: Bone_Leg_Thigh_Flap_R
+    400116: Bone_Leg_Thigh_L
+    400118: Bone_Leg_Thigh_R
+    400120: Bone_Leg_Thigh_Stretch_L
+    400122: Bone_Leg_Thigh_Stretch_R
+    400124: Bone_MainDread_01
+    400126: Bone_MainDread_02
+    400128: Bone_Mouth_Lower
+    400130: Bone_Mouth_Lower_L
+    400132: Bone_Mouth_Lower_R
+    400134: Bone_Mouth_Upper
+    400136: Bone_Mouth_Upper_L
+    400138: Bone_Mouth_Upper_R
+    400140: Bone_MouthCorner_L
+    400142: Bone_MouthCorner_R
+    400144: Bone_Neck
+    400146: Bone_NoseTip
+    400148: Bone_Nostril_L
+    400150: Bone_Nostril_R
+    400152: Bone_Overhead
+    400154: Bone_Root
+    400156: Bone_Spine
+    400158: Bone_Torso
+    400160: Bone_Waist_Tubes
+    400162: Bone_Weapon
+    400164: Bone_Weapon_Cone
+    400166: Engine_Objects
+    400168: Geo_Final
+    400170: Glasses
+    400172: Grp_Lucio_Base_Geo
+    400174: HitTestFuzzy
+    400176: HitTestFuzzy_Calf_L
+    400178: HitTestFuzzy_Calf_R
+    400180: HitTestFuzzy_Forearm_L
+    400182: HitTestFuzzy_Forearm_R
+    400184: HitTestFuzzy_Weapon
+    400186: HitTestTight
+    400188: //RootNode
+    400190: Mesh 1
+    400192: Mesh 2
+    400194: Mesh 3
+    400196: Mesh_Lucio_Base_Body_Combined
+    400198: Mesh_Lucio_Base_Glasses
+    400200: Ref_Back
+    400202: Ref_Back_BoneRef
+    400204: Ref_Center
+    400206: Ref_Center_BoneRef
+    400208: Ref_Chest
+    400210: Ref_Chest_BoneRef
+    400212: Ref_Face
+    400214: Ref_Face_BoneRef
+    400216: Ref_Foot Left
+    400218: Ref_Foot Left 1
+    400220: Ref_Foot Left_BoneRef
+    400222: Ref_Foot Right
+    400224: Ref_Foot Right 1
+    400226: Ref_Foot Right_BoneRef
+    400228: Ref_Forearm Left
+    400230: Ref_Forearm Left_BoneRef
+    400232: Ref_Forearm Right
+    400234: Ref_Forearm Right_BoneRef
+    400236: Ref_Hand Left
+    400238: Ref_Hand Left_BoneRef
+    400240: Ref_Hand Right
+    400242: Ref_Hand Right_BoneRef
+    400244: Ref_Haven
+    400246: Ref_Head
+    400248: Ref_Head Top
+    400250: Ref_Head Top_BoneRef
+    400252: Ref_Head_BoneRef
+    400254: Ref_Knee Left
+    400256: Ref_Knee Left_BoneRef
+    400258: Ref_Knee Right
+    400260: Ref_Knee Right_BoneRef
+    400262: Ref_Lip Upper
+    400264: Ref_Lip Upper_BoneRef
+    400266: Ref_MacGuffin
+    400268: Ref_MacGuffin_BoneRef
+    400270: Ref_Origin
+    400272: Ref_Origin_BoneRef
+    400274: Ref_Overhead
+    400276: Ref_Overhead_BoneRef
+    400278: Ref_Shield
+    400280: Ref_Shoulder Left
+    400282: Ref_Shoulder Left_BoneRef
+    400284: Ref_Shoulder Right
+    400286: Ref_Shoulder Right_BoneRef
+    400288: Ref_Target
+    400290: Ref_Waist Back
+    400292: Ref_Waist Back_BoneRef
+    400294: Ref_Waist Front
+    400296: Ref_Waist Front_BoneRef
+    400298: Ref_Waist Left
+    400300: Ref_Waist Left_BoneRef
+    400302: Ref_Waist Right
+    400304: Ref_Waist Right_BoneRef
+    400306: Ref_Weapon
+    400308: Ref_Weapon_BoneRef
+    400310: SC2Physics_Bone_Arm_Upper_L
+    400312: SC2Physics_Bone_Arm_Upper_R
+    400314: SC2Physics_Bone_DreadCenter_01
+    400316: SC2Physics_Bone_DreadCenter_02
+    400318: SC2Physics_Bone_DreadLeft_01
+    400320: SC2Physics_Bone_DreadLeft_02
+    400322: SC2Physics_Bone_DreadRight_01
+    400324: SC2Physics_Bone_DreadRight_02
+    400326: SC2Physics_Bone_Head
+    400328: SC2Physics_Bone_Leg_Calf_L
+    400330: SC2Physics_Bone_Leg_Calf_R
+    400332: SC2Physics_Bone_MainDread_01
+    400334: SC2Physics_Bone_MainDread_02
+    400336: SC2Physics_Bone_Torso
+    400338: Vol_Shield_BoneRef
+    400340: Vol_Target_BoneRef
+    4300000: Mesh 1
+    4300002: Mesh 2
+    4300004: Mesh 3
+    7400000: Attack
+    7400002: Spell_A
+    7400004: Spell_B
+    7400006: Spell_C
+    7400008: Spell_D
+    7400010: Stand_Ready
+    7400012: Walk_A
+    7400014: Walk_Inferior
+    7400016: Walk_Superior
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Mesh 1
+    13700002: Mesh 2
+    13700004: Mesh 3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Attack
+      takeName: Take 001
+      firstFrame: 3928
+      lastFrame: 3973
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ArmTube
+        weight: 1
+      - path: Bone_Overhead
+        weight: 1
+      - path: Bone_Overhead/Ref_Overhead_BoneRef
+        weight: 1
+      - path: Bone_Overhead/Ref_Overhead_BoneRef/Ref_Overhead
+        weight: 1
+      - path: Bone_Root
+        weight: 1
+      - path: Bone_Root/Bone_Hip
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Calf_Stretch_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L/Bone_Leg_Foot_Blades_ColorA_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L/Bone_Leg_Foot_Blades_ColorB_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L/Ref_Foot
+          Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L/Ref_Foot
+          Left_BoneRef/Ref_Foot Left 1
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/HitTestFuzzy_Calf_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/SC2Physics_Bone_Leg_Calf_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_KneeCap_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_KneeCap_L/Ref_Knee Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_KneeCap_L/Ref_Knee Left_BoneRef/Ref_Knee
+          Left
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Thigh_Flap_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Thigh_Stretch_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Calf_Stretch_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R/Bone_Leg_Foot_Blades_ColorA_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R/Bone_Leg_Foot_Blades_ColorB_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R/Ref_Foot
+          Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R/Ref_Foot
+          Right_BoneRef/Ref_Foot Right 1
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/HitTestFuzzy_Calf_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/SC2Physics_Bone_Leg_Calf_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_KneeCap_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_KneeCap_R/Ref_Knee Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_KneeCap_R/Ref_Knee Right_BoneRef/Ref_Knee
+          Right
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Thigh_Flap_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Thigh_Stretch_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Waist_Tubes
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Back_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Back_BoneRef/Ref_Waist Back
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Front_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Front_BoneRef/Ref_Waist Front
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Left_BoneRef/Ref_Waist Left
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Right_BoneRef/Ref_Waist Right
+        weight: 1
+      - path: Bone_Root/Bone_Spine
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerA_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerA_Upper_L/Bone_ArmFingerA_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerB_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerB_Upper_L/Bone_ArmFingerB_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerC_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerC_Upper_L/Bone_ArmFingerC_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerD_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerD_Upper_L/Bone_ArmFingerD_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmThumb_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmThumb_Upper_L/Bone_ArmThumb_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Ref_Hand
+          Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Ref_Hand
+          Left_BoneRef/Ref_Hand Left
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/HitTestFuzzy_Forearm_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Ref_Forearm
+          Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Ref_Forearm
+          Left_BoneRef/Ref_Forearm Left
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Ref_Shoulder
+          Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Ref_Shoulder
+          Left_BoneRef/Ref_Shoulder Left
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/SC2Physics_Bone_Arm_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Bone_Weapon_Cone
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/HitTestFuzzy_Weapon
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Ref_MacGuffin_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Ref_MacGuffin_BoneRef/Ref_MacGuffin
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Ref_Weapon_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Ref_Weapon_BoneRef/Ref_Weapon
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Ref_Hand
+          Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Ref_Hand
+          Right_BoneRef/Ref_Hand Right
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/HitTestFuzzy_Forearm_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Ref_Forearm
+          Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Ref_Forearm
+          Right_BoneRef/Ref_Forearm Right
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Ref_Shoulder
+          Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Ref_Shoulder
+          Right_BoneRef/Ref_Shoulder Right
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/SC2Physics_Bone_Arm_Upper_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack/Bone_Backpack_ColorA
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack/Bone_Backpack_ColorB
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack/Ref_Back_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack/Ref_Back_BoneRef/Ref_Back
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Cheek_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Cheek_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Eye_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Eye_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyebrowA_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyebrowA_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyebrowB_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyebrowB_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent/Bone_EyeLid_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent/Bone_EyeLid_Lower_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent/Bone_EyeLid_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent/Bone_EyeLid_Upper_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Jaw
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Jaw/Bone_Mouth_Lower
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Jaw/Bone_Mouth_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Jaw/Bone_Mouth_Lower_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadCenter_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadCenter_01/Bone_DreadCenter_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadCenter_01/Bone_DreadCenter_02/SC2Physics_Bone_DreadCenter_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadCenter_01/SC2Physics_Bone_DreadCenter_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadLeft_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadLeft_01/Bone_DreadLeft_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadLeft_01/Bone_DreadLeft_02/SC2Physics_Bone_DreadLeft_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadLeft_01/SC2Physics_Bone_DreadLeft_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadRight_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadRight_01/Bone_DreadRight_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadRight_01/Bone_DreadRight_02/SC2Physics_Bone_DreadRight_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadRight_01/SC2Physics_Bone_DreadRight_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/SC2Physics_Bone_MainDread_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/SC2Physics_Bone_MainDread_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Mouth_Upper
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Mouth_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Mouth_Upper_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MouthCorner_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MouthCorner_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_NoseTip
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Nostril_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Nostril_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Face_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Face_BoneRef/Ref_Face
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Head Top_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Head Top_BoneRef/Ref_Head
+          Top
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Head_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Head_BoneRef/Ref_Head
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Lip Upper_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Lip Upper_BoneRef/Ref_Lip
+          Upper
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/SC2Physics_Bone_Head
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Ref_Chest_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Ref_Chest_BoneRef/Ref_Chest
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/SC2Physics_Bone_Torso
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Vol_Target_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Vol_Target_BoneRef/Ref_Target
+        weight: 1
+      - path: Bone_Root/HitTestTight
+        weight: 1
+      - path: Bone_Root/Ref_Center_BoneRef
+        weight: 1
+      - path: Bone_Root/Ref_Center_BoneRef/Ref_Center
+        weight: 1
+      - path: Engine_Objects
+        weight: 1
+      - path: Engine_Objects/HitTestFuzzy
+        weight: 1
+      - path: Engine_Objects/Ref_Origin_BoneRef
+        weight: 1
+      - path: Engine_Objects/Ref_Origin_BoneRef/Ref_Origin
+        weight: 1
+      - path: Engine_Objects/Vol_Shield_BoneRef
+        weight: 1
+      - path: Engine_Objects/Vol_Shield_BoneRef/Ref_Shield
+        weight: 1
+      - path: Geo_Final
+        weight: 1
+      - path: Glasses
+        weight: 1
+      - path: Grp_Lucio_Base_Geo
+        weight: 1
+      - path: Grp_Lucio_Base_Geo/Mesh_Lucio_Base_Body_Combined
+        weight: 1
+      - path: Grp_Lucio_Base_Geo/Mesh_Lucio_Base_Glasses
+        weight: 1
+      - path: Mesh 1
+        weight: 1
+      - path: Mesh 2
+        weight: 1
+      - path: Mesh 3
+        weight: 1
+      - path: Ref_Foot Left
+        weight: 1
+      - path: Ref_Foot Right
+        weight: 1
+      - path: Ref_Haven
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Spell_A
+      takeName: Take 001
+      firstFrame: 1138
+      lastFrame: 1188
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ArmTube
+        weight: 1
+      - path: Bone_Overhead
+        weight: 1
+      - path: Bone_Overhead/Ref_Overhead_BoneRef
+        weight: 1
+      - path: Bone_Overhead/Ref_Overhead_BoneRef/Ref_Overhead
+        weight: 1
+      - path: Bone_Root
+        weight: 1
+      - path: Bone_Root/Bone_Hip
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Calf_Stretch_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L/Bone_Leg_Foot_Blades_ColorA_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L/Bone_Leg_Foot_Blades_ColorB_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L/Ref_Foot
+          Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L/Ref_Foot
+          Left_BoneRef/Ref_Foot Left 1
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/HitTestFuzzy_Calf_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/SC2Physics_Bone_Leg_Calf_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_KneeCap_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_KneeCap_L/Ref_Knee Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_KneeCap_L/Ref_Knee Left_BoneRef/Ref_Knee
+          Left
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Thigh_Flap_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Thigh_Stretch_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Calf_Stretch_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R/Bone_Leg_Foot_Blades_ColorA_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R/Bone_Leg_Foot_Blades_ColorB_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R/Ref_Foot
+          Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R/Ref_Foot
+          Right_BoneRef/Ref_Foot Right 1
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/HitTestFuzzy_Calf_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/SC2Physics_Bone_Leg_Calf_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_KneeCap_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_KneeCap_R/Ref_Knee Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_KneeCap_R/Ref_Knee Right_BoneRef/Ref_Knee
+          Right
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Thigh_Flap_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Thigh_Stretch_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Waist_Tubes
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Back_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Back_BoneRef/Ref_Waist Back
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Front_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Front_BoneRef/Ref_Waist Front
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Left_BoneRef/Ref_Waist Left
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Right_BoneRef/Ref_Waist Right
+        weight: 1
+      - path: Bone_Root/Bone_Spine
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerA_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerA_Upper_L/Bone_ArmFingerA_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerB_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerB_Upper_L/Bone_ArmFingerB_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerC_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerC_Upper_L/Bone_ArmFingerC_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerD_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerD_Upper_L/Bone_ArmFingerD_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmThumb_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmThumb_Upper_L/Bone_ArmThumb_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Ref_Hand
+          Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Ref_Hand
+          Left_BoneRef/Ref_Hand Left
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/HitTestFuzzy_Forearm_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Ref_Forearm
+          Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Ref_Forearm
+          Left_BoneRef/Ref_Forearm Left
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Ref_Shoulder
+          Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Ref_Shoulder
+          Left_BoneRef/Ref_Shoulder Left
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/SC2Physics_Bone_Arm_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Bone_Weapon_Cone
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/HitTestFuzzy_Weapon
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Ref_MacGuffin_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Ref_MacGuffin_BoneRef/Ref_MacGuffin
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Ref_Weapon_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Ref_Weapon_BoneRef/Ref_Weapon
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Ref_Hand
+          Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Ref_Hand
+          Right_BoneRef/Ref_Hand Right
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/HitTestFuzzy_Forearm_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Ref_Forearm
+          Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Ref_Forearm
+          Right_BoneRef/Ref_Forearm Right
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Ref_Shoulder
+          Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Ref_Shoulder
+          Right_BoneRef/Ref_Shoulder Right
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/SC2Physics_Bone_Arm_Upper_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack/Bone_Backpack_ColorA
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack/Bone_Backpack_ColorB
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack/Ref_Back_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack/Ref_Back_BoneRef/Ref_Back
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Cheek_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Cheek_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Eye_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Eye_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyebrowA_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyebrowA_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyebrowB_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyebrowB_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent/Bone_EyeLid_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent/Bone_EyeLid_Lower_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent/Bone_EyeLid_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent/Bone_EyeLid_Upper_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Jaw
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Jaw/Bone_Mouth_Lower
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Jaw/Bone_Mouth_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Jaw/Bone_Mouth_Lower_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadCenter_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadCenter_01/Bone_DreadCenter_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadCenter_01/Bone_DreadCenter_02/SC2Physics_Bone_DreadCenter_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadCenter_01/SC2Physics_Bone_DreadCenter_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadLeft_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadLeft_01/Bone_DreadLeft_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadLeft_01/Bone_DreadLeft_02/SC2Physics_Bone_DreadLeft_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadLeft_01/SC2Physics_Bone_DreadLeft_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadRight_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadRight_01/Bone_DreadRight_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadRight_01/Bone_DreadRight_02/SC2Physics_Bone_DreadRight_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadRight_01/SC2Physics_Bone_DreadRight_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/SC2Physics_Bone_MainDread_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/SC2Physics_Bone_MainDread_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Mouth_Upper
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Mouth_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Mouth_Upper_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MouthCorner_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MouthCorner_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_NoseTip
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Nostril_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Nostril_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Face_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Face_BoneRef/Ref_Face
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Head Top_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Head Top_BoneRef/Ref_Head
+          Top
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Head_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Head_BoneRef/Ref_Head
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Lip Upper_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Lip Upper_BoneRef/Ref_Lip
+          Upper
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/SC2Physics_Bone_Head
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Ref_Chest_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Ref_Chest_BoneRef/Ref_Chest
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/SC2Physics_Bone_Torso
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Vol_Target_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Vol_Target_BoneRef/Ref_Target
+        weight: 1
+      - path: Bone_Root/HitTestTight
+        weight: 1
+      - path: Bone_Root/Ref_Center_BoneRef
+        weight: 1
+      - path: Bone_Root/Ref_Center_BoneRef/Ref_Center
+        weight: 1
+      - path: Engine_Objects
+        weight: 1
+      - path: Engine_Objects/HitTestFuzzy
+        weight: 1
+      - path: Engine_Objects/Ref_Origin_BoneRef
+        weight: 1
+      - path: Engine_Objects/Ref_Origin_BoneRef/Ref_Origin
+        weight: 1
+      - path: Engine_Objects/Vol_Shield_BoneRef
+        weight: 1
+      - path: Engine_Objects/Vol_Shield_BoneRef/Ref_Shield
+        weight: 1
+      - path: Geo_Final
+        weight: 1
+      - path: Glasses
+        weight: 1
+      - path: Grp_Lucio_Base_Geo
+        weight: 1
+      - path: Grp_Lucio_Base_Geo/Mesh_Lucio_Base_Body_Combined
+        weight: 1
+      - path: Grp_Lucio_Base_Geo/Mesh_Lucio_Base_Glasses
+        weight: 1
+      - path: Mesh 1
+        weight: 1
+      - path: Mesh 2
+        weight: 1
+      - path: Mesh 3
+        weight: 1
+      - path: Ref_Foot Left
+        weight: 1
+      - path: Ref_Foot Right
+        weight: 1
+      - path: Ref_Haven
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Spell_B
+      takeName: Take 001
+      firstFrame: 1568
+      lastFrame: 1643
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ArmTube
+        weight: 1
+      - path: Bone_Overhead
+        weight: 1
+      - path: Bone_Overhead/Ref_Overhead_BoneRef
+        weight: 1
+      - path: Bone_Overhead/Ref_Overhead_BoneRef/Ref_Overhead
+        weight: 1
+      - path: Bone_Root
+        weight: 1
+      - path: Bone_Root/Bone_Hip
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Calf_Stretch_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L/Bone_Leg_Foot_Blades_ColorA_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L/Bone_Leg_Foot_Blades_ColorB_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L/Ref_Foot
+          Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L/Ref_Foot
+          Left_BoneRef/Ref_Foot Left 1
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/HitTestFuzzy_Calf_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/SC2Physics_Bone_Leg_Calf_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_KneeCap_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_KneeCap_L/Ref_Knee Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_KneeCap_L/Ref_Knee Left_BoneRef/Ref_Knee
+          Left
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Thigh_Flap_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Thigh_Stretch_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Calf_Stretch_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R/Bone_Leg_Foot_Blades_ColorA_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R/Bone_Leg_Foot_Blades_ColorB_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R/Ref_Foot
+          Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R/Ref_Foot
+          Right_BoneRef/Ref_Foot Right 1
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/HitTestFuzzy_Calf_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/SC2Physics_Bone_Leg_Calf_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_KneeCap_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_KneeCap_R/Ref_Knee Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_KneeCap_R/Ref_Knee Right_BoneRef/Ref_Knee
+          Right
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Thigh_Flap_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Thigh_Stretch_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Waist_Tubes
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Back_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Back_BoneRef/Ref_Waist Back
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Front_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Front_BoneRef/Ref_Waist Front
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Left_BoneRef/Ref_Waist Left
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Right_BoneRef/Ref_Waist Right
+        weight: 1
+      - path: Bone_Root/Bone_Spine
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerA_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerA_Upper_L/Bone_ArmFingerA_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerB_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerB_Upper_L/Bone_ArmFingerB_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerC_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerC_Upper_L/Bone_ArmFingerC_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerD_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerD_Upper_L/Bone_ArmFingerD_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmThumb_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmThumb_Upper_L/Bone_ArmThumb_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Ref_Hand
+          Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Ref_Hand
+          Left_BoneRef/Ref_Hand Left
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/HitTestFuzzy_Forearm_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Ref_Forearm
+          Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Ref_Forearm
+          Left_BoneRef/Ref_Forearm Left
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Ref_Shoulder
+          Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Ref_Shoulder
+          Left_BoneRef/Ref_Shoulder Left
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/SC2Physics_Bone_Arm_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Bone_Weapon_Cone
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/HitTestFuzzy_Weapon
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Ref_MacGuffin_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Ref_MacGuffin_BoneRef/Ref_MacGuffin
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Ref_Weapon_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Ref_Weapon_BoneRef/Ref_Weapon
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Ref_Hand
+          Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Ref_Hand
+          Right_BoneRef/Ref_Hand Right
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/HitTestFuzzy_Forearm_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Ref_Forearm
+          Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Ref_Forearm
+          Right_BoneRef/Ref_Forearm Right
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Ref_Shoulder
+          Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Ref_Shoulder
+          Right_BoneRef/Ref_Shoulder Right
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/SC2Physics_Bone_Arm_Upper_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack/Bone_Backpack_ColorA
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack/Bone_Backpack_ColorB
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack/Ref_Back_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack/Ref_Back_BoneRef/Ref_Back
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Cheek_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Cheek_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Eye_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Eye_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyebrowA_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyebrowA_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyebrowB_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyebrowB_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent/Bone_EyeLid_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent/Bone_EyeLid_Lower_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent/Bone_EyeLid_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent/Bone_EyeLid_Upper_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Jaw
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Jaw/Bone_Mouth_Lower
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Jaw/Bone_Mouth_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Jaw/Bone_Mouth_Lower_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadCenter_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadCenter_01/Bone_DreadCenter_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadCenter_01/Bone_DreadCenter_02/SC2Physics_Bone_DreadCenter_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadCenter_01/SC2Physics_Bone_DreadCenter_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadLeft_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadLeft_01/Bone_DreadLeft_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadLeft_01/Bone_DreadLeft_02/SC2Physics_Bone_DreadLeft_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadLeft_01/SC2Physics_Bone_DreadLeft_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadRight_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadRight_01/Bone_DreadRight_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadRight_01/Bone_DreadRight_02/SC2Physics_Bone_DreadRight_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadRight_01/SC2Physics_Bone_DreadRight_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/SC2Physics_Bone_MainDread_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/SC2Physics_Bone_MainDread_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Mouth_Upper
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Mouth_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Mouth_Upper_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MouthCorner_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MouthCorner_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_NoseTip
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Nostril_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Nostril_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Face_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Face_BoneRef/Ref_Face
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Head Top_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Head Top_BoneRef/Ref_Head
+          Top
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Head_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Head_BoneRef/Ref_Head
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Lip Upper_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Lip Upper_BoneRef/Ref_Lip
+          Upper
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/SC2Physics_Bone_Head
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Ref_Chest_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Ref_Chest_BoneRef/Ref_Chest
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/SC2Physics_Bone_Torso
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Vol_Target_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Vol_Target_BoneRef/Ref_Target
+        weight: 1
+      - path: Bone_Root/HitTestTight
+        weight: 1
+      - path: Bone_Root/Ref_Center_BoneRef
+        weight: 1
+      - path: Bone_Root/Ref_Center_BoneRef/Ref_Center
+        weight: 1
+      - path: Engine_Objects
+        weight: 1
+      - path: Engine_Objects/HitTestFuzzy
+        weight: 1
+      - path: Engine_Objects/Ref_Origin_BoneRef
+        weight: 1
+      - path: Engine_Objects/Ref_Origin_BoneRef/Ref_Origin
+        weight: 1
+      - path: Engine_Objects/Vol_Shield_BoneRef
+        weight: 1
+      - path: Engine_Objects/Vol_Shield_BoneRef/Ref_Shield
+        weight: 1
+      - path: Geo_Final
+        weight: 1
+      - path: Glasses
+        weight: 1
+      - path: Grp_Lucio_Base_Geo
+        weight: 1
+      - path: Grp_Lucio_Base_Geo/Mesh_Lucio_Base_Body_Combined
+        weight: 1
+      - path: Grp_Lucio_Base_Geo/Mesh_Lucio_Base_Glasses
+        weight: 1
+      - path: Mesh 1
+        weight: 1
+      - path: Mesh 2
+        weight: 1
+      - path: Mesh 3
+        weight: 1
+      - path: Ref_Foot Left
+        weight: 1
+      - path: Ref_Foot Right
+        weight: 1
+      - path: Ref_Haven
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Spell_C
+      takeName: Take 001
+      firstFrame: 3778
+      lastFrame: 3828
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ArmTube
+        weight: 1
+      - path: Bone_Overhead
+        weight: 1
+      - path: Bone_Overhead/Ref_Overhead_BoneRef
+        weight: 1
+      - path: Bone_Overhead/Ref_Overhead_BoneRef/Ref_Overhead
+        weight: 1
+      - path: Bone_Root
+        weight: 1
+      - path: Bone_Root/Bone_Hip
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Calf_Stretch_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L/Bone_Leg_Foot_Blades_ColorA_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L/Bone_Leg_Foot_Blades_ColorB_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L/Ref_Foot
+          Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L/Ref_Foot
+          Left_BoneRef/Ref_Foot Left 1
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/HitTestFuzzy_Calf_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/SC2Physics_Bone_Leg_Calf_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_KneeCap_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_KneeCap_L/Ref_Knee Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_KneeCap_L/Ref_Knee Left_BoneRef/Ref_Knee
+          Left
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Thigh_Flap_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Thigh_Stretch_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Calf_Stretch_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R/Bone_Leg_Foot_Blades_ColorA_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R/Bone_Leg_Foot_Blades_ColorB_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R/Ref_Foot
+          Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R/Ref_Foot
+          Right_BoneRef/Ref_Foot Right 1
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/HitTestFuzzy_Calf_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/SC2Physics_Bone_Leg_Calf_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_KneeCap_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_KneeCap_R/Ref_Knee Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_KneeCap_R/Ref_Knee Right_BoneRef/Ref_Knee
+          Right
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Thigh_Flap_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Thigh_Stretch_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Waist_Tubes
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Back_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Back_BoneRef/Ref_Waist Back
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Front_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Front_BoneRef/Ref_Waist Front
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Left_BoneRef/Ref_Waist Left
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Right_BoneRef/Ref_Waist Right
+        weight: 1
+      - path: Bone_Root/Bone_Spine
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerA_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerA_Upper_L/Bone_ArmFingerA_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerB_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerB_Upper_L/Bone_ArmFingerB_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerC_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerC_Upper_L/Bone_ArmFingerC_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerD_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerD_Upper_L/Bone_ArmFingerD_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmThumb_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmThumb_Upper_L/Bone_ArmThumb_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Ref_Hand
+          Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Ref_Hand
+          Left_BoneRef/Ref_Hand Left
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/HitTestFuzzy_Forearm_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Ref_Forearm
+          Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Ref_Forearm
+          Left_BoneRef/Ref_Forearm Left
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Ref_Shoulder
+          Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Ref_Shoulder
+          Left_BoneRef/Ref_Shoulder Left
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/SC2Physics_Bone_Arm_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Bone_Weapon_Cone
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/HitTestFuzzy_Weapon
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Ref_MacGuffin_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Ref_MacGuffin_BoneRef/Ref_MacGuffin
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Ref_Weapon_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Ref_Weapon_BoneRef/Ref_Weapon
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Ref_Hand
+          Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Ref_Hand
+          Right_BoneRef/Ref_Hand Right
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/HitTestFuzzy_Forearm_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Ref_Forearm
+          Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Ref_Forearm
+          Right_BoneRef/Ref_Forearm Right
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Ref_Shoulder
+          Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Ref_Shoulder
+          Right_BoneRef/Ref_Shoulder Right
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/SC2Physics_Bone_Arm_Upper_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack/Bone_Backpack_ColorA
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack/Bone_Backpack_ColorB
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack/Ref_Back_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack/Ref_Back_BoneRef/Ref_Back
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Cheek_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Cheek_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Eye_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Eye_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyebrowA_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyebrowA_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyebrowB_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyebrowB_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent/Bone_EyeLid_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent/Bone_EyeLid_Lower_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent/Bone_EyeLid_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent/Bone_EyeLid_Upper_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Jaw
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Jaw/Bone_Mouth_Lower
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Jaw/Bone_Mouth_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Jaw/Bone_Mouth_Lower_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadCenter_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadCenter_01/Bone_DreadCenter_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadCenter_01/Bone_DreadCenter_02/SC2Physics_Bone_DreadCenter_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadCenter_01/SC2Physics_Bone_DreadCenter_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadLeft_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadLeft_01/Bone_DreadLeft_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadLeft_01/Bone_DreadLeft_02/SC2Physics_Bone_DreadLeft_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadLeft_01/SC2Physics_Bone_DreadLeft_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadRight_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadRight_01/Bone_DreadRight_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadRight_01/Bone_DreadRight_02/SC2Physics_Bone_DreadRight_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadRight_01/SC2Physics_Bone_DreadRight_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/SC2Physics_Bone_MainDread_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/SC2Physics_Bone_MainDread_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Mouth_Upper
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Mouth_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Mouth_Upper_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MouthCorner_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MouthCorner_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_NoseTip
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Nostril_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Nostril_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Face_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Face_BoneRef/Ref_Face
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Head Top_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Head Top_BoneRef/Ref_Head
+          Top
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Head_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Head_BoneRef/Ref_Head
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Lip Upper_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Lip Upper_BoneRef/Ref_Lip
+          Upper
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/SC2Physics_Bone_Head
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Ref_Chest_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Ref_Chest_BoneRef/Ref_Chest
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/SC2Physics_Bone_Torso
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Vol_Target_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Vol_Target_BoneRef/Ref_Target
+        weight: 1
+      - path: Bone_Root/HitTestTight
+        weight: 1
+      - path: Bone_Root/Ref_Center_BoneRef
+        weight: 1
+      - path: Bone_Root/Ref_Center_BoneRef/Ref_Center
+        weight: 1
+      - path: Engine_Objects
+        weight: 1
+      - path: Engine_Objects/HitTestFuzzy
+        weight: 1
+      - path: Engine_Objects/Ref_Origin_BoneRef
+        weight: 1
+      - path: Engine_Objects/Ref_Origin_BoneRef/Ref_Origin
+        weight: 1
+      - path: Engine_Objects/Vol_Shield_BoneRef
+        weight: 1
+      - path: Engine_Objects/Vol_Shield_BoneRef/Ref_Shield
+        weight: 1
+      - path: Geo_Final
+        weight: 1
+      - path: Glasses
+        weight: 1
+      - path: Grp_Lucio_Base_Geo
+        weight: 1
+      - path: Grp_Lucio_Base_Geo/Mesh_Lucio_Base_Body_Combined
+        weight: 1
+      - path: Grp_Lucio_Base_Geo/Mesh_Lucio_Base_Glasses
+        weight: 1
+      - path: Mesh 1
+        weight: 1
+      - path: Mesh 2
+        weight: 1
+      - path: Mesh 3
+        weight: 1
+      - path: Ref_Foot Left
+        weight: 1
+      - path: Ref_Foot Right
+        weight: 1
+      - path: Ref_Haven
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Spell_D
+      takeName: Take 001
+      firstFrame: 1743
+      lastFrame: 1785
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ArmTube
+        weight: 1
+      - path: Bone_Overhead
+        weight: 1
+      - path: Bone_Overhead/Ref_Overhead_BoneRef
+        weight: 1
+      - path: Bone_Overhead/Ref_Overhead_BoneRef/Ref_Overhead
+        weight: 1
+      - path: Bone_Root
+        weight: 1
+      - path: Bone_Root/Bone_Hip
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Calf_Stretch_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L/Bone_Leg_Foot_Blades_ColorA_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L/Bone_Leg_Foot_Blades_ColorB_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L/Ref_Foot
+          Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L/Ref_Foot
+          Left_BoneRef/Ref_Foot Left 1
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/HitTestFuzzy_Calf_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/SC2Physics_Bone_Leg_Calf_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_KneeCap_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_KneeCap_L/Ref_Knee Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_KneeCap_L/Ref_Knee Left_BoneRef/Ref_Knee
+          Left
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Thigh_Flap_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Thigh_Stretch_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Calf_Stretch_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R/Bone_Leg_Foot_Blades_ColorA_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R/Bone_Leg_Foot_Blades_ColorB_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R/Ref_Foot
+          Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R/Ref_Foot
+          Right_BoneRef/Ref_Foot Right 1
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/HitTestFuzzy_Calf_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/SC2Physics_Bone_Leg_Calf_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_KneeCap_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_KneeCap_R/Ref_Knee Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_KneeCap_R/Ref_Knee Right_BoneRef/Ref_Knee
+          Right
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Thigh_Flap_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Thigh_Stretch_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Waist_Tubes
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Back_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Back_BoneRef/Ref_Waist Back
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Front_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Front_BoneRef/Ref_Waist Front
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Left_BoneRef/Ref_Waist Left
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Right_BoneRef/Ref_Waist Right
+        weight: 1
+      - path: Bone_Root/Bone_Spine
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerA_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerA_Upper_L/Bone_ArmFingerA_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerB_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerB_Upper_L/Bone_ArmFingerB_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerC_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerC_Upper_L/Bone_ArmFingerC_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerD_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerD_Upper_L/Bone_ArmFingerD_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmThumb_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmThumb_Upper_L/Bone_ArmThumb_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Ref_Hand
+          Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Ref_Hand
+          Left_BoneRef/Ref_Hand Left
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/HitTestFuzzy_Forearm_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Ref_Forearm
+          Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Ref_Forearm
+          Left_BoneRef/Ref_Forearm Left
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Ref_Shoulder
+          Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Ref_Shoulder
+          Left_BoneRef/Ref_Shoulder Left
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/SC2Physics_Bone_Arm_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Bone_Weapon_Cone
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/HitTestFuzzy_Weapon
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Ref_MacGuffin_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Ref_MacGuffin_BoneRef/Ref_MacGuffin
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Ref_Weapon_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Ref_Weapon_BoneRef/Ref_Weapon
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Ref_Hand
+          Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Ref_Hand
+          Right_BoneRef/Ref_Hand Right
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/HitTestFuzzy_Forearm_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Ref_Forearm
+          Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Ref_Forearm
+          Right_BoneRef/Ref_Forearm Right
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Ref_Shoulder
+          Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Ref_Shoulder
+          Right_BoneRef/Ref_Shoulder Right
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/SC2Physics_Bone_Arm_Upper_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack/Bone_Backpack_ColorA
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack/Bone_Backpack_ColorB
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack/Ref_Back_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack/Ref_Back_BoneRef/Ref_Back
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Cheek_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Cheek_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Eye_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Eye_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyebrowA_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyebrowA_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyebrowB_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyebrowB_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent/Bone_EyeLid_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent/Bone_EyeLid_Lower_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent/Bone_EyeLid_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent/Bone_EyeLid_Upper_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Jaw
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Jaw/Bone_Mouth_Lower
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Jaw/Bone_Mouth_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Jaw/Bone_Mouth_Lower_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadCenter_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadCenter_01/Bone_DreadCenter_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadCenter_01/Bone_DreadCenter_02/SC2Physics_Bone_DreadCenter_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadCenter_01/SC2Physics_Bone_DreadCenter_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadLeft_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadLeft_01/Bone_DreadLeft_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadLeft_01/Bone_DreadLeft_02/SC2Physics_Bone_DreadLeft_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadLeft_01/SC2Physics_Bone_DreadLeft_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadRight_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadRight_01/Bone_DreadRight_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadRight_01/Bone_DreadRight_02/SC2Physics_Bone_DreadRight_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadRight_01/SC2Physics_Bone_DreadRight_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/SC2Physics_Bone_MainDread_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/SC2Physics_Bone_MainDread_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Mouth_Upper
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Mouth_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Mouth_Upper_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MouthCorner_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MouthCorner_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_NoseTip
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Nostril_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Nostril_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Face_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Face_BoneRef/Ref_Face
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Head Top_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Head Top_BoneRef/Ref_Head
+          Top
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Head_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Head_BoneRef/Ref_Head
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Lip Upper_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Lip Upper_BoneRef/Ref_Lip
+          Upper
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/SC2Physics_Bone_Head
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Ref_Chest_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Ref_Chest_BoneRef/Ref_Chest
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/SC2Physics_Bone_Torso
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Vol_Target_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Vol_Target_BoneRef/Ref_Target
+        weight: 1
+      - path: Bone_Root/HitTestTight
+        weight: 1
+      - path: Bone_Root/Ref_Center_BoneRef
+        weight: 1
+      - path: Bone_Root/Ref_Center_BoneRef/Ref_Center
+        weight: 1
+      - path: Engine_Objects
+        weight: 1
+      - path: Engine_Objects/HitTestFuzzy
+        weight: 1
+      - path: Engine_Objects/Ref_Origin_BoneRef
+        weight: 1
+      - path: Engine_Objects/Ref_Origin_BoneRef/Ref_Origin
+        weight: 1
+      - path: Engine_Objects/Vol_Shield_BoneRef
+        weight: 1
+      - path: Engine_Objects/Vol_Shield_BoneRef/Ref_Shield
+        weight: 1
+      - path: Geo_Final
+        weight: 1
+      - path: Glasses
+        weight: 1
+      - path: Grp_Lucio_Base_Geo
+        weight: 1
+      - path: Grp_Lucio_Base_Geo/Mesh_Lucio_Base_Body_Combined
+        weight: 1
+      - path: Grp_Lucio_Base_Geo/Mesh_Lucio_Base_Glasses
+        weight: 1
+      - path: Mesh 1
+        weight: 1
+      - path: Mesh 2
+        weight: 1
+      - path: Mesh 3
+        weight: 1
+      - path: Ref_Foot Left
+        weight: 1
+      - path: Ref_Foot Right
+        weight: 1
+      - path: Ref_Haven
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stand_Ready
+      takeName: Take 001
+      firstFrame: 350
+      lastFrame: 380
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ArmTube
+        weight: 1
+      - path: Bone_Overhead
+        weight: 1
+      - path: Bone_Overhead/Ref_Overhead_BoneRef
+        weight: 1
+      - path: Bone_Overhead/Ref_Overhead_BoneRef/Ref_Overhead
+        weight: 1
+      - path: Bone_Root
+        weight: 1
+      - path: Bone_Root/Bone_Hip
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Calf_Stretch_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L/Bone_Leg_Foot_Blades_ColorA_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L/Bone_Leg_Foot_Blades_ColorB_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L/Ref_Foot
+          Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L/Ref_Foot
+          Left_BoneRef/Ref_Foot Left 1
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/HitTestFuzzy_Calf_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/SC2Physics_Bone_Leg_Calf_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_KneeCap_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_KneeCap_L/Ref_Knee Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_KneeCap_L/Ref_Knee Left_BoneRef/Ref_Knee
+          Left
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Thigh_Flap_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Thigh_Stretch_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Calf_Stretch_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R/Bone_Leg_Foot_Blades_ColorA_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R/Bone_Leg_Foot_Blades_ColorB_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R/Ref_Foot
+          Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R/Ref_Foot
+          Right_BoneRef/Ref_Foot Right 1
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/HitTestFuzzy_Calf_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/SC2Physics_Bone_Leg_Calf_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_KneeCap_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_KneeCap_R/Ref_Knee Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_KneeCap_R/Ref_Knee Right_BoneRef/Ref_Knee
+          Right
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Thigh_Flap_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Thigh_Stretch_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Waist_Tubes
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Back_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Back_BoneRef/Ref_Waist Back
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Front_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Front_BoneRef/Ref_Waist Front
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Left_BoneRef/Ref_Waist Left
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Right_BoneRef/Ref_Waist Right
+        weight: 1
+      - path: Bone_Root/Bone_Spine
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerA_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerA_Upper_L/Bone_ArmFingerA_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerB_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerB_Upper_L/Bone_ArmFingerB_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerC_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerC_Upper_L/Bone_ArmFingerC_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerD_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerD_Upper_L/Bone_ArmFingerD_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmThumb_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmThumb_Upper_L/Bone_ArmThumb_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Ref_Hand
+          Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Ref_Hand
+          Left_BoneRef/Ref_Hand Left
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/HitTestFuzzy_Forearm_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Ref_Forearm
+          Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Ref_Forearm
+          Left_BoneRef/Ref_Forearm Left
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Ref_Shoulder
+          Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Ref_Shoulder
+          Left_BoneRef/Ref_Shoulder Left
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/SC2Physics_Bone_Arm_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Bone_Weapon_Cone
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/HitTestFuzzy_Weapon
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Ref_MacGuffin_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Ref_MacGuffin_BoneRef/Ref_MacGuffin
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Ref_Weapon_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Ref_Weapon_BoneRef/Ref_Weapon
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Ref_Hand
+          Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Ref_Hand
+          Right_BoneRef/Ref_Hand Right
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/HitTestFuzzy_Forearm_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Ref_Forearm
+          Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Ref_Forearm
+          Right_BoneRef/Ref_Forearm Right
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Ref_Shoulder
+          Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Ref_Shoulder
+          Right_BoneRef/Ref_Shoulder Right
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/SC2Physics_Bone_Arm_Upper_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack/Bone_Backpack_ColorA
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack/Bone_Backpack_ColorB
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack/Ref_Back_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack/Ref_Back_BoneRef/Ref_Back
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Cheek_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Cheek_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Eye_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Eye_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyebrowA_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyebrowA_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyebrowB_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyebrowB_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent/Bone_EyeLid_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent/Bone_EyeLid_Lower_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent/Bone_EyeLid_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent/Bone_EyeLid_Upper_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Jaw
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Jaw/Bone_Mouth_Lower
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Jaw/Bone_Mouth_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Jaw/Bone_Mouth_Lower_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadCenter_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadCenter_01/Bone_DreadCenter_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadCenter_01/Bone_DreadCenter_02/SC2Physics_Bone_DreadCenter_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadCenter_01/SC2Physics_Bone_DreadCenter_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadLeft_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadLeft_01/Bone_DreadLeft_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadLeft_01/Bone_DreadLeft_02/SC2Physics_Bone_DreadLeft_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadLeft_01/SC2Physics_Bone_DreadLeft_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadRight_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadRight_01/Bone_DreadRight_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadRight_01/Bone_DreadRight_02/SC2Physics_Bone_DreadRight_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadRight_01/SC2Physics_Bone_DreadRight_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/SC2Physics_Bone_MainDread_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/SC2Physics_Bone_MainDread_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Mouth_Upper
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Mouth_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Mouth_Upper_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MouthCorner_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MouthCorner_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_NoseTip
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Nostril_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Nostril_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Face_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Face_BoneRef/Ref_Face
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Head Top_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Head Top_BoneRef/Ref_Head
+          Top
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Head_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Head_BoneRef/Ref_Head
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Lip Upper_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Lip Upper_BoneRef/Ref_Lip
+          Upper
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/SC2Physics_Bone_Head
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Ref_Chest_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Ref_Chest_BoneRef/Ref_Chest
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/SC2Physics_Bone_Torso
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Vol_Target_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Vol_Target_BoneRef/Ref_Target
+        weight: 1
+      - path: Bone_Root/HitTestTight
+        weight: 1
+      - path: Bone_Root/Ref_Center_BoneRef
+        weight: 1
+      - path: Bone_Root/Ref_Center_BoneRef/Ref_Center
+        weight: 1
+      - path: Engine_Objects
+        weight: 1
+      - path: Engine_Objects/HitTestFuzzy
+        weight: 1
+      - path: Engine_Objects/Ref_Origin_BoneRef
+        weight: 1
+      - path: Engine_Objects/Ref_Origin_BoneRef/Ref_Origin
+        weight: 1
+      - path: Engine_Objects/Vol_Shield_BoneRef
+        weight: 1
+      - path: Engine_Objects/Vol_Shield_BoneRef/Ref_Shield
+        weight: 1
+      - path: Geo_Final
+        weight: 1
+      - path: Glasses
+        weight: 1
+      - path: Grp_Lucio_Base_Geo
+        weight: 1
+      - path: Grp_Lucio_Base_Geo/Mesh_Lucio_Base_Body_Combined
+        weight: 1
+      - path: Grp_Lucio_Base_Geo/Mesh_Lucio_Base_Glasses
+        weight: 1
+      - path: Mesh 1
+        weight: 1
+      - path: Mesh 2
+        weight: 1
+      - path: Mesh 3
+        weight: 1
+      - path: Ref_Foot Left
+        weight: 1
+      - path: Ref_Foot Right
+        weight: 1
+      - path: Ref_Haven
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk_A
+      takeName: Take 001
+      firstFrame: 888
+      lastFrame: 913
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ArmTube
+        weight: 1
+      - path: Bone_Overhead
+        weight: 1
+      - path: Bone_Overhead/Ref_Overhead_BoneRef
+        weight: 1
+      - path: Bone_Overhead/Ref_Overhead_BoneRef/Ref_Overhead
+        weight: 1
+      - path: Bone_Root
+        weight: 1
+      - path: Bone_Root/Bone_Hip
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Calf_Stretch_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L/Bone_Leg_Foot_Blades_ColorA_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L/Bone_Leg_Foot_Blades_ColorB_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L/Ref_Foot
+          Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L/Ref_Foot
+          Left_BoneRef/Ref_Foot Left 1
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/HitTestFuzzy_Calf_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/SC2Physics_Bone_Leg_Calf_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_KneeCap_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_KneeCap_L/Ref_Knee Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_KneeCap_L/Ref_Knee Left_BoneRef/Ref_Knee
+          Left
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Thigh_Flap_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Thigh_Stretch_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Calf_Stretch_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R/Bone_Leg_Foot_Blades_ColorA_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R/Bone_Leg_Foot_Blades_ColorB_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R/Ref_Foot
+          Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R/Ref_Foot
+          Right_BoneRef/Ref_Foot Right 1
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/HitTestFuzzy_Calf_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/SC2Physics_Bone_Leg_Calf_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_KneeCap_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_KneeCap_R/Ref_Knee Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_KneeCap_R/Ref_Knee Right_BoneRef/Ref_Knee
+          Right
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Thigh_Flap_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Thigh_Stretch_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Waist_Tubes
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Back_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Back_BoneRef/Ref_Waist Back
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Front_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Front_BoneRef/Ref_Waist Front
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Left_BoneRef/Ref_Waist Left
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Right_BoneRef/Ref_Waist Right
+        weight: 1
+      - path: Bone_Root/Bone_Spine
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerA_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerA_Upper_L/Bone_ArmFingerA_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerB_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerB_Upper_L/Bone_ArmFingerB_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerC_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerC_Upper_L/Bone_ArmFingerC_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerD_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerD_Upper_L/Bone_ArmFingerD_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmThumb_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmThumb_Upper_L/Bone_ArmThumb_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Ref_Hand
+          Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Ref_Hand
+          Left_BoneRef/Ref_Hand Left
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/HitTestFuzzy_Forearm_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Ref_Forearm
+          Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Ref_Forearm
+          Left_BoneRef/Ref_Forearm Left
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Ref_Shoulder
+          Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Ref_Shoulder
+          Left_BoneRef/Ref_Shoulder Left
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/SC2Physics_Bone_Arm_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Bone_Weapon_Cone
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/HitTestFuzzy_Weapon
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Ref_MacGuffin_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Ref_MacGuffin_BoneRef/Ref_MacGuffin
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Ref_Weapon_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Ref_Weapon_BoneRef/Ref_Weapon
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Ref_Hand
+          Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Ref_Hand
+          Right_BoneRef/Ref_Hand Right
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/HitTestFuzzy_Forearm_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Ref_Forearm
+          Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Ref_Forearm
+          Right_BoneRef/Ref_Forearm Right
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Ref_Shoulder
+          Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Ref_Shoulder
+          Right_BoneRef/Ref_Shoulder Right
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/SC2Physics_Bone_Arm_Upper_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack/Bone_Backpack_ColorA
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack/Bone_Backpack_ColorB
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack/Ref_Back_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack/Ref_Back_BoneRef/Ref_Back
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Cheek_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Cheek_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Eye_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Eye_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyebrowA_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyebrowA_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyebrowB_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyebrowB_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent/Bone_EyeLid_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent/Bone_EyeLid_Lower_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent/Bone_EyeLid_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent/Bone_EyeLid_Upper_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Jaw
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Jaw/Bone_Mouth_Lower
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Jaw/Bone_Mouth_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Jaw/Bone_Mouth_Lower_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadCenter_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadCenter_01/Bone_DreadCenter_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadCenter_01/Bone_DreadCenter_02/SC2Physics_Bone_DreadCenter_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadCenter_01/SC2Physics_Bone_DreadCenter_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadLeft_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadLeft_01/Bone_DreadLeft_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadLeft_01/Bone_DreadLeft_02/SC2Physics_Bone_DreadLeft_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadLeft_01/SC2Physics_Bone_DreadLeft_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadRight_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadRight_01/Bone_DreadRight_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadRight_01/Bone_DreadRight_02/SC2Physics_Bone_DreadRight_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadRight_01/SC2Physics_Bone_DreadRight_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/SC2Physics_Bone_MainDread_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/SC2Physics_Bone_MainDread_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Mouth_Upper
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Mouth_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Mouth_Upper_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MouthCorner_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MouthCorner_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_NoseTip
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Nostril_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Nostril_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Face_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Face_BoneRef/Ref_Face
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Head Top_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Head Top_BoneRef/Ref_Head
+          Top
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Head_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Head_BoneRef/Ref_Head
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Lip Upper_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Lip Upper_BoneRef/Ref_Lip
+          Upper
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/SC2Physics_Bone_Head
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Ref_Chest_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Ref_Chest_BoneRef/Ref_Chest
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/SC2Physics_Bone_Torso
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Vol_Target_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Vol_Target_BoneRef/Ref_Target
+        weight: 1
+      - path: Bone_Root/HitTestTight
+        weight: 1
+      - path: Bone_Root/Ref_Center_BoneRef
+        weight: 1
+      - path: Bone_Root/Ref_Center_BoneRef/Ref_Center
+        weight: 1
+      - path: Engine_Objects
+        weight: 1
+      - path: Engine_Objects/HitTestFuzzy
+        weight: 1
+      - path: Engine_Objects/Ref_Origin_BoneRef
+        weight: 1
+      - path: Engine_Objects/Ref_Origin_BoneRef/Ref_Origin
+        weight: 1
+      - path: Engine_Objects/Vol_Shield_BoneRef
+        weight: 1
+      - path: Engine_Objects/Vol_Shield_BoneRef/Ref_Shield
+        weight: 1
+      - path: Geo_Final
+        weight: 1
+      - path: Glasses
+        weight: 1
+      - path: Grp_Lucio_Base_Geo
+        weight: 1
+      - path: Grp_Lucio_Base_Geo/Mesh_Lucio_Base_Body_Combined
+        weight: 1
+      - path: Grp_Lucio_Base_Geo/Mesh_Lucio_Base_Glasses
+        weight: 1
+      - path: Mesh 1
+        weight: 1
+      - path: Mesh 2
+        weight: 1
+      - path: Mesh 3
+        weight: 1
+      - path: Ref_Foot Left
+        weight: 1
+      - path: Ref_Foot Right
+        weight: 1
+      - path: Ref_Haven
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk_Inferior
+      takeName: Take 001
+      firstFrame: 1288
+      lastFrame: 1318
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ArmTube
+        weight: 1
+      - path: Bone_Overhead
+        weight: 1
+      - path: Bone_Overhead/Ref_Overhead_BoneRef
+        weight: 1
+      - path: Bone_Overhead/Ref_Overhead_BoneRef/Ref_Overhead
+        weight: 1
+      - path: Bone_Root
+        weight: 1
+      - path: Bone_Root/Bone_Hip
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Calf_Stretch_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L/Bone_Leg_Foot_Blades_ColorA_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L/Bone_Leg_Foot_Blades_ColorB_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L/Ref_Foot
+          Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L/Ref_Foot
+          Left_BoneRef/Ref_Foot Left 1
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/HitTestFuzzy_Calf_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/SC2Physics_Bone_Leg_Calf_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_KneeCap_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_KneeCap_L/Ref_Knee Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_KneeCap_L/Ref_Knee Left_BoneRef/Ref_Knee
+          Left
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Thigh_Flap_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Thigh_Stretch_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Calf_Stretch_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R/Bone_Leg_Foot_Blades_ColorA_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R/Bone_Leg_Foot_Blades_ColorB_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R/Ref_Foot
+          Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R/Ref_Foot
+          Right_BoneRef/Ref_Foot Right 1
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/HitTestFuzzy_Calf_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/SC2Physics_Bone_Leg_Calf_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_KneeCap_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_KneeCap_R/Ref_Knee Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_KneeCap_R/Ref_Knee Right_BoneRef/Ref_Knee
+          Right
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Thigh_Flap_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Thigh_Stretch_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Waist_Tubes
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Back_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Back_BoneRef/Ref_Waist Back
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Front_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Front_BoneRef/Ref_Waist Front
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Left_BoneRef/Ref_Waist Left
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Right_BoneRef/Ref_Waist Right
+        weight: 1
+      - path: Bone_Root/Bone_Spine
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerA_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerA_Upper_L/Bone_ArmFingerA_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerB_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerB_Upper_L/Bone_ArmFingerB_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerC_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerC_Upper_L/Bone_ArmFingerC_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerD_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerD_Upper_L/Bone_ArmFingerD_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmThumb_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmThumb_Upper_L/Bone_ArmThumb_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Ref_Hand
+          Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Ref_Hand
+          Left_BoneRef/Ref_Hand Left
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/HitTestFuzzy_Forearm_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Ref_Forearm
+          Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Ref_Forearm
+          Left_BoneRef/Ref_Forearm Left
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Ref_Shoulder
+          Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Ref_Shoulder
+          Left_BoneRef/Ref_Shoulder Left
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/SC2Physics_Bone_Arm_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Bone_Weapon_Cone
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/HitTestFuzzy_Weapon
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Ref_MacGuffin_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Ref_MacGuffin_BoneRef/Ref_MacGuffin
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Ref_Weapon_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Ref_Weapon_BoneRef/Ref_Weapon
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Ref_Hand
+          Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Ref_Hand
+          Right_BoneRef/Ref_Hand Right
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/HitTestFuzzy_Forearm_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Ref_Forearm
+          Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Ref_Forearm
+          Right_BoneRef/Ref_Forearm Right
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Ref_Shoulder
+          Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Ref_Shoulder
+          Right_BoneRef/Ref_Shoulder Right
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/SC2Physics_Bone_Arm_Upper_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack/Bone_Backpack_ColorA
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack/Bone_Backpack_ColorB
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack/Ref_Back_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack/Ref_Back_BoneRef/Ref_Back
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Cheek_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Cheek_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Eye_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Eye_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyebrowA_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyebrowA_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyebrowB_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyebrowB_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent/Bone_EyeLid_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent/Bone_EyeLid_Lower_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent/Bone_EyeLid_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent/Bone_EyeLid_Upper_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Jaw
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Jaw/Bone_Mouth_Lower
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Jaw/Bone_Mouth_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Jaw/Bone_Mouth_Lower_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadCenter_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadCenter_01/Bone_DreadCenter_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadCenter_01/Bone_DreadCenter_02/SC2Physics_Bone_DreadCenter_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadCenter_01/SC2Physics_Bone_DreadCenter_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadLeft_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadLeft_01/Bone_DreadLeft_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadLeft_01/Bone_DreadLeft_02/SC2Physics_Bone_DreadLeft_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadLeft_01/SC2Physics_Bone_DreadLeft_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadRight_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadRight_01/Bone_DreadRight_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadRight_01/Bone_DreadRight_02/SC2Physics_Bone_DreadRight_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadRight_01/SC2Physics_Bone_DreadRight_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/SC2Physics_Bone_MainDread_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/SC2Physics_Bone_MainDread_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Mouth_Upper
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Mouth_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Mouth_Upper_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MouthCorner_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MouthCorner_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_NoseTip
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Nostril_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Nostril_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Face_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Face_BoneRef/Ref_Face
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Head Top_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Head Top_BoneRef/Ref_Head
+          Top
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Head_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Head_BoneRef/Ref_Head
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Lip Upper_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Lip Upper_BoneRef/Ref_Lip
+          Upper
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/SC2Physics_Bone_Head
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Ref_Chest_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Ref_Chest_BoneRef/Ref_Chest
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/SC2Physics_Bone_Torso
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Vol_Target_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Vol_Target_BoneRef/Ref_Target
+        weight: 1
+      - path: Bone_Root/HitTestTight
+        weight: 1
+      - path: Bone_Root/Ref_Center_BoneRef
+        weight: 1
+      - path: Bone_Root/Ref_Center_BoneRef/Ref_Center
+        weight: 1
+      - path: Engine_Objects
+        weight: 1
+      - path: Engine_Objects/HitTestFuzzy
+        weight: 1
+      - path: Engine_Objects/Ref_Origin_BoneRef
+        weight: 1
+      - path: Engine_Objects/Ref_Origin_BoneRef/Ref_Origin
+        weight: 1
+      - path: Engine_Objects/Vol_Shield_BoneRef
+        weight: 1
+      - path: Engine_Objects/Vol_Shield_BoneRef/Ref_Shield
+        weight: 1
+      - path: Geo_Final
+        weight: 1
+      - path: Glasses
+        weight: 1
+      - path: Grp_Lucio_Base_Geo
+        weight: 1
+      - path: Grp_Lucio_Base_Geo/Mesh_Lucio_Base_Body_Combined
+        weight: 1
+      - path: Grp_Lucio_Base_Geo/Mesh_Lucio_Base_Glasses
+        weight: 1
+      - path: Mesh 1
+        weight: 1
+      - path: Mesh 2
+        weight: 1
+      - path: Mesh 3
+        weight: 1
+      - path: Ref_Foot Left
+        weight: 1
+      - path: Ref_Foot Right
+        weight: 1
+      - path: Ref_Haven
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk_Superior
+      takeName: Take 001
+      firstFrame: 5164
+      lastFrame: 5194
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ArmTube
+        weight: 1
+      - path: Bone_Overhead
+        weight: 1
+      - path: Bone_Overhead/Ref_Overhead_BoneRef
+        weight: 1
+      - path: Bone_Overhead/Ref_Overhead_BoneRef/Ref_Overhead
+        weight: 1
+      - path: Bone_Root
+        weight: 1
+      - path: Bone_Root/Bone_Hip
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Calf_Stretch_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L/Bone_Leg_Foot_Blades_ColorA_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L/Bone_Leg_Foot_Blades_ColorB_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L/Ref_Foot
+          Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/Bone_Leg_Foot_L/Ref_Foot
+          Left_BoneRef/Ref_Foot Left 1
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/HitTestFuzzy_Calf_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Calf_L/SC2Physics_Bone_Leg_Calf_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_KneeCap_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_KneeCap_L/Ref_Knee Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_KneeCap_L/Ref_Knee Left_BoneRef/Ref_Knee
+          Left
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Thigh_Flap_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_L/Bone_Leg_Thigh_Stretch_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Calf_Stretch_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R/Bone_Leg_Foot_Blades_ColorA_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R/Bone_Leg_Foot_Blades_ColorB_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R/Ref_Foot
+          Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/Bone_Leg_Foot_R/Ref_Foot
+          Right_BoneRef/Ref_Foot Right 1
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/HitTestFuzzy_Calf_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Calf_R/SC2Physics_Bone_Leg_Calf_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_KneeCap_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_KneeCap_R/Ref_Knee Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_KneeCap_R/Ref_Knee Right_BoneRef/Ref_Knee
+          Right
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Thigh_Flap_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Leg_Thigh_R/Bone_Leg_Thigh_Stretch_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Waist_Tubes
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Back_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Back_BoneRef/Ref_Waist Back
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Front_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Front_BoneRef/Ref_Waist Front
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Left_BoneRef/Ref_Waist Left
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Ref_Waist Right_BoneRef/Ref_Waist Right
+        weight: 1
+      - path: Bone_Root/Bone_Spine
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerA_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerA_Upper_L/Bone_ArmFingerA_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerB_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerB_Upper_L/Bone_ArmFingerB_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerC_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerC_Upper_L/Bone_ArmFingerC_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerD_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmFingerD_Upper_L/Bone_ArmFingerD_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmThumb_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Bone_ArmThumb_Upper_L/Bone_ArmThumb_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Ref_Hand
+          Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Bone_Arm_Hand_L/Ref_Hand
+          Left_BoneRef/Ref_Hand Left
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/HitTestFuzzy_Forearm_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Ref_Forearm
+          Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Bone_Arm_Lower_L/Ref_Forearm
+          Left_BoneRef/Ref_Forearm Left
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Ref_Shoulder
+          Left_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/Ref_Shoulder
+          Left_BoneRef/Ref_Shoulder Left
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_L/Bone_Arm_Upper_L/SC2Physics_Bone_Arm_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Bone_Weapon_Cone
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/HitTestFuzzy_Weapon
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Ref_MacGuffin_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Ref_MacGuffin_BoneRef/Ref_MacGuffin
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Ref_Weapon_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Bone_Weapon/Ref_Weapon_BoneRef/Ref_Weapon
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Ref_Hand
+          Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Bone_Arm_Hand_R/Ref_Hand
+          Right_BoneRef/Ref_Hand Right
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/HitTestFuzzy_Forearm_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Ref_Forearm
+          Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Bone_Arm_Lower_R/Ref_Forearm
+          Right_BoneRef/Ref_Forearm Right
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Ref_Shoulder
+          Right_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/Ref_Shoulder
+          Right_BoneRef/Ref_Shoulder Right
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Arm_Clav_R/Bone_Arm_Upper_R/SC2Physics_Bone_Arm_Upper_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack/Bone_Backpack_ColorA
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack/Bone_Backpack_ColorB
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack/Ref_Back_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Backpack/Ref_Back_BoneRef/Ref_Back
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Cheek_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Cheek_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Eye_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Eye_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyebrowA_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyebrowA_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyebrowB_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyebrowB_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent/Bone_EyeLid_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent/Bone_EyeLid_Lower_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent/Bone_EyeLid_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_EyeLidsParent/Bone_EyeLid_Upper_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Jaw
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Jaw/Bone_Mouth_Lower
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Jaw/Bone_Mouth_Lower_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Jaw/Bone_Mouth_Lower_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadCenter_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadCenter_01/Bone_DreadCenter_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadCenter_01/Bone_DreadCenter_02/SC2Physics_Bone_DreadCenter_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadCenter_01/SC2Physics_Bone_DreadCenter_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadLeft_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadLeft_01/Bone_DreadLeft_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadLeft_01/Bone_DreadLeft_02/SC2Physics_Bone_DreadLeft_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadLeft_01/SC2Physics_Bone_DreadLeft_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadRight_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadRight_01/Bone_DreadRight_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadRight_01/Bone_DreadRight_02/SC2Physics_Bone_DreadRight_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/Bone_DreadRight_01/SC2Physics_Bone_DreadRight_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/Bone_MainDread_02/SC2Physics_Bone_MainDread_02
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MainDread_01/SC2Physics_Bone_MainDread_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Mouth_Upper
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Mouth_Upper_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Mouth_Upper_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MouthCorner_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_MouthCorner_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_NoseTip
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Nostril_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Bone_Nostril_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Face_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Face_BoneRef/Ref_Face
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Head Top_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Head Top_BoneRef/Ref_Head
+          Top
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Head_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Head_BoneRef/Ref_Head
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Lip Upper_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/Ref_Lip Upper_BoneRef/Ref_Lip
+          Upper
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Bone_Neck/Bone_Head/SC2Physics_Bone_Head
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Ref_Chest_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Ref_Chest_BoneRef/Ref_Chest
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/SC2Physics_Bone_Torso
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Vol_Target_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Torso/Vol_Target_BoneRef/Ref_Target
+        weight: 1
+      - path: Bone_Root/HitTestTight
+        weight: 1
+      - path: Bone_Root/Ref_Center_BoneRef
+        weight: 1
+      - path: Bone_Root/Ref_Center_BoneRef/Ref_Center
+        weight: 1
+      - path: Engine_Objects
+        weight: 1
+      - path: Engine_Objects/HitTestFuzzy
+        weight: 1
+      - path: Engine_Objects/Ref_Origin_BoneRef
+        weight: 1
+      - path: Engine_Objects/Ref_Origin_BoneRef/Ref_Origin
+        weight: 1
+      - path: Engine_Objects/Vol_Shield_BoneRef
+        weight: 1
+      - path: Engine_Objects/Vol_Shield_BoneRef/Ref_Shield
+        weight: 1
+      - path: Geo_Final
+        weight: 1
+      - path: Glasses
+        weight: 1
+      - path: Grp_Lucio_Base_Geo
+        weight: 1
+      - path: Grp_Lucio_Base_Geo/Mesh_Lucio_Base_Body_Combined
+        weight: 1
+      - path: Grp_Lucio_Base_Geo/Mesh_Lucio_Base_Glasses
+        weight: 1
+      - path: Mesh 1
+        weight: 1
+      - path: Mesh 2
+        weight: 1
+      - path: Mesh 3
+        weight: 1
+      - path: Ref_Foot Left
+        weight: 1
+      - path: Ref_Foot Right
+        weight: 1
+      - path: Ref_Haven
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

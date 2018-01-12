@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: f1333fb46c8495d48bc2fef5483d84ab
+timeCreated: 1497945020
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone_Arm_L
+    100002: Bone_Arm_R
+    100004: Bone_ArmFore_L
+    100006: Bone_ArmFore_R
+    100008: Bone_ArmHand_L
+    100010: Bone_ArmHand_R
+    100012: Bone_Bag_R
+    100014: Bone_Head
+    100016: Bone_Hip
+    100018: Bone_LegFoot_L
+    100020: Bone_LegFoot_R
+    100022: Bone_LegKnee_L
+    100024: Bone_LegKnee_R
+    100026: Bone_LegThigh_L
+    100028: Bone_LegThigh_R
+    100030: Bone_LegToe_L
+    100032: Bone_LegToe_R
+    100034: Bone_Neck
+    100036: Bone_Root
+    100038: Bone_Shoulder_Jiggle_R
+    100040: Bone_Shoulder_L
+    100042: Bone_Shoulder_R
+    100044: Bone_Shoulder_Twist_L
+    100046: Bone_Shoulder_Twist_R
+    100048: Bone_Skirt
+    100050: Bone_Spine
+    100052: Bone_Spine_01
+    100054: Bone_Sword_Back_R
+    100056: Bone_Sword_Back_R_01
+    100058: Bone_Sword_Back_R_02
+    100060: Bone_Sword_Front_L
+    100062: Bone_Sword_Jiggle_Center_L
+    100064: Bone_Sword_Jiggle_L
+    100066: Bone_Sword_L
+    100068: Bone_Tassel_R
+    100070: Cylinder001
+    100072: HitTestFuzzy
+    100074: HitTestTight
+    100076: Mesh 1
+    100078: Mesh 2
+    100080: //RootNode
+    100082: Ref_Center
+    100084: Ref_Center_BoneRef
+    100086: Ref_Origin
+    100088: Ref_Origin_BoneRef
+    100090: Ref_Overhead
+    100092: Ref_OverHead_BoneRef
+    100094: Ref_Shield
+    100096: Ref_Target
+    100098: Ref_Target 01
+    100100: Ref_Weapon
+    100102: Ref_Weapon_BoneRef
+    100104: Storm_KingsCrest_MinionRange_Body
+    100106: Vol_Shield_BoneRef
+    100108: Vol_Target 01_BoneRef
+    100110: Vol_Target_BoneRef
+    400000: Bone_Arm_L
+    400002: Bone_Arm_R
+    400004: Bone_ArmFore_L
+    400006: Bone_ArmFore_R
+    400008: Bone_ArmHand_L
+    400010: Bone_ArmHand_R
+    400012: Bone_Bag_R
+    400014: Bone_Head
+    400016: Bone_Hip
+    400018: Bone_LegFoot_L
+    400020: Bone_LegFoot_R
+    400022: Bone_LegKnee_L
+    400024: Bone_LegKnee_R
+    400026: Bone_LegThigh_L
+    400028: Bone_LegThigh_R
+    400030: Bone_LegToe_L
+    400032: Bone_LegToe_R
+    400034: Bone_Neck
+    400036: Bone_Root
+    400038: Bone_Shoulder_Jiggle_R
+    400040: Bone_Shoulder_L
+    400042: Bone_Shoulder_R
+    400044: Bone_Shoulder_Twist_L
+    400046: Bone_Shoulder_Twist_R
+    400048: Bone_Skirt
+    400050: Bone_Spine
+    400052: Bone_Spine_01
+    400054: Bone_Sword_Back_R
+    400056: Bone_Sword_Back_R_01
+    400058: Bone_Sword_Back_R_02
+    400060: Bone_Sword_Front_L
+    400062: Bone_Sword_Jiggle_Center_L
+    400064: Bone_Sword_Jiggle_L
+    400066: Bone_Sword_L
+    400068: Bone_Tassel_R
+    400070: Cylinder001
+    400072: HitTestFuzzy
+    400074: HitTestTight
+    400076: Mesh 1
+    400078: Mesh 2
+    400080: //RootNode
+    400082: Ref_Center
+    400084: Ref_Center_BoneRef
+    400086: Ref_Origin
+    400088: Ref_Origin_BoneRef
+    400090: Ref_Overhead
+    400092: Ref_OverHead_BoneRef
+    400094: Ref_Shield
+    400096: Ref_Target
+    400098: Ref_Target 01
+    400100: Ref_Weapon
+    400102: Ref_Weapon_BoneRef
+    400104: Storm_KingsCrest_MinionRange_Body
+    400106: Vol_Shield_BoneRef
+    400108: Vol_Target 01_BoneRef
+    400110: Vol_Target_BoneRef
+    4300000: Mesh 1
+    4300002: Mesh 2
+    9500000: //RootNode
+    13700000: Mesh 1
+    13700002: Mesh 2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

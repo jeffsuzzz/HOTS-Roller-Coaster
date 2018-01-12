@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: bf56b85380c500b4899f0069eedb11fc
+timeCreated: 1497965908
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box004
+    100002: CastleSuperiorBanner
+    100004: Cylinder042
+    100006: Dragon001
+    100008: Dummy002
+    100010: Dummy003
+    100012: Dummy008
+    100014: Dummy009
+    100016: Dummy010
+    100018: Dummy011
+    100020: Dummy012
+    100022: Dummy013
+    100024: Dummy014
+    100026: Dummy015
+    100028: Dummy016
+    100030: Dummy017
+    100032: Dummy018
+    100034: Dummy019
+    100036: Dummy020
+    100038: Dummy021
+    100040: Dummy022
+    100042: Dummy023
+    100044: Flag
+    100046: Flag001
+    100048: Flag002
+    100050: Flag003
+    100052: HitTestFuzzy
+    100054: HitTestFuzzy01
+    100056: HitTestFuzzy02
+    100058: HitTestFuzzy03
+    100060: HitTestFuzzy04
+    100062: HitTestFuzzy05
+    100064: HitTestFuzzy06
+    100066: HitTestFuzzy07
+    100068: HitTestFuzzy08
+    100070: HitTestFuzzy09
+    100072: HitTestFuzzy10
+    100074: HitTestTight
+    100076: Mesh 1
+    100078: Mesh 2
+    100080: Mesh 3
+    100082: Mesh 4
+    100084: NewGeoBottom
+    100086: NewGeoHouse
+    100088: Object869
+    100090: Object886
+    100092: Object903
+    100094: Object909
+    100096: Object911
+    100098: Object920
+    100100: Object931
+    100102: Object932
+    100104: Object933
+    100106: Plane098
+    100108: Plane102
+    100110: //RootNode
+    100112: Ref_Center
+    100114: Ref_Center_BoneRef
+    100116: Ref_Origin
+    100118: Ref_Origin_BoneRef
+    100120: Ref_Overhead
+    100122: Ref_Overhead_BoneRef
+    100124: Ref_Target
+    100126: Ref_Target 01
+    100128: Ref_Target 02
+    100130: Ref_Target 03
+    100132: Ref_Target 04
+    100134: Ref_Target 05
+    100136: Ref_Target 06
+    100138: Ref_Target 07
+    100140: Ref_Target 08
+    100142: Ref_Target 09
+    100144: Ref_Target 10
+    100146: Ref_Target 11
+    100148: Ref_Target 12
+    100150: Ref_TurretZ
+    100152: Ref_TurretZ_BoneRef
+    100154: Ref_Weapon
+    100156: Ref_Weapon_BoneRef
+    100158: SC2Projector001
+    100160: StainedGlass
+    100162: Vol_Target 01_BoneRef
+    100164: Vol_Target 02_BoneRef
+    100166: Vol_Target 03_BoneRef
+    100168: Vol_Target 04_BoneRef
+    100170: Vol_Target 05_BoneRef
+    100172: Vol_Target 06_BoneRef
+    100174: Vol_Target 07_BoneRef
+    100176: Vol_Target 08_BoneRef
+    100178: Vol_Target 09_BoneRef
+    100180: Vol_Target 10_BoneRef
+    100182: Vol_Target 11_BoneRef
+    100184: Vol_Target 12_BoneRef
+    100186: Vol_Target_BoneRef
+    100188: WispyFront
+    400000: Box004
+    400002: CastleSuperiorBanner
+    400004: Cylinder042
+    400006: Dragon001
+    400008: Dummy002
+    400010: Dummy003
+    400012: Dummy008
+    400014: Dummy009
+    400016: Dummy010
+    400018: Dummy011
+    400020: Dummy012
+    400022: Dummy013
+    400024: Dummy014
+    400026: Dummy015
+    400028: Dummy016
+    400030: Dummy017
+    400032: Dummy018
+    400034: Dummy019
+    400036: Dummy020
+    400038: Dummy021
+    400040: Dummy022
+    400042: Dummy023
+    400044: Flag
+    400046: Flag001
+    400048: Flag002
+    400050: Flag003
+    400052: HitTestFuzzy
+    400054: HitTestFuzzy01
+    400056: HitTestFuzzy02
+    400058: HitTestFuzzy03
+    400060: HitTestFuzzy04
+    400062: HitTestFuzzy05
+    400064: HitTestFuzzy06
+    400066: HitTestFuzzy07
+    400068: HitTestFuzzy08
+    400070: HitTestFuzzy09
+    400072: HitTestFuzzy10
+    400074: HitTestTight
+    400076: Mesh 1
+    400078: Mesh 2
+    400080: Mesh 3
+    400082: Mesh 4
+    400084: NewGeoBottom
+    400086: NewGeoHouse
+    400088: Object869
+    400090: Object886
+    400092: Object903
+    400094: Object909
+    400096: Object911
+    400098: Object920
+    400100: Object931
+    400102: Object932
+    400104: Object933
+    400106: Plane098
+    400108: Plane102
+    400110: //RootNode
+    400112: Ref_Center
+    400114: Ref_Center_BoneRef
+    400116: Ref_Origin
+    400118: Ref_Origin_BoneRef
+    400120: Ref_Overhead
+    400122: Ref_Overhead_BoneRef
+    400124: Ref_Target
+    400126: Ref_Target 01
+    400128: Ref_Target 02
+    400130: Ref_Target 03
+    400132: Ref_Target 04
+    400134: Ref_Target 05
+    400136: Ref_Target 06
+    400138: Ref_Target 07
+    400140: Ref_Target 08
+    400142: Ref_Target 09
+    400144: Ref_Target 10
+    400146: Ref_Target 11
+    400148: Ref_Target 12
+    400150: Ref_TurretZ
+    400152: Ref_TurretZ_BoneRef
+    400154: Ref_Weapon
+    400156: Ref_Weapon_BoneRef
+    400158: SC2Projector001
+    400160: StainedGlass
+    400162: Vol_Target 01_BoneRef
+    400164: Vol_Target 02_BoneRef
+    400166: Vol_Target 03_BoneRef
+    400168: Vol_Target 04_BoneRef
+    400170: Vol_Target 05_BoneRef
+    400172: Vol_Target 06_BoneRef
+    400174: Vol_Target 07_BoneRef
+    400176: Vol_Target 08_BoneRef
+    400178: Vol_Target 09_BoneRef
+    400180: Vol_Target 10_BoneRef
+    400182: Vol_Target 11_BoneRef
+    400184: Vol_Target 12_BoneRef
+    400186: Vol_Target_BoneRef
+    400188: WispyFront
+    4300000: Mesh 1
+    4300002: Mesh 2
+    4300004: Mesh 3
+    4300006: Mesh 4
+    9500000: //RootNode
+    13700000: Mesh 1
+    13700002: Mesh 2
+    13700004: Mesh 3
+    13700006: Mesh 4
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

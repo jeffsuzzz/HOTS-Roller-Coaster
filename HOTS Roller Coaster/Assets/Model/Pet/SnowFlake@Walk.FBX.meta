@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 2bb557cd36734f8498be6f2f64cf4f0a
+timeCreated: 1498291119
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone_Body
+    100002: Bone_Root
+    100004: HitTestFuzzy
+    100006: HitTestTight
+    100008: Mesh 1
+    100010: Ref_Center
+    100012: Ref_Center 1
+    100014: Ref_Center_BoneRef
+    100016: Ref_Mount
+    100018: Ref_Mount 1
+    100020: Ref_Mount_BoneRef
+    100022: Ref_Origin
+    100024: Ref_Origin 1
+    100026: Ref_Origin_BoneRef
+    100028: Ref_Overhead
+    100030: Ref_Overhead 1
+    100032: Ref_Overhead_BoneRef
+    100034: SC2ParticleDots
+    100036: SC2ParticleStar
+    100038: SC2Physics_Bone_Root
+    100040: SnowFlake
+    100042: //RootNode
+    400000: Bone_Body
+    400002: Bone_Root
+    400004: HitTestFuzzy
+    400006: HitTestTight
+    400008: Mesh 1
+    400010: Ref_Center
+    400012: Ref_Center 1
+    400014: Ref_Center_BoneRef
+    400016: Ref_Mount
+    400018: Ref_Mount 1
+    400020: Ref_Mount_BoneRef
+    400022: Ref_Origin
+    400024: Ref_Origin 1
+    400026: Ref_Origin_BoneRef
+    400028: Ref_Overhead
+    400030: Ref_Overhead 1
+    400032: Ref_Overhead_BoneRef
+    400034: SC2ParticleDots
+    400036: SC2ParticleStar
+    400038: SC2Physics_Bone_Root
+    400040: SnowFlake
+    400042: //RootNode
+    4300000: Mesh 1
+    7400000: Walk
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Mesh 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 230
+      lastFrame: 260
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone_Root
+        weight: 1
+      - path: Bone_Root/Bone_Body
+        weight: 1
+      - path: Bone_Root/Bone_Body/HitTestFuzzy
+        weight: 1
+      - path: Bone_Root/Bone_Body/HitTestTight
+        weight: 1
+      - path: Bone_Root/Bone_Body/Ref_Center_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Body/Ref_Center_BoneRef/Ref_Center 1
+        weight: 1
+      - path: Bone_Root/Bone_Body/Ref_Mount_BoneRef
+        weight: 1
+      - path: Bone_Root/Bone_Body/Ref_Mount_BoneRef/Ref_Mount 1
+        weight: 1
+      - path: Bone_Root/Bone_Body/SC2Physics_Bone_Root
+        weight: 1
+      - path: Bone_Root/SC2ParticleDots
+        weight: 1
+      - path: Bone_Root/SC2ParticleStar
+        weight: 1
+      - path: Mesh 1
+        weight: 1
+      - path: Ref_Center
+        weight: 1
+      - path: Ref_Mount
+        weight: 1
+      - path: Ref_Origin
+        weight: 1
+      - path: Ref_Origin_BoneRef
+        weight: 1
+      - path: Ref_Origin_BoneRef/Ref_Origin 1
+        weight: 1
+      - path: Ref_Overhead
+        weight: 1
+      - path: Ref_Overhead_BoneRef
+        weight: 1
+      - path: Ref_Overhead_BoneRef/Ref_Overhead 1
+        weight: 1
+      - path: SnowFlake
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

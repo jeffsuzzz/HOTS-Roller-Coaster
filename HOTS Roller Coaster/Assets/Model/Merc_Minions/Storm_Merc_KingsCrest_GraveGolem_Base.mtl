@@ -1,0 +1,46 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 13.06.2017 10:40:47
+
+newmtl GraveGolem_Teen
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 0.0000 0.0000
+	Ks 0.4500 0.4500 0.4500
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\cascview-en64\Work\mods\heroes.stormmod\base.stormassets\Assets\Textures\Storm_KingsCrest_GraveGolem_Diff.dds
+	map_Kd C:\cascview-en64\Work\mods\heroes.stormmod\base.stormassets\Assets\Textures\Storm_KingsCrest_GraveGolem_Diff.dds
+	map_Ks C:\cascview-en64\Work\mods\heroes.stormmod\base.stormassets\Assets\Textures\Storm_KingsCrest_GraveGolem_Spec.dds
+	map_Ke C:\cascview-en64\Work\mods\heroes.stormmod\base.stormassets\Assets\Textures\Storm_KingsCrest_GraveGolem_Emis.dds
+	map_bump -bm 0.2000 Normal_Bump_Normal_Bump.tga
+
+newmtl default
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 0.0000 0.0000
+	Ks 0.4500 0.4500 0.4500
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\cascview-en64\Work\mods\heroes.stormmod\base.stormassets\Assets\Textures\Storm_KingsCrest_GraveGolem_Diff.dds
+	map_Kd C:\cascview-en64\Work\mods\heroes.stormmod\base.stormassets\Assets\Textures\Storm_KingsCrest_GraveGolem_Diff.dds
+	map_Ks C:\cascview-en64\Work\mods\heroes.stormmod\base.stormassets\Assets\Textures\Storm_KingsCrest_GraveGolem_Spec.dds
+	map_Ke C:\cascview-en64\Work\mods\heroes.stormmod\base.stormassets\Assets\Textures\Storm_KingsCrest_GraveGolem_Emis.dds
+	map_bump -bm 0.2000 Normal_Bump_Normal_Bump.tga
+
+newmtl wire_174186203
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.6824 0.7294 0.7961
+	Kd 0.6824 0.7294 0.7961
+	Ks 0.3500 0.3500 0.3500

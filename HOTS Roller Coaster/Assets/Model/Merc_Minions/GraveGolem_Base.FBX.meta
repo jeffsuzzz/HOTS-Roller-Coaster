@@ -1,0 +1,452 @@
+fileFormatVersion: 2
+guid: 4b70a845938bb624aaa8899fb5efbe0d
+timeCreated: 1498117097
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone_Arm_Back_L
+    100002: Bone_Arm_Jiggle_L
+    100004: Bone_Arm_Jiggle_R
+    100006: Bone_Arm_Jiggle_R_01
+    100008: Bone_Arm_Jiggle_R_02
+    100010: Bone_Arm_L
+    100012: Bone_Arm_R
+    100014: Bone_Arm_Twist_R
+    100016: Bone_ArmFingerA_Jiggle_R
+    100018: Bone_ArmFingerA_L
+    100020: Bone_ArmFingerA_L_01
+    100022: Bone_ArmFingerA_L_02
+    100024: Bone_ArmFingerA_R
+    100026: Bone_ArmFingerA_R_01
+    100028: Bone_ArmFingerA_R_02
+    100030: Bone_ArmFingerB_Jiggle_R
+    100032: Bone_ArmFingerB_L
+    100034: Bone_ArmFingerB_L_01
+    100036: Bone_ArmFingerB_L_02
+    100038: Bone_ArmFingerB_R
+    100040: Bone_ArmFingerB_R_01
+    100042: Bone_ArmFingerB_R_02
+    100044: Bone_ArmFingerC_Jiggle_R
+    100046: Bone_ArmFingerC_L
+    100048: Bone_ArmFingerC_L_01
+    100050: Bone_ArmFingerC_L_02
+    100052: Bone_ArmFingerC_R
+    100054: Bone_ArmFingerC_R_01
+    100056: Bone_ArmFingerC_R_02
+    100058: Bone_ArmFingerD_R
+    100060: Bone_ArmFingerD_R_01
+    100062: Bone_ArmFingerD_R_02
+    100064: Bone_ArmFingerD_R_03
+    100066: Bone_ArmFore_Back_L
+    100068: Bone_ArmFore_Jiggle_L
+    100070: Bone_ArmFore_L
+    100072: Bone_ArmFore_R
+    100074: Bone_ArmHand_Back_L
+    100076: Bone_ArmHand_L
+    100078: Bone_ArmHand_R
+    100080: Bone_ArmWrist_Jiggle_L
+    100082: Bone_Bag_Jiggle_L
+    100084: Bone_Bag_Jiggle_R
+    100086: Bone_Bag_R
+    100088: Bone_Chest_L
+    100090: Bone_Chest_R
+    100092: Bone_Eye_Jiggle_Back_L
+    100094: Bone_Eye_Lower_L
+    100096: Bone_Eye_Mid_L
+    100098: Bone_Eye_Upper_R
+    100100: Bone_Eye_Upper_R_01
+    100102: Bone_Head_Jiggle_Lower_L
+    100104: Bone_Head_Jiggle_Lower_L_01
+    100106: Bone_Head_Jiggle_Mid_R
+    100108: Bone_Head_Jiggle_Upper_R
+    100110: Bone_Head_Lower_L
+    100112: Bone_Head_Mid_R
+    100114: Bone_Head_Upper_R
+    100116: Bone_Hip_Jiggle_L
+    100118: Bone_Hip_Jiggle_L_01
+    100120: Bone_Hip_Jiggle_L_02
+    100122: Bone_Hip_Jiggle_L_03
+    100124: Bone_Hip_L
+    100126: Bone_Jaw_Mid_R
+    100128: Bone_Jaw_Upper_R
+    100130: Bone_LegFoot_L
+    100132: Bone_LegFoot_R
+    100134: Bone_LegKnee_Jiggle_R
+    100136: Bone_LegKnee_L
+    100138: Bone_LegKnee_R
+    100140: Bone_LegThigh_Jiggle_L
+    100142: Bone_LegThigh_Jiggle_R
+    100144: Bone_LegThigh_L
+    100146: Bone_LegThigh_R
+    100148: Bone_LegToe_L
+    100150: Bone_LegToe_R
+    100152: Bone_Mouth_Jiggle_Upper_R
+    100154: Bone_Neck_Jiggle_Back_L
+    100156: Bone_Neck_Jiggle_Back_L_01
+    100158: Bone_Neck_Jiggle_L
+    100160: Bone_Neck_Jiggle_L_01
+    100162: Bone_Neck_Jiggle_L_02
+    100164: Bone_Neck_Jiggle_Upper_Back_R
+    100166: Bone_Neck_Jiggle_Upper_Back_R_01
+    100168: Bone_Neck_Jiggle_Upper_Front_R
+    100170: Bone_Neck_Jiggle_Upper_Front_R_01
+    100172: Bone_Neck_Jiggle_Upper_Front_R_02
+    100174: Bone_Neck_Lower_L
+    100176: Bone_Neck_Lower_L_01
+    100178: Bone_Neck_Lower_L_02
+    100180: Bone_Neck_Mid_L
+    100182: Bone_Neck_Mid_L_01
+    100184: Bone_Neck_Mid_L_02
+    100186: Bone_Neck_Mid_L_03
+    100188: Bone_Neck_Upper_L
+    100190: Bone_Neck_Upper_R
+    100192: Bone_Neck_Upper_R_01
+    100194: Bone_Neck_Upper_R_02
+    100196: Bone_Root_L
+    100198: Bone_Seaweed005
+    100200: Bone_Seaweed006
+    100202: Bone_Spine_Jiggle_R
+    100204: Bone_Spine_Jiggle_R_01
+    100206: Bone_Spine_Jiggle_R_02
+    100208: Bone_Spine_L
+    100210: Bone_Spine_L_01
+    100212: Bone_Spine_L_02
+    100214: Bone_Sword_Back_L
+    100216: Default
+    100218: Default001
+    100220: //RootNode
+    100222: HittestFuzzy
+    100224: HitTestFuzzy 01
+    100226: HittestFuzzy 03
+    100228: HittestFuzzy 04
+    100230: HittestFuzzy 05
+    100232: HitTestTight
+    100234: Mesh 1
+    100236: Mesh 2
+    100238: Mesh 3
+    100240: Mesh 4
+    100242: Mesh 5
+    100244: Ref_Center
+    100246: Ref_Center_BoneRef
+    100248: Ref_Origin
+    100250: Ref_Origin_BoneRef
+    100252: Ref_Overhead
+    100254: Ref_Overhead_BoneRef
+    100256: Ref_Target
+    100258: Ref_Target 05
+    100260: Ref_Weapon Left
+    100262: Ref_Weapon Left_BoneRef
+    100264: Ref_Weapon Right
+    100266: Ref_Weapon Right_BoneRef
+    100268: SC2Omni001
+    100270: SC2Physics005
+    100272: SC2Physics006
+    100274: SC2Physics007
+    100276: Storm_GraveGolem_BackCoffin
+    100278: Storm_GraveGolem_Head_AngrySkull
+    100280: Storm_GraveGolem_Head_AngrySkull_Jaw
+    100282: Storm_GraveGolem_Head_AngrySkull_LeftEye
+    100284: Storm_GraveGolem_Head_AngrySkull_RightEye
+    100286: Storm_GraveGolem_Head_AngrySkull_RightEye001
+    100288: Storm_GraveGolem_Head_AngrySkull_RightEye002
+    100290: Storm_GraveGolem_Head_JawlessSkull
+    100292: Storm_GraveGolem_Head_JawlessSkull_Eye
+    100294: Storm_GraveGolem_Head_MainSkull
+    100296: Storm_GraveGolem_Head_MainSkull_Eye
+    100298: Storm_GraveGolem_Head_MainSkull_Jaw
+    100300: Storm_GraveGolem_LeftArm
+    100302: Storm_GraveGolem_LeftArm_Arm
+    100304: Storm_GraveGolem_LeftArm_FingerA
+    100306: Storm_GraveGolem_LeftArm_FingerA_01
+    100308: Storm_GraveGolem_LeftArm_FingerA_02
+    100310: Storm_GraveGolem_LeftArm_FingerB
+    100312: Storm_GraveGolem_LeftArm_FingerB_01
+    100314: Storm_GraveGolem_LeftArm_FingerB_02
+    100316: Storm_GraveGolem_LeftArm_FingerC
+    100318: Storm_GraveGolem_LeftArm_FingerC_01
+    100320: Storm_GraveGolem_LeftArm_FingerC_02
+    100322: Storm_GraveGolem_LeftArm_Forearm
+    100324: Storm_GraveGolem_LeftArm_Skulls
+    100326: Storm_GraveGolem_LeftArm_Small
+    100328: Storm_GraveGolem_LeftArm_Small_Arm
+    100330: Storm_GraveGolem_LeftArm_Small_Forearm
+    100332: Storm_GraveGolem_LeftArm_Tombstone
+    100334: Storm_GraveGolem_Legs_LFoot
+    100336: Storm_GraveGolem_Legs_LKnee
+    100338: Storm_GraveGolem_Legs_LThigh
+    100340: Storm_GraveGolem_Legs_LToes
+    100342: Storm_GraveGolem_Legs_RFoot
+    100344: Storm_GraveGolem_Legs_RKnee
+    100346: Storm_GraveGolem_Legs_RThigh
+    100348: Storm_GraveGolem_Legs_RToes
+    100350: Storm_GraveGolem_NeckSkulls
+    100352: Storm_GraveGolem_RightArm_Index_Pinky
+    100354: Storm_GraveGolem_RightArm_RadiusAndUlna
+    100356: Storm_GraveGolem_RightArm_Skulls
+    100358: Storm_GraveGolem_RightArm_Tombstone
+    100360: Storm_GraveGolem_TorsoCoffins
+    100362: Storm_GraveGolem_Vines_Neck_01
+    100364: Storm_GraveGolem_Vines_RArm
+    100366: Vol_Target 05_BoneRef
+    100368: Vol_Target_BoneRef
+    400000: Bone_Arm_Back_L
+    400002: Bone_Arm_Jiggle_L
+    400004: Bone_Arm_Jiggle_R
+    400006: Bone_Arm_Jiggle_R_01
+    400008: Bone_Arm_Jiggle_R_02
+    400010: Bone_Arm_L
+    400012: Bone_Arm_R
+    400014: Bone_Arm_Twist_R
+    400016: Bone_ArmFingerA_Jiggle_R
+    400018: Bone_ArmFingerA_L
+    400020: Bone_ArmFingerA_L_01
+    400022: Bone_ArmFingerA_L_02
+    400024: Bone_ArmFingerA_R
+    400026: Bone_ArmFingerA_R_01
+    400028: Bone_ArmFingerA_R_02
+    400030: Bone_ArmFingerB_Jiggle_R
+    400032: Bone_ArmFingerB_L
+    400034: Bone_ArmFingerB_L_01
+    400036: Bone_ArmFingerB_L_02
+    400038: Bone_ArmFingerB_R
+    400040: Bone_ArmFingerB_R_01
+    400042: Bone_ArmFingerB_R_02
+    400044: Bone_ArmFingerC_Jiggle_R
+    400046: Bone_ArmFingerC_L
+    400048: Bone_ArmFingerC_L_01
+    400050: Bone_ArmFingerC_L_02
+    400052: Bone_ArmFingerC_R
+    400054: Bone_ArmFingerC_R_01
+    400056: Bone_ArmFingerC_R_02
+    400058: Bone_ArmFingerD_R
+    400060: Bone_ArmFingerD_R_01
+    400062: Bone_ArmFingerD_R_02
+    400064: Bone_ArmFingerD_R_03
+    400066: Bone_ArmFore_Back_L
+    400068: Bone_ArmFore_Jiggle_L
+    400070: Bone_ArmFore_L
+    400072: Bone_ArmFore_R
+    400074: Bone_ArmHand_Back_L
+    400076: Bone_ArmHand_L
+    400078: Bone_ArmHand_R
+    400080: Bone_ArmWrist_Jiggle_L
+    400082: Bone_Bag_Jiggle_L
+    400084: Bone_Bag_Jiggle_R
+    400086: Bone_Bag_R
+    400088: Bone_Chest_L
+    400090: Bone_Chest_R
+    400092: Bone_Eye_Jiggle_Back_L
+    400094: Bone_Eye_Lower_L
+    400096: Bone_Eye_Mid_L
+    400098: Bone_Eye_Upper_R
+    400100: Bone_Eye_Upper_R_01
+    400102: Bone_Head_Jiggle_Lower_L
+    400104: Bone_Head_Jiggle_Lower_L_01
+    400106: Bone_Head_Jiggle_Mid_R
+    400108: Bone_Head_Jiggle_Upper_R
+    400110: Bone_Head_Lower_L
+    400112: Bone_Head_Mid_R
+    400114: Bone_Head_Upper_R
+    400116: Bone_Hip_Jiggle_L
+    400118: Bone_Hip_Jiggle_L_01
+    400120: Bone_Hip_Jiggle_L_02
+    400122: Bone_Hip_Jiggle_L_03
+    400124: Bone_Hip_L
+    400126: Bone_Jaw_Mid_R
+    400128: Bone_Jaw_Upper_R
+    400130: Bone_LegFoot_L
+    400132: Bone_LegFoot_R
+    400134: Bone_LegKnee_Jiggle_R
+    400136: Bone_LegKnee_L
+    400138: Bone_LegKnee_R
+    400140: Bone_LegThigh_Jiggle_L
+    400142: Bone_LegThigh_Jiggle_R
+    400144: Bone_LegThigh_L
+    400146: Bone_LegThigh_R
+    400148: Bone_LegToe_L
+    400150: Bone_LegToe_R
+    400152: Bone_Mouth_Jiggle_Upper_R
+    400154: Bone_Neck_Jiggle_Back_L
+    400156: Bone_Neck_Jiggle_Back_L_01
+    400158: Bone_Neck_Jiggle_L
+    400160: Bone_Neck_Jiggle_L_01
+    400162: Bone_Neck_Jiggle_L_02
+    400164: Bone_Neck_Jiggle_Upper_Back_R
+    400166: Bone_Neck_Jiggle_Upper_Back_R_01
+    400168: Bone_Neck_Jiggle_Upper_Front_R
+    400170: Bone_Neck_Jiggle_Upper_Front_R_01
+    400172: Bone_Neck_Jiggle_Upper_Front_R_02
+    400174: Bone_Neck_Lower_L
+    400176: Bone_Neck_Lower_L_01
+    400178: Bone_Neck_Lower_L_02
+    400180: Bone_Neck_Mid_L
+    400182: Bone_Neck_Mid_L_01
+    400184: Bone_Neck_Mid_L_02
+    400186: Bone_Neck_Mid_L_03
+    400188: Bone_Neck_Upper_L
+    400190: Bone_Neck_Upper_R
+    400192: Bone_Neck_Upper_R_01
+    400194: Bone_Neck_Upper_R_02
+    400196: Bone_Root_L
+    400198: Bone_Seaweed005
+    400200: Bone_Seaweed006
+    400202: Bone_Spine_Jiggle_R
+    400204: Bone_Spine_Jiggle_R_01
+    400206: Bone_Spine_Jiggle_R_02
+    400208: Bone_Spine_L
+    400210: Bone_Spine_L_01
+    400212: Bone_Spine_L_02
+    400214: Bone_Sword_Back_L
+    400216: Default
+    400218: Default001
+    400220: //RootNode
+    400222: HittestFuzzy
+    400224: HitTestFuzzy 01
+    400226: HittestFuzzy 03
+    400228: HittestFuzzy 04
+    400230: HittestFuzzy 05
+    400232: HitTestTight
+    400234: Mesh 1
+    400236: Mesh 2
+    400238: Mesh 3
+    400240: Mesh 4
+    400242: Mesh 5
+    400244: Ref_Center
+    400246: Ref_Center_BoneRef
+    400248: Ref_Origin
+    400250: Ref_Origin_BoneRef
+    400252: Ref_Overhead
+    400254: Ref_Overhead_BoneRef
+    400256: Ref_Target
+    400258: Ref_Target 05
+    400260: Ref_Weapon Left
+    400262: Ref_Weapon Left_BoneRef
+    400264: Ref_Weapon Right
+    400266: Ref_Weapon Right_BoneRef
+    400268: SC2Omni001
+    400270: SC2Physics005
+    400272: SC2Physics006
+    400274: SC2Physics007
+    400276: Storm_GraveGolem_BackCoffin
+    400278: Storm_GraveGolem_Head_AngrySkull
+    400280: Storm_GraveGolem_Head_AngrySkull_Jaw
+    400282: Storm_GraveGolem_Head_AngrySkull_LeftEye
+    400284: Storm_GraveGolem_Head_AngrySkull_RightEye
+    400286: Storm_GraveGolem_Head_AngrySkull_RightEye001
+    400288: Storm_GraveGolem_Head_AngrySkull_RightEye002
+    400290: Storm_GraveGolem_Head_JawlessSkull
+    400292: Storm_GraveGolem_Head_JawlessSkull_Eye
+    400294: Storm_GraveGolem_Head_MainSkull
+    400296: Storm_GraveGolem_Head_MainSkull_Eye
+    400298: Storm_GraveGolem_Head_MainSkull_Jaw
+    400300: Storm_GraveGolem_LeftArm
+    400302: Storm_GraveGolem_LeftArm_Arm
+    400304: Storm_GraveGolem_LeftArm_FingerA
+    400306: Storm_GraveGolem_LeftArm_FingerA_01
+    400308: Storm_GraveGolem_LeftArm_FingerA_02
+    400310: Storm_GraveGolem_LeftArm_FingerB
+    400312: Storm_GraveGolem_LeftArm_FingerB_01
+    400314: Storm_GraveGolem_LeftArm_FingerB_02
+    400316: Storm_GraveGolem_LeftArm_FingerC
+    400318: Storm_GraveGolem_LeftArm_FingerC_01
+    400320: Storm_GraveGolem_LeftArm_FingerC_02
+    400322: Storm_GraveGolem_LeftArm_Forearm
+    400324: Storm_GraveGolem_LeftArm_Skulls
+    400326: Storm_GraveGolem_LeftArm_Small
+    400328: Storm_GraveGolem_LeftArm_Small_Arm
+    400330: Storm_GraveGolem_LeftArm_Small_Forearm
+    400332: Storm_GraveGolem_LeftArm_Tombstone
+    400334: Storm_GraveGolem_Legs_LFoot
+    400336: Storm_GraveGolem_Legs_LKnee
+    400338: Storm_GraveGolem_Legs_LThigh
+    400340: Storm_GraveGolem_Legs_LToes
+    400342: Storm_GraveGolem_Legs_RFoot
+    400344: Storm_GraveGolem_Legs_RKnee
+    400346: Storm_GraveGolem_Legs_RThigh
+    400348: Storm_GraveGolem_Legs_RToes
+    400350: Storm_GraveGolem_NeckSkulls
+    400352: Storm_GraveGolem_RightArm_Index_Pinky
+    400354: Storm_GraveGolem_RightArm_RadiusAndUlna
+    400356: Storm_GraveGolem_RightArm_Skulls
+    400358: Storm_GraveGolem_RightArm_Tombstone
+    400360: Storm_GraveGolem_TorsoCoffins
+    400362: Storm_GraveGolem_Vines_Neck_01
+    400364: Storm_GraveGolem_Vines_RArm
+    400366: Vol_Target 05_BoneRef
+    400368: Vol_Target_BoneRef
+    4300000: Mesh 1
+    4300002: Mesh 2
+    4300004: Mesh 3
+    4300006: Mesh 4
+    4300008: Mesh 5
+    9500000: //RootNode
+    13700000: Mesh 1
+    13700002: Mesh 2
+    13700004: Mesh 3
+    13700006: Mesh 4
+    13700008: Mesh 5
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

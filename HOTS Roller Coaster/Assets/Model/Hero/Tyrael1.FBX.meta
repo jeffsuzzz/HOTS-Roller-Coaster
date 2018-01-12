@@ -1,0 +1,402 @@
+fileFormatVersion: 2
+guid: bb3e02deca3a75a43bd1262f2dbc9e8f
+timeCreated: 1497776742
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone_Arm_L
+    100002: Bone_Arm_R
+    100004: Bone_ArmFingerA_Lower_L
+    100006: Bone_ArmFingerA_Lower_R
+    100008: Bone_ArmFingerA_Upper_L
+    100010: Bone_ArmFingerA_Upper_R
+    100012: Bone_ArmFingerB_Lower_L
+    100014: Bone_ArmFingerB_Lower_R
+    100016: Bone_ArmFingerB_Upper_L
+    100018: Bone_ArmFingerB_Upper_R
+    100020: Bone_ArmFingerC_Lower_L
+    100022: Bone_ArmFingerC_Lower_R
+    100024: Bone_ArmFingerC_Upper_L
+    100026: Bone_ArmFingerC_Upper_R
+    100028: Bone_ArmFingerD_Lower_L
+    100030: Bone_ArmFingerD_Lower_R
+    100032: Bone_ArmFingerD_Upper_L
+    100034: Bone_ArmFingerD_Upper_R
+    100036: Bone_ArmFore_L
+    100038: Bone_ArmFore_R
+    100040: Bone_ArmHand_L
+    100042: Bone_ArmHand_R
+    100044: Bone_ArmThumb_Lower_L
+    100046: Bone_ArmThumb_Lower_R
+    100048: Bone_ArmThumb_Upper_L
+    100050: Bone_ArmThumb_Upper_R
+    100052: Bone_Cloth_Lower_Back
+    100054: Bone_Cloth_Lower_Front
+    100056: Bone_Cloth_Mid_Back
+    100058: Bone_Cloth_Mid_Front
+    100060: Bone_Cloth_Upper_Back
+    100062: Bone_Cloth_Upper_Front
+    100064: Bone_Head
+    100066: Bone_Hip
+    100068: Bone_KneePad_L
+    100070: Bone_KneePad_R
+    100072: Bone_LegCalf_L
+    100074: Bone_LegCalf_R
+    100076: Bone_LegFoot_L
+    100078: Bone_LegFoot_R
+    100080: Bone_LegThigh_L
+    100082: Bone_LegThigh_R
+    100084: Bone_LegToe_L
+    100086: Bone_LegToe_R
+    100088: Bone_Neck
+    100090: Bone_Overhead
+    100092: Bone_Root
+    100094: Bone_Shoulder_L
+    100096: Bone_Shoulder_R
+    100098: Bone_Shoulder_Twist_L
+    100100: Bone_Shoulder_Twist_R
+    100102: Bone_ShoulderPad_L
+    100104: Bone_ShoulderPad_R
+    100106: Bone_Skirt_Back_L
+    100108: Bone_Skirt_Back_R
+    100110: Bone_Skirt_Front_L
+    100112: Bone_Skirt_Front_R
+    100114: Bone_Spine_Lower
+    100116: Bone_Spine_Upper
+    100118: Bone_Sword
+    100120: Bone_Wing_Back_L
+    100122: Bone_Wing_Back_R
+    100124: Bone_Wing_L
+    100126: Bone_Wing_L_01
+    100128: Bone_Wing_R
+    100130: Bone_Wing_R_01
+    100132: HitTestFuzzy
+    100134: HitTestFuzzy01
+    100136: HitTestFuzzy02
+    100138: HitTestFuzzy03
+    100140: HitTestFuzzy04
+    100142: HitTestTight
+    100144: Mesh 1
+    100146: Mesh 2
+    100148: Mesh 3
+    100150: Mesh 4
+    100152: Ref_Back
+    100154: Ref_Back_BoneRef
+    100156: Ref_Center
+    100158: Ref_Center_BoneRef
+    100160: Ref_Chest
+    100162: Ref_Chest_BoneRef
+    100164: Ref_Chin
+    100166: Ref_Chin_BoneRef
+    100168: Ref_Face
+    100170: Ref_Face_BoneRef
+    100172: Ref_Foot Left
+    100174: Ref_Foot Left_BoneRef
+    100176: Ref_Foot Right
+    100178: Ref_Foot Right_BoneRef
+    100180: Ref_Forearm Left
+    100182: Ref_Forearm Left_BoneRef
+    100184: Ref_Forearm Right
+    100186: Ref_Forearm Right_BoneRef
+    100188: Ref_Hand Left
+    100190: Ref_Hand Left_BoneRef
+    100192: Ref_Hand Right
+    100194: Ref_Hand Right_BoneRef
+    100196: Ref_Head
+    100198: Ref_Head Top
+    100200: Ref_Head Top_BoneRef
+    100202: Ref_Head_BoneRef
+    100204: Ref_Knee Left
+    100206: Ref_Knee Left_BoneRef
+    100208: Ref_Knee Right
+    100210: Ref_Knee Right_BoneRef
+    100212: Ref_Lip Upper
+    100214: Ref_Lip Upper_BoneRef
+    100216: Ref_Origin
+    100218: Ref_Origin_BoneRef
+    100220: Ref_Overhead
+    100222: Ref_Overhead_BoneRef
+    100224: Ref_Shield
+    100226: Ref_Shoulder Left
+    100228: Ref_Shoulder Left_BoneRef
+    100230: Ref_Shoulder Right
+    100232: Ref_Shoulder Right_BoneRef
+    100234: Ref_Target
+    100236: Ref_Target 01
+    100238: Ref_Target 02
+    100240: Ref_Target 03
+    100242: Ref_Waist Back
+    100244: Ref_Waist Back_BoneRef
+    100246: Ref_Waist Front
+    100248: Ref_Waist Front_BoneRef
+    100250: Ref_Waist Left
+    100252: Ref_Waist Left_BoneRef
+    100254: Ref_Waist Right
+    100256: Ref_Waist Right_BoneRef
+    100258: Ref_Weapon
+    100260: Ref_Weapon Left
+    100262: Ref_Weapon Left_BoneRef
+    100264: Ref_Weapon Right
+    100266: Ref_Weapon Right_BoneRef
+    100268: Ref_Weapon_BoneRef
+    100270: SC2Physics_Bone_KneePad_L
+    100272: SC2Physics_Bone_KneePad_R
+    100274: SC2Physics_Bone_LegCalf_L
+    100276: SC2Physics_Bone_LegCalf_R
+    100278: SC2Physics_Bone_LegThigh_L
+    100280: SC2Physics_Bone_LegThigh_R
+    100282: SC2Physics_Bone_Spine_Lower
+    100284: SC2Physics_Bone_Spine_Upper
+    100286: Star2Ribbon_TyrealWing_006
+    100288: Star2Ribbon_TyrealWing_007
+    100290: Star2Ribbon_TyrealWing_008
+    100292: Star2Ribbon_TyrealWing_009
+    100294: Star2Ribbon_TyrealWing_010
+    100296: Star2Ribbon_TyrealWing_011
+    100298: Storm_Hero_Tyreal
+    100300: Storm_Hero_Tyreal_ShoulderPad_L
+    100302: Storm_Hero_Tyreal_ShoulderPad_R
+    100304: Storm_Hero_Tyreall_Cloth_Sim
+    100306: Storm_Hero_Tyreall_Cloth_Vis
+    100308: Storm_Tyreal_SwordNew
+    100310: //RootNode
+    100312: Vol_Shield_BoneRef
+    100314: Vol_Target 01_BoneRef
+    100316: Vol_Target 02_BoneRef
+    100318: Vol_Target 03_BoneRef
+    100320: Vol_Target_BoneRef
+    400000: Bone_Arm_L
+    400002: Bone_Arm_R
+    400004: Bone_ArmFingerA_Lower_L
+    400006: Bone_ArmFingerA_Lower_R
+    400008: Bone_ArmFingerA_Upper_L
+    400010: Bone_ArmFingerA_Upper_R
+    400012: Bone_ArmFingerB_Lower_L
+    400014: Bone_ArmFingerB_Lower_R
+    400016: Bone_ArmFingerB_Upper_L
+    400018: Bone_ArmFingerB_Upper_R
+    400020: Bone_ArmFingerC_Lower_L
+    400022: Bone_ArmFingerC_Lower_R
+    400024: Bone_ArmFingerC_Upper_L
+    400026: Bone_ArmFingerC_Upper_R
+    400028: Bone_ArmFingerD_Lower_L
+    400030: Bone_ArmFingerD_Lower_R
+    400032: Bone_ArmFingerD_Upper_L
+    400034: Bone_ArmFingerD_Upper_R
+    400036: Bone_ArmFore_L
+    400038: Bone_ArmFore_R
+    400040: Bone_ArmHand_L
+    400042: Bone_ArmHand_R
+    400044: Bone_ArmThumb_Lower_L
+    400046: Bone_ArmThumb_Lower_R
+    400048: Bone_ArmThumb_Upper_L
+    400050: Bone_ArmThumb_Upper_R
+    400052: Bone_Cloth_Lower_Back
+    400054: Bone_Cloth_Lower_Front
+    400056: Bone_Cloth_Mid_Back
+    400058: Bone_Cloth_Mid_Front
+    400060: Bone_Cloth_Upper_Back
+    400062: Bone_Cloth_Upper_Front
+    400064: Bone_Head
+    400066: Bone_Hip
+    400068: Bone_KneePad_L
+    400070: Bone_KneePad_R
+    400072: Bone_LegCalf_L
+    400074: Bone_LegCalf_R
+    400076: Bone_LegFoot_L
+    400078: Bone_LegFoot_R
+    400080: Bone_LegThigh_L
+    400082: Bone_LegThigh_R
+    400084: Bone_LegToe_L
+    400086: Bone_LegToe_R
+    400088: Bone_Neck
+    400090: Bone_Overhead
+    400092: Bone_Root
+    400094: Bone_Shoulder_L
+    400096: Bone_Shoulder_R
+    400098: Bone_Shoulder_Twist_L
+    400100: Bone_Shoulder_Twist_R
+    400102: Bone_ShoulderPad_L
+    400104: Bone_ShoulderPad_R
+    400106: Bone_Skirt_Back_L
+    400108: Bone_Skirt_Back_R
+    400110: Bone_Skirt_Front_L
+    400112: Bone_Skirt_Front_R
+    400114: Bone_Spine_Lower
+    400116: Bone_Spine_Upper
+    400118: Bone_Sword
+    400120: Bone_Wing_Back_L
+    400122: Bone_Wing_Back_R
+    400124: Bone_Wing_L
+    400126: Bone_Wing_L_01
+    400128: Bone_Wing_R
+    400130: Bone_Wing_R_01
+    400132: HitTestFuzzy
+    400134: HitTestFuzzy01
+    400136: HitTestFuzzy02
+    400138: HitTestFuzzy03
+    400140: HitTestFuzzy04
+    400142: HitTestTight
+    400144: Mesh 1
+    400146: Mesh 2
+    400148: Mesh 3
+    400150: Mesh 4
+    400152: Ref_Back
+    400154: Ref_Back_BoneRef
+    400156: Ref_Center
+    400158: Ref_Center_BoneRef
+    400160: Ref_Chest
+    400162: Ref_Chest_BoneRef
+    400164: Ref_Chin
+    400166: Ref_Chin_BoneRef
+    400168: Ref_Face
+    400170: Ref_Face_BoneRef
+    400172: Ref_Foot Left
+    400174: Ref_Foot Left_BoneRef
+    400176: Ref_Foot Right
+    400178: Ref_Foot Right_BoneRef
+    400180: Ref_Forearm Left
+    400182: Ref_Forearm Left_BoneRef
+    400184: Ref_Forearm Right
+    400186: Ref_Forearm Right_BoneRef
+    400188: Ref_Hand Left
+    400190: Ref_Hand Left_BoneRef
+    400192: Ref_Hand Right
+    400194: Ref_Hand Right_BoneRef
+    400196: Ref_Head
+    400198: Ref_Head Top
+    400200: Ref_Head Top_BoneRef
+    400202: Ref_Head_BoneRef
+    400204: Ref_Knee Left
+    400206: Ref_Knee Left_BoneRef
+    400208: Ref_Knee Right
+    400210: Ref_Knee Right_BoneRef
+    400212: Ref_Lip Upper
+    400214: Ref_Lip Upper_BoneRef
+    400216: Ref_Origin
+    400218: Ref_Origin_BoneRef
+    400220: Ref_Overhead
+    400222: Ref_Overhead_BoneRef
+    400224: Ref_Shield
+    400226: Ref_Shoulder Left
+    400228: Ref_Shoulder Left_BoneRef
+    400230: Ref_Shoulder Right
+    400232: Ref_Shoulder Right_BoneRef
+    400234: Ref_Target
+    400236: Ref_Target 01
+    400238: Ref_Target 02
+    400240: Ref_Target 03
+    400242: Ref_Waist Back
+    400244: Ref_Waist Back_BoneRef
+    400246: Ref_Waist Front
+    400248: Ref_Waist Front_BoneRef
+    400250: Ref_Waist Left
+    400252: Ref_Waist Left_BoneRef
+    400254: Ref_Waist Right
+    400256: Ref_Waist Right_BoneRef
+    400258: Ref_Weapon
+    400260: Ref_Weapon Left
+    400262: Ref_Weapon Left_BoneRef
+    400264: Ref_Weapon Right
+    400266: Ref_Weapon Right_BoneRef
+    400268: Ref_Weapon_BoneRef
+    400270: SC2Physics_Bone_KneePad_L
+    400272: SC2Physics_Bone_KneePad_R
+    400274: SC2Physics_Bone_LegCalf_L
+    400276: SC2Physics_Bone_LegCalf_R
+    400278: SC2Physics_Bone_LegThigh_L
+    400280: SC2Physics_Bone_LegThigh_R
+    400282: SC2Physics_Bone_Spine_Lower
+    400284: SC2Physics_Bone_Spine_Upper
+    400286: Star2Ribbon_TyrealWing_006
+    400288: Star2Ribbon_TyrealWing_007
+    400290: Star2Ribbon_TyrealWing_008
+    400292: Star2Ribbon_TyrealWing_009
+    400294: Star2Ribbon_TyrealWing_010
+    400296: Star2Ribbon_TyrealWing_011
+    400298: Storm_Hero_Tyreal
+    400300: Storm_Hero_Tyreal_ShoulderPad_L
+    400302: Storm_Hero_Tyreal_ShoulderPad_R
+    400304: Storm_Hero_Tyreall_Cloth_Sim
+    400306: Storm_Hero_Tyreall_Cloth_Vis
+    400308: Storm_Tyreal_SwordNew
+    400310: //RootNode
+    400312: Vol_Shield_BoneRef
+    400314: Vol_Target 01_BoneRef
+    400316: Vol_Target 02_BoneRef
+    400318: Vol_Target 03_BoneRef
+    400320: Vol_Target_BoneRef
+    4300000: Mesh 1
+    4300002: Mesh 2
+    4300004: Mesh 3
+    4300006: Mesh 4
+    9500000: //RootNode
+    13700000: Mesh 1
+    13700002: Mesh 2
+    13700004: Mesh 3
+    13700006: Mesh 4
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

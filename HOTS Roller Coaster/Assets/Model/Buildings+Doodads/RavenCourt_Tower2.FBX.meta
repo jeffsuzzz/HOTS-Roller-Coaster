@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 3a9eec82cf6c09d48918f0b020376228
+timeCreated: 1497967468
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cylinder025
+    100002: Dummy005
+    100004: Dummy024
+    100006: DummyTurretParent
+    100008: DummyTurretParent001
+    100010: DummyTurretParent003
+    100012: HitTestFuzzy
+    100014: HitTestFuzzy01
+    100016: HitTestFuzzy02
+    100018: HitTestFuzzy03
+    100020: HitTestFuzzy04
+    100022: HitTestTight
+    100024: Mesh 1
+    100026: Mesh 2
+    100028: Object130
+    100030: Object132
+    100032: //RootNode
+    100034: Ref_Center
+    100036: Ref_Center_BoneRef
+    100038: Ref_Origin
+    100040: Ref_Origin_BoneRef
+    100042: Ref_Overhead
+    100044: Ref_Overhead_BoneRef
+    100046: Ref_Target
+    100048: Ref_Target 01
+    100050: Ref_Target 02
+    100052: Ref_Target 03
+    100054: Ref_Target 04
+    100056: Ref_Target 05
+    100058: Ref_TurretZ
+    100060: Ref_TurretZ_BoneRef
+    100062: Ref_Weapon
+    100064: Ref_Weapon_BoneRef
+    100066: SC2Omni014
+    100068: SC2Particles014smoke009
+    100070: SC2Particles015flash009
+    100072: SC2Particles016ember009
+    100074: SC2Particles017fire009
+    100076: SC2Projector003
+    100078: Sphere014
+    100080: Storm_Building_KingsCrest_RavenCourt_Tower_02
+    100082: Vol_Target 01_BoneRef
+    100084: Vol_Target 02_BoneRef
+    100086: Vol_Target 03_BoneRef
+    100088: Vol_Target 04_BoneRef
+    100090: Vol_Target 05_BoneRef
+    100092: Vol_Target_BoneRef
+    400000: Cylinder025
+    400002: Dummy005
+    400004: Dummy024
+    400006: DummyTurretParent
+    400008: DummyTurretParent001
+    400010: DummyTurretParent003
+    400012: HitTestFuzzy
+    400014: HitTestFuzzy01
+    400016: HitTestFuzzy02
+    400018: HitTestFuzzy03
+    400020: HitTestFuzzy04
+    400022: HitTestTight
+    400024: Mesh 1
+    400026: Mesh 2
+    400028: Object130
+    400030: Object132
+    400032: //RootNode
+    400034: Ref_Center
+    400036: Ref_Center_BoneRef
+    400038: Ref_Origin
+    400040: Ref_Origin_BoneRef
+    400042: Ref_Overhead
+    400044: Ref_Overhead_BoneRef
+    400046: Ref_Target
+    400048: Ref_Target 01
+    400050: Ref_Target 02
+    400052: Ref_Target 03
+    400054: Ref_Target 04
+    400056: Ref_Target 05
+    400058: Ref_TurretZ
+    400060: Ref_TurretZ_BoneRef
+    400062: Ref_Weapon
+    400064: Ref_Weapon_BoneRef
+    400066: SC2Omni014
+    400068: SC2Particles014smoke009
+    400070: SC2Particles015flash009
+    400072: SC2Particles016ember009
+    400074: SC2Particles017fire009
+    400076: SC2Projector003
+    400078: Sphere014
+    400080: Storm_Building_KingsCrest_RavenCourt_Tower_02
+    400082: Vol_Target 01_BoneRef
+    400084: Vol_Target 02_BoneRef
+    400086: Vol_Target 03_BoneRef
+    400088: Vol_Target 04_BoneRef
+    400090: Vol_Target 05_BoneRef
+    400092: Vol_Target_BoneRef
+    4300000: Mesh 1
+    4300002: Mesh 2
+    9500000: //RootNode
+    13700000: Mesh 1
+    13700002: Mesh 2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

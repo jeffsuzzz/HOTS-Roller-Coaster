@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: ccef544dc3bad454e9e48402dc1af8bd
+timeCreated: 1498201886
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone_Ankle_Front_L
+    100002: Bone_Ankle_Front_R
+    100004: Bone_Ankle_Rear_L
+    100006: Bone_Ankle_Rear_R
+    100008: Bone_Chest
+    100010: Bone_Head
+    100012: Bone_Hip_Rear_L
+    100014: Bone_Hip_Rear_R
+    100016: Bone_Jaw
+    100018: Bone_Knee_Rear_L
+    100020: Bone_Knee_Rear_R
+    100022: Bone_Neck_01
+    100024: Bone_Neck_02
+    100026: Bone_Paw_Front_L
+    100028: Bone_Paw_Front_R
+    100030: Bone_Paw_Rear_L
+    100032: Bone_Paw_Rear_R
+    100034: Bone_Pelvis
+    100036: Bone_Root
+    100038: Bone_Shoulder_Front_L
+    100040: Bone_Shoulder_Front_R
+    100042: Bone_Spine
+    100044: Bone_Tail_01
+    100046: Bone_Tail_02
+    100048: Bone_Tail_03
+    100050: //RootNode
+    100052: HitTestFuzzy006
+    100054: HitTestFuzzy02
+    100056: HitTestFuzzy04
+    100058: HitTestFuzzy05
+    100060: HitTestTight
+    100062: Mesh 1
+    100064: Mesh_Direwolf_Gear
+    100066: Ref_Center
+    100068: Ref_Center_BoneRef
+    100070: Ref_Mount
+    100072: Ref_Mount_BoneRef
+    100074: Ref_Origin
+    100076: Ref_Origin_BoneRef
+    100078: Ref_Overhead
+    100080: Ref_Overhead_BoneRef
+    100082: SC2Physics_Bone_Chest
+    100084: SC2Physics_Bone_Pelvis
+    100086: SC2Physics_Bone_Root
+    100088: SC2Physics_Bone_Tail_01
+    100090: SC2Physics_Bone_Tail_02
+    100092: SC2Physics_Bone_Tail_03
+    400000: Bone_Ankle_Front_L
+    400002: Bone_Ankle_Front_R
+    400004: Bone_Ankle_Rear_L
+    400006: Bone_Ankle_Rear_R
+    400008: Bone_Chest
+    400010: Bone_Head
+    400012: Bone_Hip_Rear_L
+    400014: Bone_Hip_Rear_R
+    400016: Bone_Jaw
+    400018: Bone_Knee_Rear_L
+    400020: Bone_Knee_Rear_R
+    400022: Bone_Neck_01
+    400024: Bone_Neck_02
+    400026: Bone_Paw_Front_L
+    400028: Bone_Paw_Front_R
+    400030: Bone_Paw_Rear_L
+    400032: Bone_Paw_Rear_R
+    400034: Bone_Pelvis
+    400036: Bone_Root
+    400038: Bone_Shoulder_Front_L
+    400040: Bone_Shoulder_Front_R
+    400042: Bone_Spine
+    400044: Bone_Tail_01
+    400046: Bone_Tail_02
+    400048: Bone_Tail_03
+    400050: //RootNode
+    400052: HitTestFuzzy006
+    400054: HitTestFuzzy02
+    400056: HitTestFuzzy04
+    400058: HitTestFuzzy05
+    400060: HitTestTight
+    400062: Mesh 1
+    400064: Mesh_Direwolf_Gear
+    400066: Ref_Center
+    400068: Ref_Center_BoneRef
+    400070: Ref_Mount
+    400072: Ref_Mount_BoneRef
+    400074: Ref_Origin
+    400076: Ref_Origin_BoneRef
+    400078: Ref_Overhead
+    400080: Ref_Overhead_BoneRef
+    400082: SC2Physics_Bone_Chest
+    400084: SC2Physics_Bone_Pelvis
+    400086: SC2Physics_Bone_Root
+    400088: SC2Physics_Bone_Tail_01
+    400090: SC2Physics_Bone_Tail_02
+    400092: SC2Physics_Bone_Tail_03
+    4300000: Mesh 1
+    9500000: //RootNode
+    13700000: Mesh 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

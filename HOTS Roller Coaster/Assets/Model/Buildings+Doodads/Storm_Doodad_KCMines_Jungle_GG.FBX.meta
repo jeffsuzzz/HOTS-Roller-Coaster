@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 8425a70a8a7e06d42bd4327da5f52b76
+timeCreated: 1497950020
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone_Tree_Base008
+    100002: Bone_Tree_Base009
+    100004: Bone_Tree_Base010
+    100006: Bone_Tree_Top008
+    100008: Bone_Tree_Top009
+    100010: Bone_Tree_Top010
+    100012: Mesh 1
+    100014: Mesh 1 1
+    100016: Mesh 2
+    100018: Mesh 2 1
+    100020: Mesh 3
+    100022: Mesh 3 1
+    100024: Mesh 4
+    100026: Mesh 4 1
+    100028: Mesh 5
+    100030: Mesh 5 1
+    100032: Mesh 6
+    100034: Mesh 6 1
+    100036: SC2Projector005
+    100038: SC2Projector007
+    100040: SC2Projector008
+    100042: SC2Projector009
+    100044: SC2Projector010
+    100046: SC2Projector011
+    100048: SC2Projector012
+    100050: //RootNode
+    100052: Storm_Doodad_KCMines_Jungle_GG_00
+    100054: Storm_Doodad_KCMines_Jungle_GG_01
+    100056: Storm_Doodad_KingsCrest_Fence_Wood_Small_004
+    100058: Storm_Doodad_KingsCrest_Fence_Wood_Small_005
+    100060: Storm_Doodad_KingsCrest_Fence_Wood_Small_006
+    100062: Storm_Doodad_KingsCrest_Fence_Wood_Small_007
+    100064: Storm_Doodad_KingsCrest_Fence_Wood_Small_02
+    100066: Storm_Doodad_KingsCrest_Fence_Wood_Small_03
+    100068: Storm_Doodad_KingsCrest_Fence_Wood_Small_03~DUP~0
+    100070: Storm_Doodad_KingsCrest_RavenBush_004
+    100072: Storm_Doodad_KingsCrest_RavenBush_006
+    100074: Storm_Doodad_KingsCrest_RavenCourt_Tree_009
+    100076: Storm_Doodad_KingsCrest_RavenCourt_Tree_04
+    400000: Bone_Tree_Base008
+    400002: Bone_Tree_Base009
+    400004: Bone_Tree_Base010
+    400006: Bone_Tree_Top008
+    400008: Bone_Tree_Top009
+    400010: Bone_Tree_Top010
+    400012: Mesh 1
+    400014: Mesh 1 1
+    400016: Mesh 2
+    400018: Mesh 2 1
+    400020: Mesh 3
+    400022: Mesh 3 1
+    400024: Mesh 4
+    400026: Mesh 4 1
+    400028: Mesh 5
+    400030: Mesh 5 1
+    400032: Mesh 6
+    400034: Mesh 6 1
+    400036: SC2Projector005
+    400038: SC2Projector007
+    400040: SC2Projector008
+    400042: SC2Projector009
+    400044: SC2Projector010
+    400046: SC2Projector011
+    400048: SC2Projector012
+    400050: //RootNode
+    400052: Storm_Doodad_KCMines_Jungle_GG_00
+    400054: Storm_Doodad_KCMines_Jungle_GG_01
+    400056: Storm_Doodad_KingsCrest_Fence_Wood_Small_004
+    400058: Storm_Doodad_KingsCrest_Fence_Wood_Small_005
+    400060: Storm_Doodad_KingsCrest_Fence_Wood_Small_006
+    400062: Storm_Doodad_KingsCrest_Fence_Wood_Small_007
+    400064: Storm_Doodad_KingsCrest_Fence_Wood_Small_02
+    400066: Storm_Doodad_KingsCrest_Fence_Wood_Small_03
+    400068: Storm_Doodad_KingsCrest_Fence_Wood_Small_03~DUP~0
+    400070: Storm_Doodad_KingsCrest_RavenBush_004
+    400072: Storm_Doodad_KingsCrest_RavenBush_006
+    400074: Storm_Doodad_KingsCrest_RavenCourt_Tree_009
+    400076: Storm_Doodad_KingsCrest_RavenCourt_Tree_04
+    4300000: Mesh 1
+    4300002: Mesh 2
+    4300004: Mesh 3
+    4300006: Mesh 4
+    4300008: Mesh 5
+    4300010: Mesh 6
+    4300012: Mesh 1
+    4300014: Mesh 2
+    4300016: Mesh 3
+    4300018: Mesh 4
+    4300020: Mesh 5
+    4300022: Mesh 6
+    9500000: //RootNode
+    13700000: Mesh 1
+    13700002: Mesh 1 1
+    13700004: Mesh 2
+    13700006: Mesh 2 1
+    13700008: Mesh 3
+    13700010: Mesh 3 1
+    13700012: Mesh 4
+    13700014: Mesh 4 1
+    13700016: Mesh 5
+    13700018: Mesh 5 1
+    13700020: Mesh 6
+    13700022: Mesh 6 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

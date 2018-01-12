@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: 7955256389c44034e9f4a60ebcbd5cfd
+timeCreated: 1497944261
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone_Arm_L
+    100002: Bone_Arm_R
+    100004: Bone_ArmFore_L
+    100006: Bone_ArmFore_R
+    100008: Bone_ArmHand_L
+    100010: Bone_ArmHand_R
+    100012: Bone_Head
+    100014: Bone_Hip
+    100016: Bone_LegFoot_L
+    100018: Bone_LegFoot_R
+    100020: Bone_LegKnee_L
+    100022: Bone_LegKnee_R
+    100024: Bone_LegThigh_L
+    100026: Bone_LegThigh_R
+    100028: Bone_LegToe_L
+    100030: Bone_LegToe_R
+    100032: Bone_Neck
+    100034: Bone_Root
+    100036: Bone_Shield_L
+    100038: Bone_Shoulder_Jiggle_L
+    100040: Bone_Shoulder_Jiggle_R
+    100042: Bone_Shoulder_L
+    100044: Bone_Shoulder_R
+    100046: Bone_Shoulder_Twist_L
+    100048: Bone_Shoulder_Twist_R
+    100050: Bone_Spine
+    100052: Bone_Spine_01
+    100054: Bone_Sword_R
+    100056: HitTestFuzzy
+    100058: HitTestTight
+    100060: //RootNode
+    100062: Mesh 1
+    100064: Ref_Center
+    100066: Ref_Center_BoneRef
+    100068: Ref_Origin
+    100070: Ref_Origin_BoneRef
+    100072: Ref_Overhead
+    100074: Ref_OverHead_BoneRef
+    100076: Ref_Shield
+    100078: Ref_Target
+    100080: Ref_Target 01
+    100082: Storm_KingsCrest_MinionMelee_Body
+    100084: Vol_Shield_BoneRef
+    100086: Vol_Target 01_BoneRef
+    100088: Vol_Target_BoneRef
+    400000: Bone_Arm_L
+    400002: Bone_Arm_R
+    400004: Bone_ArmFore_L
+    400006: Bone_ArmFore_R
+    400008: Bone_ArmHand_L
+    400010: Bone_ArmHand_R
+    400012: Bone_Head
+    400014: Bone_Hip
+    400016: Bone_LegFoot_L
+    400018: Bone_LegFoot_R
+    400020: Bone_LegKnee_L
+    400022: Bone_LegKnee_R
+    400024: Bone_LegThigh_L
+    400026: Bone_LegThigh_R
+    400028: Bone_LegToe_L
+    400030: Bone_LegToe_R
+    400032: Bone_Neck
+    400034: Bone_Root
+    400036: Bone_Shield_L
+    400038: Bone_Shoulder_Jiggle_L
+    400040: Bone_Shoulder_Jiggle_R
+    400042: Bone_Shoulder_L
+    400044: Bone_Shoulder_R
+    400046: Bone_Shoulder_Twist_L
+    400048: Bone_Shoulder_Twist_R
+    400050: Bone_Spine
+    400052: Bone_Spine_01
+    400054: Bone_Sword_R
+    400056: HitTestFuzzy
+    400058: HitTestTight
+    400060: //RootNode
+    400062: Mesh 1
+    400064: Ref_Center
+    400066: Ref_Center_BoneRef
+    400068: Ref_Origin
+    400070: Ref_Origin_BoneRef
+    400072: Ref_Overhead
+    400074: Ref_OverHead_BoneRef
+    400076: Ref_Shield
+    400078: Ref_Target
+    400080: Ref_Target 01
+    400082: Storm_KingsCrest_MinionMelee_Body
+    400084: Vol_Shield_BoneRef
+    400086: Vol_Target 01_BoneRef
+    400088: Vol_Target_BoneRef
+    4300000: Mesh 1
+    7400000: Attack
+    7400002: Walk
+    7400004: Stand
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Mesh 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Attack
+      takeName: Take 001
+      firstFrame: 974
+      lastFrame: 1004
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone_Root
+        weight: 1
+      - path: Bone_Root/Bone_Hip
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_L/Bone_LegKnee_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_L/Bone_LegKnee_L/Bone_LegFoot_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_L/Bone_LegKnee_L/Bone_LegFoot_L/Bone_LegToe_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_R/Bone_LegKnee_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_R/Bone_LegKnee_R/Bone_LegFoot_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_R/Bone_LegKnee_R/Bone_LegFoot_R/Bone_LegToe_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Neck
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Neck/Bone_Head
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_L/Bone_Arm_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_L/Bone_Arm_L/Bone_ArmFore_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_L/Bone_Arm_L/Bone_ArmFore_L/Bone_ArmHand_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_L/Bone_Arm_L/Bone_ArmFore_L/Bone_ArmHand_L/Bone_Shield_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_L/Bone_Arm_L/Bone_Shoulder_Twist_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_L/Bone_Arm_L/Bone_Shoulder_Twist_R/Bone_Shoulder_Jiggle_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_R/Bone_Arm_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_R/Bone_Arm_R/Bone_ArmFore_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_R/Bone_Arm_R/Bone_ArmFore_R/Bone_ArmHand_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_R/Bone_Arm_R/Bone_ArmFore_R/Bone_ArmHand_R/Bone_Sword_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_R/Bone_Arm_R/Bone_Shoulder_Twist_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_R/Bone_Arm_R/Bone_Shoulder_Twist_L/Bone_Shoulder_Jiggle_R
+        weight: 1
+      - path: Bone_Root/HitTestFuzzy
+        weight: 1
+      - path: Bone_Root/Ref_Center_BoneRef
+        weight: 1
+      - path: Bone_Root/Ref_Center_BoneRef/Ref_Center
+        weight: 1
+      - path: Bone_Root/Vol_Shield_BoneRef
+        weight: 1
+      - path: Bone_Root/Vol_Shield_BoneRef/Ref_Shield
+        weight: 1
+      - path: Bone_Root/Vol_Target_BoneRef
+        weight: 1
+      - path: Bone_Root/Vol_Target_BoneRef/Ref_Target
+        weight: 1
+      - path: Bone_Root/Vol_Target_BoneRef/Vol_Target 01_BoneRef
+        weight: 1
+      - path: Bone_Root/Vol_Target_BoneRef/Vol_Target 01_BoneRef/Ref_Target 01
+        weight: 1
+      - path: HitTestTight
+        weight: 1
+      - path: Mesh 1
+        weight: 1
+      - path: Ref_Origin_BoneRef
+        weight: 1
+      - path: Ref_Origin_BoneRef/Ref_Origin
+        weight: 1
+      - path: Ref_OverHead_BoneRef
+        weight: 1
+      - path: Ref_OverHead_BoneRef/Ref_Overhead
+        weight: 1
+      - path: Storm_KingsCrest_MinionMelee_Body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 464
+      lastFrame: 484
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone_Root
+        weight: 1
+      - path: Bone_Root/Bone_Hip
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_L/Bone_LegKnee_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_L/Bone_LegKnee_L/Bone_LegFoot_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_L/Bone_LegKnee_L/Bone_LegFoot_L/Bone_LegToe_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_R/Bone_LegKnee_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_R/Bone_LegKnee_R/Bone_LegFoot_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_R/Bone_LegKnee_R/Bone_LegFoot_R/Bone_LegToe_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Neck
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Neck/Bone_Head
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_L/Bone_Arm_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_L/Bone_Arm_L/Bone_ArmFore_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_L/Bone_Arm_L/Bone_ArmFore_L/Bone_ArmHand_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_L/Bone_Arm_L/Bone_ArmFore_L/Bone_ArmHand_L/Bone_Shield_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_L/Bone_Arm_L/Bone_Shoulder_Twist_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_L/Bone_Arm_L/Bone_Shoulder_Twist_R/Bone_Shoulder_Jiggle_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_R/Bone_Arm_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_R/Bone_Arm_R/Bone_ArmFore_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_R/Bone_Arm_R/Bone_ArmFore_R/Bone_ArmHand_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_R/Bone_Arm_R/Bone_ArmFore_R/Bone_ArmHand_R/Bone_Sword_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_R/Bone_Arm_R/Bone_Shoulder_Twist_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_R/Bone_Arm_R/Bone_Shoulder_Twist_L/Bone_Shoulder_Jiggle_R
+        weight: 1
+      - path: Bone_Root/HitTestFuzzy
+        weight: 1
+      - path: Bone_Root/Ref_Center_BoneRef
+        weight: 1
+      - path: Bone_Root/Ref_Center_BoneRef/Ref_Center
+        weight: 1
+      - path: Bone_Root/Vol_Shield_BoneRef
+        weight: 1
+      - path: Bone_Root/Vol_Shield_BoneRef/Ref_Shield
+        weight: 1
+      - path: Bone_Root/Vol_Target_BoneRef
+        weight: 1
+      - path: Bone_Root/Vol_Target_BoneRef/Ref_Target
+        weight: 1
+      - path: Bone_Root/Vol_Target_BoneRef/Vol_Target 01_BoneRef
+        weight: 1
+      - path: Bone_Root/Vol_Target_BoneRef/Vol_Target 01_BoneRef/Ref_Target 01
+        weight: 1
+      - path: HitTestTight
+        weight: 1
+      - path: Mesh 1
+        weight: 1
+      - path: Ref_Origin_BoneRef
+        weight: 1
+      - path: Ref_Origin_BoneRef/Ref_Origin
+        weight: 1
+      - path: Ref_OverHead_BoneRef
+        weight: 1
+      - path: Ref_OverHead_BoneRef/Ref_Overhead
+        weight: 1
+      - path: Storm_KingsCrest_MinionMelee_Body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stand
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 89
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone_Root
+        weight: 1
+      - path: Bone_Root/Bone_Hip
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_L/Bone_LegKnee_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_L/Bone_LegKnee_L/Bone_LegFoot_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_L/Bone_LegKnee_L/Bone_LegFoot_L/Bone_LegToe_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_R/Bone_LegKnee_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_R/Bone_LegKnee_R/Bone_LegFoot_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_R/Bone_LegKnee_R/Bone_LegFoot_R/Bone_LegToe_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Neck
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Neck/Bone_Head
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_L/Bone_Arm_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_L/Bone_Arm_L/Bone_ArmFore_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_L/Bone_Arm_L/Bone_ArmFore_L/Bone_ArmHand_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_L/Bone_Arm_L/Bone_ArmFore_L/Bone_ArmHand_L/Bone_Shield_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_L/Bone_Arm_L/Bone_Shoulder_Twist_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_L/Bone_Arm_L/Bone_Shoulder_Twist_R/Bone_Shoulder_Jiggle_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_R/Bone_Arm_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_R/Bone_Arm_R/Bone_ArmFore_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_R/Bone_Arm_R/Bone_ArmFore_R/Bone_ArmHand_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_R/Bone_Arm_R/Bone_ArmFore_R/Bone_ArmHand_R/Bone_Sword_R
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_R/Bone_Arm_R/Bone_Shoulder_Twist_L
+        weight: 1
+      - path: Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Shoulder_R/Bone_Arm_R/Bone_Shoulder_Twist_L/Bone_Shoulder_Jiggle_R
+        weight: 1
+      - path: Bone_Root/HitTestFuzzy
+        weight: 1
+      - path: Bone_Root/Ref_Center_BoneRef
+        weight: 1
+      - path: Bone_Root/Ref_Center_BoneRef/Ref_Center
+        weight: 1
+      - path: Bone_Root/Vol_Shield_BoneRef
+        weight: 1
+      - path: Bone_Root/Vol_Shield_BoneRef/Ref_Shield
+        weight: 1
+      - path: Bone_Root/Vol_Target_BoneRef
+        weight: 1
+      - path: Bone_Root/Vol_Target_BoneRef/Ref_Target
+        weight: 1
+      - path: Bone_Root/Vol_Target_BoneRef/Vol_Target 01_BoneRef
+        weight: 1
+      - path: Bone_Root/Vol_Target_BoneRef/Vol_Target 01_BoneRef/Ref_Target 01
+        weight: 1
+      - path: HitTestTight
+        weight: 1
+      - path: Mesh 1
+        weight: 1
+      - path: Ref_Origin_BoneRef
+        weight: 1
+      - path: Ref_Origin_BoneRef/Ref_Origin
+        weight: 1
+      - path: Ref_OverHead_BoneRef
+        weight: 1
+      - path: Ref_OverHead_BoneRef/Ref_Overhead
+        weight: 1
+      - path: Storm_KingsCrest_MinionMelee_Body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

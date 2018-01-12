@@ -1,0 +1,118 @@
+fileFormatVersion: 2
+guid: 9047bee1f80dccf4bb742b07dfb83bca
+timeCreated: 1497951437
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box100
+    100002: Box101
+    100004: Box102
+    100006: Box103
+    100008: Box104
+    100010: Box105
+    100012: Mesh 1
+    100014: Mesh 2
+    100016: //RootNode
+    100018: Storm_Doodad_KingsCrest_BigChunkyRock
+    100020: Storm_Doodad_KingsCrest_BigChunkyRock_006
+    100022: Storm_Doodad_KingsCrest_BigChunkyRock_01
+    100024: Storm_Doodad_KingsCrest_BigChunkyRock_03
+    100026: Storm_Doodad_KingsCrest_BigChunkyRock_03~DUP~4
+    100028: Storm_Doodad_KingsCrest_BigChunkyRock_05
+    100030: Storm_Doodad_KingsCrest_BigChunkyRock_05~DUP~1
+    100032: Storm_Doodad_KingsCrest_BigChunkyRock_05~DUP~2
+    100034: Storm_Doodad_KingsCrest_BigChunkyRock_05~DUP~3
+    100036: Storm_Doodad_KingsCrest_BigChunkyRock~DUP~0
+    100038: Storm_Doodad_KingsCrest_Flowers_015
+    100040: Storm_Doodad_KingsCrest_Flowers_016
+    400000: Box100
+    400002: Box101
+    400004: Box102
+    400006: Box103
+    400008: Box104
+    400010: Box105
+    400012: Mesh 1
+    400014: Mesh 2
+    400016: //RootNode
+    400018: Storm_Doodad_KingsCrest_BigChunkyRock
+    400020: Storm_Doodad_KingsCrest_BigChunkyRock_006
+    400022: Storm_Doodad_KingsCrest_BigChunkyRock_01
+    400024: Storm_Doodad_KingsCrest_BigChunkyRock_03
+    400026: Storm_Doodad_KingsCrest_BigChunkyRock_03~DUP~4
+    400028: Storm_Doodad_KingsCrest_BigChunkyRock_05
+    400030: Storm_Doodad_KingsCrest_BigChunkyRock_05~DUP~1
+    400032: Storm_Doodad_KingsCrest_BigChunkyRock_05~DUP~2
+    400034: Storm_Doodad_KingsCrest_BigChunkyRock_05~DUP~3
+    400036: Storm_Doodad_KingsCrest_BigChunkyRock~DUP~0
+    400038: Storm_Doodad_KingsCrest_Flowers_015
+    400040: Storm_Doodad_KingsCrest_Flowers_016
+    4300000: Mesh 1
+    4300002: Mesh 2
+    9500000: //RootNode
+    13700000: Mesh 1
+    13700002: Mesh 2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,734 @@
+fileFormatVersion: 2
+guid: b2fc52d579f13c04db2ec87d16f5b9b6
+timeCreated: 1498291471
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bone_Chest
+    100004: Bone_Head
+    100006: Bone_Hip
+    100008: Bone_Jaw
+    100010: Bone_LegCalf_Back_L
+    100012: Bone_LegCalf_Back_R
+    100014: Bone_LegCalf_Front_L
+    100016: Bone_LegCalf_Front_R
+    100018: Bone_LegFoot_Back_L
+    100020: Bone_LegFoot_Back_R
+    100022: Bone_LegFoot_Front_L
+    100024: Bone_LegFoot_Front_R
+    100026: Bone_LegKnee_Back_L
+    100028: Bone_LegKnee_Back_R
+    100030: Bone_LegThigh_Back_L
+    100032: Bone_LegThigh_Back_R
+    100034: Bone_LegThigh_Front_L
+    100036: Bone_LegThigh_Front_R
+    100038: Bone_LegToe_Front_L
+    100040: Bone_LegToe_Front_R
+    100042: Bone_Neck
+    100044: Bone_Neck_01
+    100046: Bone_Root
+    100048: Bone_Tail
+    100050: Bone_Tail_01
+    100052: Bone_Tail_02
+    100054: Bone_Tail_03
+    100056: Bone_Wing_Jiggle_L
+    100058: Bone_Wing_Jiggle_R
+    100060: Bone_Wing_L
+    100062: Bone_Wing_L_01
+    100064: Bone_Wing_R
+    100066: Bone_Wing_R_01
+    100068: Bone_WingA_Jiggle_L
+    100070: Bone_WingA_Jiggle_R
+    100072: Bone_WingA_L
+    100074: Bone_WingA_L_01
+    100076: Bone_WingA_R
+    100078: Bone_WingA_R_01
+    100080: Bone_WingB_Jiggle_L
+    100082: Bone_WingB_Jiggle_R
+    100084: Bone_WingB_L
+    100086: Bone_WingB_L_01
+    100088: Bone_WingB_R
+    100090: Bone_WingB_R_01
+    100092: Bone_WingC_Jiggle_L
+    100094: Bone_WingC_Jiggle_L_01
+    100096: Bone_WingC_Jiggle_R
+    100098: Bone_WingC_Jiggle_R_01
+    100100: Bone_WingC_L
+    100102: Bone_WingC_L_01
+    100104: Bone_WingC_R
+    100106: Bone_WingC_R_01
+    100108: Dummy_CameraFace
+    100110: Dummy_FX
+    100112: Group27343
+    100114: Mesh 1
+    100116: Mesh 2
+    100118: Mesh 3
+    100120: Object016
+    100122: Object017
+    100124: Object018
+    100126: Object019
+    100128: Particle_Frost_Birth
+    100130: Particle_Frost_Mouth
+    100132: Particle_Frost_MouthWorld
+    100134: Particle_IceCrystals_Birth
+    100136: Particle_Shard_MouthWorld
+    100138: Particles_BodyEnergy_Local
+    100140: Particles_BodyEnergy_World
+    400000: //RootNode
+    400002: Bone_Chest
+    400004: Bone_Head
+    400006: Bone_Hip
+    400008: Bone_Jaw
+    400010: Bone_LegCalf_Back_L
+    400012: Bone_LegCalf_Back_R
+    400014: Bone_LegCalf_Front_L
+    400016: Bone_LegCalf_Front_R
+    400018: Bone_LegFoot_Back_L
+    400020: Bone_LegFoot_Back_R
+    400022: Bone_LegFoot_Front_L
+    400024: Bone_LegFoot_Front_R
+    400026: Bone_LegKnee_Back_L
+    400028: Bone_LegKnee_Back_R
+    400030: Bone_LegThigh_Back_L
+    400032: Bone_LegThigh_Back_R
+    400034: Bone_LegThigh_Front_L
+    400036: Bone_LegThigh_Front_R
+    400038: Bone_LegToe_Front_L
+    400040: Bone_LegToe_Front_R
+    400042: Bone_Neck
+    400044: Bone_Neck_01
+    400046: Bone_Root
+    400048: Bone_Tail
+    400050: Bone_Tail_01
+    400052: Bone_Tail_02
+    400054: Bone_Tail_03
+    400056: Bone_Wing_Jiggle_L
+    400058: Bone_Wing_Jiggle_R
+    400060: Bone_Wing_L
+    400062: Bone_Wing_L_01
+    400064: Bone_Wing_R
+    400066: Bone_Wing_R_01
+    400068: Bone_WingA_Jiggle_L
+    400070: Bone_WingA_Jiggle_R
+    400072: Bone_WingA_L
+    400074: Bone_WingA_L_01
+    400076: Bone_WingA_R
+    400078: Bone_WingA_R_01
+    400080: Bone_WingB_Jiggle_L
+    400082: Bone_WingB_Jiggle_R
+    400084: Bone_WingB_L
+    400086: Bone_WingB_L_01
+    400088: Bone_WingB_R
+    400090: Bone_WingB_R_01
+    400092: Bone_WingC_Jiggle_L
+    400094: Bone_WingC_Jiggle_L_01
+    400096: Bone_WingC_Jiggle_R
+    400098: Bone_WingC_Jiggle_R_01
+    400100: Bone_WingC_L
+    400102: Bone_WingC_L_01
+    400104: Bone_WingC_R
+    400106: Bone_WingC_R_01
+    400108: Dummy_CameraFace
+    400110: Dummy_FX
+    400112: Group27343
+    400114: Mesh 1
+    400116: Mesh 2
+    400118: Mesh 3
+    400120: Object016
+    400122: Object017
+    400124: Object018
+    400126: Object019
+    400128: Particle_Frost_Birth
+    400130: Particle_Frost_Mouth
+    400132: Particle_Frost_MouthWorld
+    400134: Particle_IceCrystals_Birth
+    400136: Particle_Shard_MouthWorld
+    400138: Particles_BodyEnergy_Local
+    400140: Particles_BodyEnergy_World
+    4300000: Mesh 1
+    4300002: Mesh 2
+    4300004: Mesh 3
+    7400000: Birth
+    7400002: Death
+    7400004: Stand
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Mesh 1
+    13700002: Mesh 2
+    13700004: Mesh 3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Birth
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 110
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone_Root
+        weight: 1
+      - path: Bone_Root/Bone_Chest
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_LegThigh_Front_L
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_LegThigh_Front_L/Bone_LegCalf_Front_L
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_LegThigh_Front_L/Bone_LegCalf_Front_L/Bone_LegFoot_Front_L
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_LegThigh_Front_L/Bone_LegCalf_Front_L/Bone_LegFoot_Front_L/Bone_LegToe_Front_L
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_LegThigh_Front_R
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_LegThigh_Front_R/Bone_LegCalf_Front_R
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_LegThigh_Front_R/Bone_LegCalf_Front_R/Bone_LegFoot_Front_R
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_LegThigh_Front_R/Bone_LegCalf_Front_R/Bone_LegFoot_Front_R/Bone_LegToe_Front_R
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Neck
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Neck/Bone_Neck_01
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Neck/Bone_Neck_01/Bone_Head
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Neck/Bone_Neck_01/Bone_Head/Bone_Jaw
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Neck/Bone_Neck_01/Bone_Head/Dummy_CameraFace
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Neck/Bone_Neck_01/Bone_Head/Dummy_FX
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Neck/Bone_Neck_01/Bone_Head/Dummy_FX/Particle_Frost_Mouth
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Neck/Bone_Neck_01/Bone_Head/Dummy_FX/Particle_Frost_MouthWorld
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Neck/Bone_Neck_01/Bone_Head/Dummy_FX/Particle_Shard_MouthWorld
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_L
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_L/Bone_Wing_Jiggle_L
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_L/Bone_Wing_L_01
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_L/Bone_Wing_L_01/Bone_WingA_Jiggle_L
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_L/Bone_Wing_L_01/Bone_WingA_L
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_L/Bone_Wing_L_01/Bone_WingA_L/Bone_WingA_L_01
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_L/Bone_Wing_L_01/Bone_WingB_Jiggle_L
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_L/Bone_Wing_L_01/Bone_WingB_L
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_L/Bone_Wing_L_01/Bone_WingB_L/Bone_WingB_L_01
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_L/Bone_Wing_L_01/Bone_WingC_Jiggle_L
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_L/Bone_Wing_L_01/Bone_WingC_Jiggle_L/Bone_WingC_Jiggle_L_01
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_L/Bone_Wing_L_01/Bone_WingC_L
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_L/Bone_Wing_L_01/Bone_WingC_L/Bone_WingC_L_01
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_R
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_R/Bone_Wing_Jiggle_R
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_R/Bone_Wing_R_01
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_R/Bone_Wing_R_01/Bone_WingA_Jiggle_R
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_R/Bone_Wing_R_01/Bone_WingA_R
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_R/Bone_Wing_R_01/Bone_WingA_R/Bone_WingA_R_01
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_R/Bone_Wing_R_01/Bone_WingB_Jiggle_R
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_R/Bone_Wing_R_01/Bone_WingB_R
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_R/Bone_Wing_R_01/Bone_WingB_R/Bone_WingB_R_01
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_R/Bone_Wing_R_01/Bone_WingC_Jiggle_R
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_R/Bone_Wing_R_01/Bone_WingC_Jiggle_R/Bone_WingC_Jiggle_R_01
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_R/Bone_Wing_R_01/Bone_WingC_R
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_R/Bone_Wing_R_01/Bone_WingC_R/Bone_WingC_R_01
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Particles_BodyEnergy_Local
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Particles_BodyEnergy_World
+        weight: 1
+      - path: Bone_Root/Bone_Hip
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_Back_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_Back_L/Bone_LegKnee_Back_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_Back_L/Bone_LegKnee_Back_L/Bone_LegCalf_Back_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_Back_L/Bone_LegKnee_Back_L/Bone_LegCalf_Back_L/Bone_LegFoot_Back_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_Back_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_Back_R/Bone_LegKnee_Back_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_Back_R/Bone_LegKnee_Back_R/Bone_LegCalf_Back_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_Back_R/Bone_LegKnee_Back_R/Bone_LegCalf_Back_R/Bone_LegFoot_Back_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Tail
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Tail/Bone_Tail_01
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Tail/Bone_Tail_01/Bone_Tail_02
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Tail/Bone_Tail_01/Bone_Tail_02/Bone_Tail_03
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Tail/Bone_Tail_01/Bone_Tail_02/Object018
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Tail/Bone_Tail_01/Object017
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Tail/Object016
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Object019
+        weight: 1
+      - path: Group27343
+        weight: 1
+      - path: Mesh 1
+        weight: 1
+      - path: Mesh 2
+        weight: 1
+      - path: Mesh 3
+        weight: 1
+      - path: Particle_Frost_Birth
+        weight: 1
+      - path: Particle_IceCrystals_Birth
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death
+      takeName: Take 001
+      firstFrame: 340
+      lastFrame: 400
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone_Root
+        weight: 1
+      - path: Bone_Root/Bone_Chest
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_LegThigh_Front_L
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_LegThigh_Front_L/Bone_LegCalf_Front_L
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_LegThigh_Front_L/Bone_LegCalf_Front_L/Bone_LegFoot_Front_L
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_LegThigh_Front_L/Bone_LegCalf_Front_L/Bone_LegFoot_Front_L/Bone_LegToe_Front_L
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_LegThigh_Front_R
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_LegThigh_Front_R/Bone_LegCalf_Front_R
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_LegThigh_Front_R/Bone_LegCalf_Front_R/Bone_LegFoot_Front_R
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_LegThigh_Front_R/Bone_LegCalf_Front_R/Bone_LegFoot_Front_R/Bone_LegToe_Front_R
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Neck
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Neck/Bone_Neck_01
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Neck/Bone_Neck_01/Bone_Head
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Neck/Bone_Neck_01/Bone_Head/Bone_Jaw
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Neck/Bone_Neck_01/Bone_Head/Dummy_CameraFace
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Neck/Bone_Neck_01/Bone_Head/Dummy_FX
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Neck/Bone_Neck_01/Bone_Head/Dummy_FX/Particle_Frost_Mouth
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Neck/Bone_Neck_01/Bone_Head/Dummy_FX/Particle_Frost_MouthWorld
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Neck/Bone_Neck_01/Bone_Head/Dummy_FX/Particle_Shard_MouthWorld
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_L
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_L/Bone_Wing_Jiggle_L
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_L/Bone_Wing_L_01
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_L/Bone_Wing_L_01/Bone_WingA_Jiggle_L
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_L/Bone_Wing_L_01/Bone_WingA_L
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_L/Bone_Wing_L_01/Bone_WingA_L/Bone_WingA_L_01
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_L/Bone_Wing_L_01/Bone_WingB_Jiggle_L
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_L/Bone_Wing_L_01/Bone_WingB_L
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_L/Bone_Wing_L_01/Bone_WingB_L/Bone_WingB_L_01
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_L/Bone_Wing_L_01/Bone_WingC_Jiggle_L
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_L/Bone_Wing_L_01/Bone_WingC_Jiggle_L/Bone_WingC_Jiggle_L_01
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_L/Bone_Wing_L_01/Bone_WingC_L
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_L/Bone_Wing_L_01/Bone_WingC_L/Bone_WingC_L_01
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_R
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_R/Bone_Wing_Jiggle_R
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_R/Bone_Wing_R_01
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_R/Bone_Wing_R_01/Bone_WingA_Jiggle_R
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_R/Bone_Wing_R_01/Bone_WingA_R
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_R/Bone_Wing_R_01/Bone_WingA_R/Bone_WingA_R_01
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_R/Bone_Wing_R_01/Bone_WingB_Jiggle_R
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_R/Bone_Wing_R_01/Bone_WingB_R
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_R/Bone_Wing_R_01/Bone_WingB_R/Bone_WingB_R_01
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_R/Bone_Wing_R_01/Bone_WingC_Jiggle_R
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_R/Bone_Wing_R_01/Bone_WingC_Jiggle_R/Bone_WingC_Jiggle_R_01
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_R/Bone_Wing_R_01/Bone_WingC_R
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_R/Bone_Wing_R_01/Bone_WingC_R/Bone_WingC_R_01
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Particles_BodyEnergy_Local
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Particles_BodyEnergy_World
+        weight: 1
+      - path: Bone_Root/Bone_Hip
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_Back_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_Back_L/Bone_LegKnee_Back_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_Back_L/Bone_LegKnee_Back_L/Bone_LegCalf_Back_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_Back_L/Bone_LegKnee_Back_L/Bone_LegCalf_Back_L/Bone_LegFoot_Back_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_Back_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_Back_R/Bone_LegKnee_Back_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_Back_R/Bone_LegKnee_Back_R/Bone_LegCalf_Back_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_Back_R/Bone_LegKnee_Back_R/Bone_LegCalf_Back_R/Bone_LegFoot_Back_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Tail
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Tail/Bone_Tail_01
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Tail/Bone_Tail_01/Bone_Tail_02
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Tail/Bone_Tail_01/Bone_Tail_02/Bone_Tail_03
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Tail/Bone_Tail_01/Bone_Tail_02/Object018
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Tail/Bone_Tail_01/Object017
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Tail/Object016
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Object019
+        weight: 1
+      - path: Group27343
+        weight: 1
+      - path: Mesh 1
+        weight: 1
+      - path: Mesh 2
+        weight: 1
+      - path: Mesh 3
+        weight: 1
+      - path: Particle_Frost_Birth
+        weight: 1
+      - path: Particle_IceCrystals_Birth
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stand
+      takeName: Take 001
+      firstFrame: 210
+      lastFrame: 240
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone_Root
+        weight: 1
+      - path: Bone_Root/Bone_Chest
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_LegThigh_Front_L
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_LegThigh_Front_L/Bone_LegCalf_Front_L
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_LegThigh_Front_L/Bone_LegCalf_Front_L/Bone_LegFoot_Front_L
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_LegThigh_Front_L/Bone_LegCalf_Front_L/Bone_LegFoot_Front_L/Bone_LegToe_Front_L
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_LegThigh_Front_R
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_LegThigh_Front_R/Bone_LegCalf_Front_R
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_LegThigh_Front_R/Bone_LegCalf_Front_R/Bone_LegFoot_Front_R
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_LegThigh_Front_R/Bone_LegCalf_Front_R/Bone_LegFoot_Front_R/Bone_LegToe_Front_R
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Neck
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Neck/Bone_Neck_01
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Neck/Bone_Neck_01/Bone_Head
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Neck/Bone_Neck_01/Bone_Head/Bone_Jaw
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Neck/Bone_Neck_01/Bone_Head/Dummy_CameraFace
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Neck/Bone_Neck_01/Bone_Head/Dummy_FX
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Neck/Bone_Neck_01/Bone_Head/Dummy_FX/Particle_Frost_Mouth
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Neck/Bone_Neck_01/Bone_Head/Dummy_FX/Particle_Frost_MouthWorld
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Neck/Bone_Neck_01/Bone_Head/Dummy_FX/Particle_Shard_MouthWorld
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_L
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_L/Bone_Wing_Jiggle_L
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_L/Bone_Wing_L_01
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_L/Bone_Wing_L_01/Bone_WingA_Jiggle_L
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_L/Bone_Wing_L_01/Bone_WingA_L
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_L/Bone_Wing_L_01/Bone_WingA_L/Bone_WingA_L_01
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_L/Bone_Wing_L_01/Bone_WingB_Jiggle_L
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_L/Bone_Wing_L_01/Bone_WingB_L
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_L/Bone_Wing_L_01/Bone_WingB_L/Bone_WingB_L_01
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_L/Bone_Wing_L_01/Bone_WingC_Jiggle_L
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_L/Bone_Wing_L_01/Bone_WingC_Jiggle_L/Bone_WingC_Jiggle_L_01
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_L/Bone_Wing_L_01/Bone_WingC_L
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_L/Bone_Wing_L_01/Bone_WingC_L/Bone_WingC_L_01
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_R
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_R/Bone_Wing_Jiggle_R
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_R/Bone_Wing_R_01
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_R/Bone_Wing_R_01/Bone_WingA_Jiggle_R
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_R/Bone_Wing_R_01/Bone_WingA_R
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_R/Bone_Wing_R_01/Bone_WingA_R/Bone_WingA_R_01
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_R/Bone_Wing_R_01/Bone_WingB_Jiggle_R
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_R/Bone_Wing_R_01/Bone_WingB_R
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_R/Bone_Wing_R_01/Bone_WingB_R/Bone_WingB_R_01
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_R/Bone_Wing_R_01/Bone_WingC_Jiggle_R
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_R/Bone_Wing_R_01/Bone_WingC_Jiggle_R/Bone_WingC_Jiggle_R_01
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_R/Bone_Wing_R_01/Bone_WingC_R
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Bone_Wing_R/Bone_Wing_R_01/Bone_WingC_R/Bone_WingC_R_01
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Particles_BodyEnergy_Local
+        weight: 1
+      - path: Bone_Root/Bone_Chest/Particles_BodyEnergy_World
+        weight: 1
+      - path: Bone_Root/Bone_Hip
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_Back_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_Back_L/Bone_LegKnee_Back_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_Back_L/Bone_LegKnee_Back_L/Bone_LegCalf_Back_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_Back_L/Bone_LegKnee_Back_L/Bone_LegCalf_Back_L/Bone_LegFoot_Back_L
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_Back_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_Back_R/Bone_LegKnee_Back_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_Back_R/Bone_LegKnee_Back_R/Bone_LegCalf_Back_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_LegThigh_Back_R/Bone_LegKnee_Back_R/Bone_LegCalf_Back_R/Bone_LegFoot_Back_R
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Tail
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Tail/Bone_Tail_01
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Tail/Bone_Tail_01/Bone_Tail_02
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Tail/Bone_Tail_01/Bone_Tail_02/Bone_Tail_03
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Tail/Bone_Tail_01/Bone_Tail_02/Object018
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Tail/Bone_Tail_01/Object017
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Bone_Tail/Object016
+        weight: 1
+      - path: Bone_Root/Bone_Hip/Object019
+        weight: 1
+      - path: Group27343
+        weight: 1
+      - path: Mesh 1
+        weight: 1
+      - path: Mesh 2
+        weight: 1
+      - path: Mesh 3
+        weight: 1
+      - path: Particle_Frost_Birth
+        weight: 1
+      - path: Particle_IceCrystals_Birth
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

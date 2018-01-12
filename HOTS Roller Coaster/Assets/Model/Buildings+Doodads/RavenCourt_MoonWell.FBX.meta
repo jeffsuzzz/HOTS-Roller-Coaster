@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 9e52a620a9438dd47a9d489762a5740f
+timeCreated: 1498285700
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Dummy001
+    100002: FXCONE
+    100004: HitTestFuzzy
+    100006: HitTestFuzzy01
+    100008: HitTestFuzzy02
+    100010: HitTestFuzzy03
+    100012: HitTestTight
+    100014: Manawell
+    100016: Mesh 1
+    100018: Mesh 2
+    100020: Mesh 3
+    100022: Mesh 4
+    100024: Pool
+    100026: //RootNode
+    100028: Ref_Center
+    100030: Ref_Center_BoneRef
+    100032: Ref_Origin
+    100034: Ref_Origin_BoneRef
+    100036: Ref_Overhead
+    100038: Ref_Overhead_BoneRef
+    100040: Ref_Target
+    100042: Ref_Target 01
+    100044: Ref_Target 02
+    100046: Ref_Target 03
+    100048: SC2-Squirt
+    100050: SC2Force001
+    100052: SC2Omni001
+    100054: SC2Particles001
+    100056: SC2Particles002
+    100058: SC2Particles011
+    100060: SC2Particles039
+    100062: SC2Particles040
+    100064: SC2Particles041
+    100066: SC2Particles048
+    100068: SC2Particles049
+    100070: SC2Particles050
+    100072: SC2Particles051
+    100074: SC2Particles052
+    100076: SC2Particles061
+    100078: SC2Particles062
+    100080: SC2Projector001
+    100082: Tornado2
+    100084: Tornado_1
+    100086: Vol_Target 01_BoneRef
+    100088: Vol_Target 02_BoneRef
+    100090: Vol_Target 03_BoneRef
+    100092: Vol_Target_BoneRef
+    400000: Dummy001
+    400002: FXCONE
+    400004: HitTestFuzzy
+    400006: HitTestFuzzy01
+    400008: HitTestFuzzy02
+    400010: HitTestFuzzy03
+    400012: HitTestTight
+    400014: Manawell
+    400016: Mesh 1
+    400018: Mesh 2
+    400020: Mesh 3
+    400022: Mesh 4
+    400024: Pool
+    400026: //RootNode
+    400028: Ref_Center
+    400030: Ref_Center_BoneRef
+    400032: Ref_Origin
+    400034: Ref_Origin_BoneRef
+    400036: Ref_Overhead
+    400038: Ref_Overhead_BoneRef
+    400040: Ref_Target
+    400042: Ref_Target 01
+    400044: Ref_Target 02
+    400046: Ref_Target 03
+    400048: SC2-Squirt
+    400050: SC2Force001
+    400052: SC2Omni001
+    400054: SC2Particles001
+    400056: SC2Particles002
+    400058: SC2Particles011
+    400060: SC2Particles039
+    400062: SC2Particles040
+    400064: SC2Particles041
+    400066: SC2Particles048
+    400068: SC2Particles049
+    400070: SC2Particles050
+    400072: SC2Particles051
+    400074: SC2Particles052
+    400076: SC2Particles061
+    400078: SC2Particles062
+    400080: SC2Projector001
+    400082: Tornado2
+    400084: Tornado_1
+    400086: Vol_Target 01_BoneRef
+    400088: Vol_Target 02_BoneRef
+    400090: Vol_Target 03_BoneRef
+    400092: Vol_Target_BoneRef
+    4300000: Mesh 1
+    4300002: Mesh 2
+    4300004: Mesh 3
+    4300006: Mesh 4
+    9500000: //RootNode
+    13700000: Mesh 1
+    13700002: Mesh 2
+    13700004: Mesh 3
+    13700006: Mesh 4
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

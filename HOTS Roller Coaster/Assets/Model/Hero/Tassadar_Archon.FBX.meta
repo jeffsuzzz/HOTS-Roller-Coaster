@@ -1,0 +1,258 @@
+fileFormatVersion: 2
+guid: cb481e6452ffaa2469a744e46c1f5caa
+timeCreated: 1497776474
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone_Arm_L
+    100002: Bone_Arm_R
+    100004: Bone_ArmFingerA_Lower_L
+    100006: Bone_ArmFingerA_Lower_R
+    100008: Bone_ArmFingerA_Upper_L
+    100010: Bone_ArmFingerA_Upper_R
+    100012: Bone_ArmFingerB_Lower_L
+    100014: Bone_ArmFingerB_Lower_R
+    100016: Bone_ArmFingerB_Upper_L
+    100018: Bone_ArmFingerB_Upper_R
+    100020: Bone_ArmFingerC_Lower_L
+    100022: Bone_ArmFingerC_Lower_R
+    100024: Bone_ArmFingerC_Upper_L
+    100026: Bone_ArmFingerC_Upper_R
+    100028: Bone_ArmFingerD_Lower_L
+    100030: Bone_ArmFingerD_Lower_R
+    100032: Bone_ArmFingerD_Upper_L
+    100034: Bone_ArmFingerD_Upper_R
+    100036: Bone_ArmFore_L
+    100038: Bone_ArmFore_R
+    100040: Bone_ArmHand_L
+    100042: Bone_ArmHand_R
+    100044: Bone_Chest
+    100046: Bone_Head
+    100048: Bone_Hip
+    100050: Bone_LegThigh_L
+    100052: Bone_LegThigh_R
+    100054: Bone_Neck
+    100056: Bone_Overhead
+    100058: Bone_Root
+    100060: Bone_Shoulder_L
+    100062: Bone_Shoulder_R
+    100064: Bone_Shoulder_Twist_L
+    100066: Bone_Shoulder_Twist_R
+    100068: Bone_Skirt_Back
+    100070: Bone_Skirt_Back_01
+    100072: Bone_Skirt_Front
+    100074: Bone_Skirt_Front_01
+    100076: Bone_Skirt_L
+    100078: Bone_Skirt_L_01
+    100080: Bone_Skirt_R
+    100082: Bone_Skirt_R_01
+    100084: Bone_Spine01
+    100086: HitTestFuzzy
+    100088: HitTestFuzzy01
+    100090: HitTestFuzzy02
+    100092: HitTestFuzzy03
+    100094: HitTestTight
+    100096: Mesh 1
+    100098: Mesh 2
+    100100: Mesh 3
+    100102: Particles_Suck_Local
+    100104: Particles_Suck_World
+    100106: Ref_Center
+    100108: Ref_Center_BoneRef
+    100110: Ref_Mount
+    100112: Ref_Mount_BoneRef
+    100114: Ref_Origin
+    100116: Ref_Origin_BoneRef
+    100118: Ref_Overhead
+    100120: Ref_Overhead_BoneRef
+    100122: Ref_Shield
+    100124: Ref_Target
+    100126: Ref_Target 01
+    100128: Ref_Target 02
+    100130: Ref_Weapon Left
+    100132: Ref_Weapon Left_BoneRef
+    100134: Ref_Weapon Right
+    100136: Ref_Weapon Right_BoneRef
+    100138: SC2Omni001
+    100140: SC2Physics_Bone_Hip
+    100142: SC2Physics_Bone_Skirt_Back
+    100144: SC2Physics_Bone_Skirt_Back_01
+    100146: SC2Physics_Bone_Skirt_L
+    100148: SC2Physics_Bone_Skirt_L_01
+    100150: SC2Physics_Bone_Skirt_R
+    100152: SC2Physics_Bone_Skirt_R_01
+    100154: Star2Part06flarex
+    100156: Star2PartSorted12energyMainx
+    100158: Star2PartSorted12outterx
+    100160: Storm_TassadarArchon
+    100162: Storm_TassadarArchon_ArmBracer_L
+    100164: //RootNode
+    100166: Torus01
+    100168: Torus02
+    100170: Torus03
+    100172: Vol_Shield_BoneRef
+    100174: Vol_Target 01_BoneRef
+    100176: Vol_Target 02_BoneRef
+    100178: Vol_Target_BoneRef
+    400000: Bone_Arm_L
+    400002: Bone_Arm_R
+    400004: Bone_ArmFingerA_Lower_L
+    400006: Bone_ArmFingerA_Lower_R
+    400008: Bone_ArmFingerA_Upper_L
+    400010: Bone_ArmFingerA_Upper_R
+    400012: Bone_ArmFingerB_Lower_L
+    400014: Bone_ArmFingerB_Lower_R
+    400016: Bone_ArmFingerB_Upper_L
+    400018: Bone_ArmFingerB_Upper_R
+    400020: Bone_ArmFingerC_Lower_L
+    400022: Bone_ArmFingerC_Lower_R
+    400024: Bone_ArmFingerC_Upper_L
+    400026: Bone_ArmFingerC_Upper_R
+    400028: Bone_ArmFingerD_Lower_L
+    400030: Bone_ArmFingerD_Lower_R
+    400032: Bone_ArmFingerD_Upper_L
+    400034: Bone_ArmFingerD_Upper_R
+    400036: Bone_ArmFore_L
+    400038: Bone_ArmFore_R
+    400040: Bone_ArmHand_L
+    400042: Bone_ArmHand_R
+    400044: Bone_Chest
+    400046: Bone_Head
+    400048: Bone_Hip
+    400050: Bone_LegThigh_L
+    400052: Bone_LegThigh_R
+    400054: Bone_Neck
+    400056: Bone_Overhead
+    400058: Bone_Root
+    400060: Bone_Shoulder_L
+    400062: Bone_Shoulder_R
+    400064: Bone_Shoulder_Twist_L
+    400066: Bone_Shoulder_Twist_R
+    400068: Bone_Skirt_Back
+    400070: Bone_Skirt_Back_01
+    400072: Bone_Skirt_Front
+    400074: Bone_Skirt_Front_01
+    400076: Bone_Skirt_L
+    400078: Bone_Skirt_L_01
+    400080: Bone_Skirt_R
+    400082: Bone_Skirt_R_01
+    400084: Bone_Spine01
+    400086: HitTestFuzzy
+    400088: HitTestFuzzy01
+    400090: HitTestFuzzy02
+    400092: HitTestFuzzy03
+    400094: HitTestTight
+    400096: Mesh 1
+    400098: Mesh 2
+    400100: Mesh 3
+    400102: Particles_Suck_Local
+    400104: Particles_Suck_World
+    400106: Ref_Center
+    400108: Ref_Center_BoneRef
+    400110: Ref_Mount
+    400112: Ref_Mount_BoneRef
+    400114: Ref_Origin
+    400116: Ref_Origin_BoneRef
+    400118: Ref_Overhead
+    400120: Ref_Overhead_BoneRef
+    400122: Ref_Shield
+    400124: Ref_Target
+    400126: Ref_Target 01
+    400128: Ref_Target 02
+    400130: Ref_Weapon Left
+    400132: Ref_Weapon Left_BoneRef
+    400134: Ref_Weapon Right
+    400136: Ref_Weapon Right_BoneRef
+    400138: SC2Omni001
+    400140: SC2Physics_Bone_Hip
+    400142: SC2Physics_Bone_Skirt_Back
+    400144: SC2Physics_Bone_Skirt_Back_01
+    400146: SC2Physics_Bone_Skirt_L
+    400148: SC2Physics_Bone_Skirt_L_01
+    400150: SC2Physics_Bone_Skirt_R
+    400152: SC2Physics_Bone_Skirt_R_01
+    400154: Star2Part06flarex
+    400156: Star2PartSorted12energyMainx
+    400158: Star2PartSorted12outterx
+    400160: Storm_TassadarArchon
+    400162: Storm_TassadarArchon_ArmBracer_L
+    400164: //RootNode
+    400166: Torus01
+    400168: Torus02
+    400170: Torus03
+    400172: Vol_Shield_BoneRef
+    400174: Vol_Target 01_BoneRef
+    400176: Vol_Target 02_BoneRef
+    400178: Vol_Target_BoneRef
+    4300000: Mesh 1
+    4300002: Mesh 2
+    4300004: Mesh 3
+    9500000: //RootNode
+    13700000: Mesh 1
+    13700002: Mesh 2
+    13700004: Mesh 3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

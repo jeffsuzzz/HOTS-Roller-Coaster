@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: fbc1a389827114c47a30bf699a685975
+timeCreated: 1497505782
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Mesh_1
+    100002: Mesh_10
+    100004: Mesh_11
+    100006: Mesh_2
+    100008: Mesh_3
+    100010: Mesh_4
+    100012: Mesh_5
+    100014: Mesh_6
+    100016: Mesh_7
+    100018: Mesh_8
+    100020: Object339
+    100022: Plane009
+    100024: //RootNode
+    100026: Storm_Doodad_KCMines_Jungle_O_01
+    100028: Storm_Doodad_KingsCrest_MineCrystals_041
+    100030: Storm_Doodad_KingsCrest_MineCrystals_043
+    100032: Storm_Doodad_KingsCrest_MineCrystals_048
+    100034: Storm_Doodad_KingsCrest_MineCrystals_050
+    100036: Storm_Doodad_KingsCrest_MineCrystals_053
+    100038: Storm_Doodad_KingsCrest_MineCrystals_060
+    100040: Storm_Doodad_KingsCrest_MineLantern_00
+    100042: Storm_Doodad_KingsCrest_SkullPiles_Mine_01
+    400000: Mesh_1
+    400002: Mesh_10
+    400004: Mesh_11
+    400006: Mesh_2
+    400008: Mesh_3
+    400010: Mesh_4
+    400012: Mesh_5
+    400014: Mesh_6
+    400016: Mesh_7
+    400018: Mesh_8
+    400020: Object339
+    400022: Plane009
+    400024: Storm_Doodad_KCMines_Jungle_O_01
+    400026: //RootNode
+    400028: Storm_Doodad_KingsCrest_MineCrystals_041
+    400030: Storm_Doodad_KingsCrest_MineCrystals_043
+    400032: Storm_Doodad_KingsCrest_MineCrystals_048
+    400034: Storm_Doodad_KingsCrest_MineCrystals_050
+    400036: Storm_Doodad_KingsCrest_MineCrystals_053
+    400038: Storm_Doodad_KingsCrest_MineCrystals_060
+    400040: Storm_Doodad_KingsCrest_MineLantern_00
+    400042: Storm_Doodad_KingsCrest_SkullPiles_Mine_01
+    2300000: Mesh_1
+    2300002: Mesh_10
+    2300004: Mesh_11
+    2300006: Mesh_2
+    2300008: Mesh_3
+    2300010: Mesh_4
+    2300012: Mesh_5
+    2300014: Mesh_6
+    2300016: Mesh_7
+    2300018: Mesh_8
+    2300020: Object339
+    2300022: Plane009
+    2300024: Storm_Doodad_KCMines_Jungle_O_01
+    2300026: Storm_Doodad_KingsCrest_MineCrystals_041
+    2300028: Storm_Doodad_KingsCrest_MineCrystals_043
+    2300030: Storm_Doodad_KingsCrest_MineCrystals_048
+    2300032: Storm_Doodad_KingsCrest_MineCrystals_050
+    2300034: Storm_Doodad_KingsCrest_MineCrystals_053
+    2300036: Storm_Doodad_KingsCrest_MineCrystals_060
+    2300038: Storm_Doodad_KingsCrest_MineLantern_00
+    2300040: Storm_Doodad_KingsCrest_SkullPiles_Mine_01
+    3300000: Mesh_1
+    3300002: Mesh_10
+    3300004: Mesh_11
+    3300006: Mesh_2
+    3300008: Mesh_3
+    3300010: Mesh_4
+    3300012: Mesh_5
+    3300014: Mesh_6
+    3300016: Mesh_7
+    3300018: Mesh_8
+    3300020: Object339
+    3300022: Plane009
+    3300024: Storm_Doodad_KCMines_Jungle_O_01
+    3300026: Storm_Doodad_KingsCrest_MineCrystals_041
+    3300028: Storm_Doodad_KingsCrest_MineCrystals_043
+    3300030: Storm_Doodad_KingsCrest_MineCrystals_048
+    3300032: Storm_Doodad_KingsCrest_MineCrystals_050
+    3300034: Storm_Doodad_KingsCrest_MineCrystals_053
+    3300036: Storm_Doodad_KingsCrest_MineCrystals_060
+    3300038: Storm_Doodad_KingsCrest_MineLantern_00
+    3300040: Storm_Doodad_KingsCrest_SkullPiles_Mine_01
+    4300000: Mesh_1
+    4300002: Mesh_10
+    4300004: Mesh_11
+    4300006: Mesh_2
+    4300008: Mesh_3
+    4300010: Mesh_4
+    4300012: Mesh_5
+    4300014: Mesh_6
+    4300016: Mesh_7
+    4300018: Mesh_8
+    4300020: Object339
+    4300022: Plane009
+    4300024: Storm_Doodad_KCMines_Jungle_O_01
+    4300026: Storm_Doodad_KingsCrest_MineCrystals_041
+    4300028: Storm_Doodad_KingsCrest_MineCrystals_043
+    4300030: Storm_Doodad_KingsCrest_MineCrystals_048
+    4300032: Storm_Doodad_KingsCrest_MineCrystals_050
+    4300034: Storm_Doodad_KingsCrest_MineCrystals_053
+    4300036: Storm_Doodad_KingsCrest_MineCrystals_060
+    4300038: Storm_Doodad_KingsCrest_MineLantern_00
+    4300040: Storm_Doodad_KingsCrest_SkullPiles_Mine_01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

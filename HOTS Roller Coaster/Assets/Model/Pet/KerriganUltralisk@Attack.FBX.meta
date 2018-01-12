@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: 3f38b9f9ad262bf4495882c75b1701be
+timeCreated: 1498291127
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone_Arm_Lower_L
+    100002: Bone_Arm_Lower_R
+    100004: Bone_Arm_Upper_L
+    100006: Bone_Arm_Upper_R
+    100008: Bone_ArmFore_Lower_L
+    100010: Bone_ArmFore_Lower_R
+    100012: Bone_ArmFore_Upper_L
+    100014: Bone_ArmFore_Upper_R
+    100016: Bone_Belly
+    100018: Bone_Chest
+    100020: Bone_Head
+    100022: Bone_Hip
+    100024: Bone_Jaw
+    100026: Bone_LegCalf_Back_L
+    100028: Bone_LegCalf_Back_R
+    100030: Bone_LegCalf_Front_L
+    100032: Bone_LegCalf_Front_R
+    100034: Bone_LegFoot_Back_L
+    100036: Bone_LegFoot_Back_R
+    100038: Bone_LegFoot_Front_L
+    100040: Bone_LegFoot_Front_R
+    100042: Bone_LegThigh_Back_L
+    100044: Bone_LegThigh_Back_R
+    100046: Bone_LegThigh_Front_L
+    100048: Bone_LegThigh_Front_R
+    100050: Bone_Mandible_L
+    100052: Bone_Mandible_R
+    100054: Bone_Neck
+    100056: Bone_Root
+    100058: Bone_Tail
+    100060: FX_Dummy_CameraFace
+    100062: FX_Particle_Lightning
+    100064: FX_Particle_Streaks
+    100066: HitTestFuzzy
+    100068: HitTestFuzzy01
+    100070: HitTestFuzzy02
+    100072: HitTestFuzzy03
+    100074: HitTestFuzzy04
+    100076: HitTestFuzzy05
+    100078: HitTestFuzzy06
+    100080: HitTestFuzzy07
+    100082: HitTestFuzzy08
+    100084: HitTestTight
+    100086: //RootNode
+    100088: Mesh 1
+    100090: Mesh 2
+    100092: Ref_Center
+    100094: Ref_Center 1
+    100096: Ref_Center_BoneRef
+    100098: Ref_Haven
+    100100: Ref_Origin
+    100102: Ref_Origin 1
+    100104: Ref_Origin_BoneRef
+    100106: Ref_Overhead
+    100108: Ref_Overhead_BoneRef
+    100110: Ref_Target
+    100112: Ref_Target 01
+    100114: Ref_Target 02
+    100116: Ref_Target 03
+    100118: SC2Particles_GooBubbles
+    100120: SC2Particles_GooTails
+    100122: SC2Particles_Splats
+    100124: Storm_Pet_KerriganUltralisk_Body
+    100126: Storm_Pet_KerriganUltralisk_Ghost_Body
+    100128: Storm_Pet_KerriganUltralisk_Ghost_Body_Tech
+    100130: Storm_Pet_KerriganUltralisk_PurpleGoo
+    100132: Storm_Pet_KerriganUltralisk_Torrasque_Plates
+    100134: Storm_Pet_KerriganUltralisk_Torrasque_PurpleGoo
+    100136: Vol_Target 01_BoneRef
+    100138: Vol_Target 02_BoneRef
+    100140: Vol_Target 03_BoneRef
+    100142: Vol_Target_BoneRef
+    400000: Bone_Arm_Lower_L
+    400002: Bone_Arm_Lower_R
+    400004: Bone_Arm_Upper_L
+    400006: Bone_Arm_Upper_R
+    400008: Bone_ArmFore_Lower_L
+    400010: Bone_ArmFore_Lower_R
+    400012: Bone_ArmFore_Upper_L
+    400014: Bone_ArmFore_Upper_R
+    400016: Bone_Belly
+    400018: Bone_Chest
+    400020: Bone_Head
+    400022: Bone_Hip
+    400024: Bone_Jaw
+    400026: Bone_LegCalf_Back_L
+    400028: Bone_LegCalf_Back_R
+    400030: Bone_LegCalf_Front_L
+    400032: Bone_LegCalf_Front_R
+    400034: Bone_LegFoot_Back_L
+    400036: Bone_LegFoot_Back_R
+    400038: Bone_LegFoot_Front_L
+    400040: Bone_LegFoot_Front_R
+    400042: Bone_LegThigh_Back_L
+    400044: Bone_LegThigh_Back_R
+    400046: Bone_LegThigh_Front_L
+    400048: Bone_LegThigh_Front_R
+    400050: Bone_Mandible_L
+    400052: Bone_Mandible_R
+    400054: Bone_Neck
+    400056: Bone_Root
+    400058: Bone_Tail
+    400060: FX_Dummy_CameraFace
+    400062: FX_Particle_Lightning
+    400064: FX_Particle_Streaks
+    400066: HitTestFuzzy
+    400068: HitTestFuzzy01
+    400070: HitTestFuzzy02
+    400072: HitTestFuzzy03
+    400074: HitTestFuzzy04
+    400076: HitTestFuzzy05
+    400078: HitTestFuzzy06
+    400080: HitTestFuzzy07
+    400082: HitTestFuzzy08
+    400084: HitTestTight
+    400086: //RootNode
+    400088: Mesh 1
+    400090: Mesh 2
+    400092: Ref_Center
+    400094: Ref_Center 1
+    400096: Ref_Center_BoneRef
+    400098: Ref_Haven
+    400100: Ref_Origin
+    400102: Ref_Origin 1
+    400104: Ref_Origin_BoneRef
+    400106: Ref_Overhead
+    400108: Ref_Overhead_BoneRef
+    400110: Ref_Target
+    400112: Ref_Target 01
+    400114: Ref_Target 02
+    400116: Ref_Target 03
+    400118: SC2Particles_GooBubbles
+    400120: SC2Particles_GooTails
+    400122: SC2Particles_Splats
+    400124: Storm_Pet_KerriganUltralisk_Body
+    400126: Storm_Pet_KerriganUltralisk_Ghost_Body
+    400128: Storm_Pet_KerriganUltralisk_Ghost_Body_Tech
+    400130: Storm_Pet_KerriganUltralisk_PurpleGoo
+    400132: Storm_Pet_KerriganUltralisk_Torrasque_Plates
+    400134: Storm_Pet_KerriganUltralisk_Torrasque_PurpleGoo
+    400136: Vol_Target 01_BoneRef
+    400138: Vol_Target 02_BoneRef
+    400140: Vol_Target 03_BoneRef
+    400142: Vol_Target_BoneRef
+    4300000: Mesh 1
+    4300002: Mesh 2
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Mesh 1
+    13700002: Mesh 2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

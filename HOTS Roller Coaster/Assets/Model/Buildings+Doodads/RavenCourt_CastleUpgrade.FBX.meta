@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 403192315e6747641bc8d83861a376c1
+timeCreated: 1498022267
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box002
+    100002: Braziers
+    100004: Dragon
+    100006: Dummy001
+    100008: Dummy002
+    100010: Dummy003
+    100012: Fire
+    100014: HitTestFuzzy
+    100016: HitTestFuzzy01
+    100018: HitTestFuzzy02
+    100020: HitTestFuzzy03
+    100022: HitTestFuzzy04
+    100024: HitTestFuzzy05
+    100026: Mesh 1
+    100028: Mesh 2
+    100030: Mesh 3
+    100032: NewGeo
+    100034: Object866
+    100036: Object869
+    100038: Object870
+    100040: Plane069
+    100042: Plane079
+    100044: //RootNode
+    100046: Ref_Center
+    100048: Ref_Center_BoneRef
+    100050: Ref_Origin
+    100052: Ref_Origin_BoneRef
+    100054: Ref_Overhead
+    100056: Ref_Overhead_BoneRef
+    100058: Ref_Target
+    100060: Ref_Target 01
+    100062: Ref_Target 02
+    100064: Ref_Target 03
+    100066: Ref_Target 04
+    100068: Ref_Target 05
+    100070: Ref_Target 06
+    100072: Ref_TurretZ
+    100074: Ref_TurretZ_BoneRef
+    100076: Ref_Weapon
+    100078: Ref_Weapon_BoneRef
+    100080: SC2Omni001
+    100082: SC2Omni002
+    100084: SC2Particles001
+    100086: SC2Particles002
+    100088: SC2Particles003
+    100090: SC2Projector001
+    100092: Vol_Target 01_BoneRef
+    100094: Vol_Target 02_BoneRef
+    100096: Vol_Target 03_BoneRef
+    100098: Vol_Target 04_BoneRef
+    100100: Vol_Target 05_BoneRef
+    100102: Vol_Target 06_BoneRef
+    100104: Vol_Target_BoneRef
+    100106: WispyFront
+    100108: WoodPiles
+    400000: Box002
+    400002: Braziers
+    400004: Dragon
+    400006: Dummy001
+    400008: Dummy002
+    400010: Dummy003
+    400012: Fire
+    400014: HitTestFuzzy
+    400016: HitTestFuzzy01
+    400018: HitTestFuzzy02
+    400020: HitTestFuzzy03
+    400022: HitTestFuzzy04
+    400024: HitTestFuzzy05
+    400026: Mesh 1
+    400028: Mesh 2
+    400030: Mesh 3
+    400032: NewGeo
+    400034: Object866
+    400036: Object869
+    400038: Object870
+    400040: Plane069
+    400042: Plane079
+    400044: //RootNode
+    400046: Ref_Center
+    400048: Ref_Center_BoneRef
+    400050: Ref_Origin
+    400052: Ref_Origin_BoneRef
+    400054: Ref_Overhead
+    400056: Ref_Overhead_BoneRef
+    400058: Ref_Target
+    400060: Ref_Target 01
+    400062: Ref_Target 02
+    400064: Ref_Target 03
+    400066: Ref_Target 04
+    400068: Ref_Target 05
+    400070: Ref_Target 06
+    400072: Ref_TurretZ
+    400074: Ref_TurretZ_BoneRef
+    400076: Ref_Weapon
+    400078: Ref_Weapon_BoneRef
+    400080: SC2Omni001
+    400082: SC2Omni002
+    400084: SC2Particles001
+    400086: SC2Particles002
+    400088: SC2Particles003
+    400090: SC2Projector001
+    400092: Vol_Target 01_BoneRef
+    400094: Vol_Target 02_BoneRef
+    400096: Vol_Target 03_BoneRef
+    400098: Vol_Target 04_BoneRef
+    400100: Vol_Target 05_BoneRef
+    400102: Vol_Target 06_BoneRef
+    400104: Vol_Target_BoneRef
+    400106: WispyFront
+    400108: WoodPiles
+    4300000: Mesh 1
+    4300002: Mesh 2
+    4300004: Mesh 3
+    9500000: //RootNode
+    13700000: Mesh 1
+    13700002: Mesh 2
+    13700004: Mesh 3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

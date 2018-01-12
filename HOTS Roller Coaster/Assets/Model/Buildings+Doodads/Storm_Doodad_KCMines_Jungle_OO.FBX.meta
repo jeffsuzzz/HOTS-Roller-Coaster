@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 27a0a2a5a1be6f842b8cd661dbd75209
+timeCreated: 1498115402
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Dummy003
+    100002: Dummy004
+    100004: Dummy005
+    100006: Dummy006
+    100008: Dummy007
+    100010: Dummy008
+    100012: Dummy009
+    100014: Dummy010
+    100016: FX_Wispy_Particle 020
+    100018: FX_Wispy_Particle 028
+    100020: FX_Wispy_Particle 029
+    100022: FX_Wispy_Particle 030
+    100024: Mesh 1
+    100026: Mesh 1 1
+    100028: Mesh 1 2
+    100030: Mesh 2
+    100032: Mesh 2 1
+    100034: Mesh 2 2
+    100036: Mesh 3
+    100038: Mesh 3 1
+    100040: Mesh 3 2
+    100042: Mesh 4
+    100044: Mesh 4 1
+    100046: Mesh 4 2
+    100048: Mesh 5
+    100050: Mesh 5 1
+    100052: Mesh 6
+    100054: Mesh 6 1
+    100056: Mesh 7
+    100058: Mesh 7 1
+    100060: Mesh 8
+    100062: Mesh 9
+    100064: Plane055
+    100066: SC2Omni015
+    100068: SC2Physics002
+    100070: SC2Physics003
+    100072: SC2Physics004
+    100074: //RootNode
+    100076: Storm_Doodad_KCMines_Jungle_OO_00
+    100078: Storm_Doodad_KCMines_Jungle_OO_01
+    100080: Storm_Doodad_KCMines_Jungle_OO_02
+    100082: Storm_Doodad_KingsCrest_MineCrystals_039
+    100084: Storm_Doodad_KingsCrest_MineLantern_002
+    100086: Storm_Doodad_KingsCrest_MineSupportBeam_01
+    100088: Storm_Doodad_KingsCrest_RockWalls_Mine_04
+    100090: Storm_Doodad_KingsCrest_SkullPiles_Mine_01
+    400000: Dummy003
+    400002: Dummy004
+    400004: Dummy005
+    400006: Dummy006
+    400008: Dummy007
+    400010: Dummy008
+    400012: Dummy009
+    400014: Dummy010
+    400016: FX_Wispy_Particle 020
+    400018: FX_Wispy_Particle 028
+    400020: FX_Wispy_Particle 029
+    400022: FX_Wispy_Particle 030
+    400024: Mesh 1
+    400026: Mesh 1 1
+    400028: Mesh 1 2
+    400030: Mesh 2
+    400032: Mesh 2 1
+    400034: Mesh 2 2
+    400036: Mesh 3
+    400038: Mesh 3 1
+    400040: Mesh 3 2
+    400042: Mesh 4
+    400044: Mesh 4 1
+    400046: Mesh 4 2
+    400048: Mesh 5
+    400050: Mesh 5 1
+    400052: Mesh 6
+    400054: Mesh 6 1
+    400056: Mesh 7
+    400058: Mesh 7 1
+    400060: Mesh 8
+    400062: Mesh 9
+    400064: Plane055
+    400066: SC2Omni015
+    400068: SC2Physics002
+    400070: SC2Physics003
+    400072: SC2Physics004
+    400074: //RootNode
+    400076: Storm_Doodad_KCMines_Jungle_OO_00
+    400078: Storm_Doodad_KCMines_Jungle_OO_01
+    400080: Storm_Doodad_KCMines_Jungle_OO_02
+    400082: Storm_Doodad_KingsCrest_MineCrystals_039
+    400084: Storm_Doodad_KingsCrest_MineLantern_002
+    400086: Storm_Doodad_KingsCrest_MineSupportBeam_01
+    400088: Storm_Doodad_KingsCrest_RockWalls_Mine_04
+    400090: Storm_Doodad_KingsCrest_SkullPiles_Mine_01
+    4300000: Mesh 1
+    4300002: Mesh 2
+    4300004: Mesh 3
+    4300006: Mesh 4
+    4300008: Mesh 5
+    4300010: Mesh 6
+    4300012: Mesh 7
+    4300014: Mesh 1
+    4300016: Mesh 2
+    4300018: Mesh 3
+    4300020: Mesh 4
+    4300022: Mesh 1
+    4300024: Mesh 2
+    4300026: Mesh 3
+    4300028: Mesh 4
+    4300030: Mesh 5
+    4300032: Mesh 6
+    4300034: Mesh 7
+    4300036: Mesh 8
+    4300038: Mesh 9
+    9500000: //RootNode
+    13700000: Mesh 1
+    13700002: Mesh 1 1
+    13700004: Mesh 1 2
+    13700006: Mesh 2
+    13700008: Mesh 2 1
+    13700010: Mesh 2 2
+    13700012: Mesh 3
+    13700014: Mesh 3 1
+    13700016: Mesh 3 2
+    13700018: Mesh 4
+    13700020: Mesh 4 1
+    13700022: Mesh 4 2
+    13700024: Mesh 5
+    13700026: Mesh 5 1
+    13700028: Mesh 6
+    13700030: Mesh 6 1
+    13700032: Mesh 7
+    13700034: Mesh 7 1
+    13700036: Mesh 8
+    13700038: Mesh 9
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

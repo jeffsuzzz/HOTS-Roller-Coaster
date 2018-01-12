@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: 434723b087663d842a63f99da0dd1ef0
+timeCreated: 1498115406
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Dummy003
+    100002: FX_Wispy_Particle 017
+    100004: Mesh 1
+    100006: Mesh 1 1
+    100008: Mesh 2
+    100010: Mesh 2 1
+    100012: Mesh 3
+    100014: Mesh 3 1
+    100016: Mesh 4
+    100018: Mesh 4 1
+    100020: Mesh 5
+    100022: Object331
+    100024: Object332
+    100026: //RootNode
+    100028: Storm_Doodad_KCMines_Jungle_M_00
+    100030: Storm_Doodad_KCMines_Jungle_M_01
+    100032: Storm_Doodad_KingsCrest_MineCrystals_05
+    400000: Dummy003
+    400002: FX_Wispy_Particle 017
+    400004: Mesh 1
+    400006: Mesh 1 1
+    400008: Mesh 2
+    400010: Mesh 2 1
+    400012: Mesh 3
+    400014: Mesh 3 1
+    400016: Mesh 4
+    400018: Mesh 4 1
+    400020: Mesh 5
+    400022: Object331
+    400024: Object332
+    400026: //RootNode
+    400028: Storm_Doodad_KCMines_Jungle_M_00
+    400030: Storm_Doodad_KCMines_Jungle_M_01
+    400032: Storm_Doodad_KingsCrest_MineCrystals_05
+    4300000: Mesh 1
+    4300002: Mesh 2
+    4300004: Mesh 3
+    4300006: Mesh 4
+    4300008: Mesh 1
+    4300010: Mesh 2
+    4300012: Mesh 3
+    4300014: Mesh 4
+    4300016: Mesh 5
+    9500000: //RootNode
+    13700000: Mesh 1
+    13700002: Mesh 1 1
+    13700004: Mesh 2
+    13700006: Mesh 2 1
+    13700008: Mesh 3
+    13700010: Mesh 3 1
+    13700012: Mesh 4
+    13700014: Mesh 4 1
+    13700016: Mesh 5
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

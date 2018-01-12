@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 7d02a9c413a1d3543bbe83979e48aa03
+timeCreated: 1497965035
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Dragon
+    100002: Dummy001
+    100004: Dummy002
+    100006: Dummy003
+    100008: HitTestFuzzy
+    100010: HitTestFuzzy01
+    100012: HitTestFuzzy02
+    100014: HitTestFuzzy03
+    100016: HitTestFuzzy04
+    100018: HitTestFuzzy05
+    100020: HitTestTight
+    100022: Mesh 1
+    100024: Mesh 2
+    100026: Mesh 3
+    100028: Mesh 4
+    100030: Mesh 5
+    100032: NewGeo
+    100034: Object455
+    100036: Object865
+    100038: Plane069
+    100040: //RootNode
+    100042: Ref_Center
+    100044: Ref_Center_BoneRef
+    100046: Ref_Origin
+    100048: Ref_Origin_BoneRef
+    100050: Ref_Overhead
+    100052: Ref_Overhead_BoneRef
+    100054: Ref_Target
+    100056: Ref_Target 01
+    100058: Ref_Target 02
+    100060: Ref_Target 03
+    100062: Ref_Target 04
+    100064: Ref_TurretZ
+    100066: Ref_TurretZ_BoneRef
+    100068: Ref_Weapon
+    100070: Ref_Weapon_BoneRef
+    100072: SC2part_MistyParticles
+    100074: SC2part_Rays
+    100076: SC2Projector001
+    100078: Vol_Target 01_BoneRef
+    100080: Vol_Target 02_BoneRef
+    100082: Vol_Target 03_BoneRef
+    100084: Vol_Target 04_BoneRef
+    100086: Vol_Target_BoneRef
+    400000: Dragon
+    400002: Dummy001
+    400004: Dummy002
+    400006: Dummy003
+    400008: HitTestFuzzy
+    400010: HitTestFuzzy01
+    400012: HitTestFuzzy02
+    400014: HitTestFuzzy03
+    400016: HitTestFuzzy04
+    400018: HitTestFuzzy05
+    400020: HitTestTight
+    400022: Mesh 1
+    400024: Mesh 2
+    400026: Mesh 3
+    400028: Mesh 4
+    400030: Mesh 5
+    400032: NewGeo
+    400034: Object455
+    400036: Object865
+    400038: Plane069
+    400040: //RootNode
+    400042: Ref_Center
+    400044: Ref_Center_BoneRef
+    400046: Ref_Origin
+    400048: Ref_Origin_BoneRef
+    400050: Ref_Overhead
+    400052: Ref_Overhead_BoneRef
+    400054: Ref_Target
+    400056: Ref_Target 01
+    400058: Ref_Target 02
+    400060: Ref_Target 03
+    400062: Ref_Target 04
+    400064: Ref_TurretZ
+    400066: Ref_TurretZ_BoneRef
+    400068: Ref_Weapon
+    400070: Ref_Weapon_BoneRef
+    400072: SC2part_MistyParticles
+    400074: SC2part_Rays
+    400076: SC2Projector001
+    400078: Vol_Target 01_BoneRef
+    400080: Vol_Target 02_BoneRef
+    400082: Vol_Target 03_BoneRef
+    400084: Vol_Target 04_BoneRef
+    400086: Vol_Target_BoneRef
+    4300000: Mesh 1
+    4300002: Mesh 2
+    4300004: Mesh 3
+    4300006: Mesh 4
+    4300008: Mesh 5
+    9500000: //RootNode
+    13700000: Mesh 1
+    13700002: Mesh 2
+    13700004: Mesh 3
+    13700006: Mesh 4
+    13700008: Mesh 5
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

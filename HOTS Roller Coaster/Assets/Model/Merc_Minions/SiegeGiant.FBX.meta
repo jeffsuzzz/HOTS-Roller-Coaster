@@ -1,0 +1,274 @@
+fileFormatVersion: 2
+guid: 3b6a228c75501634abf9d61eaa7bd77f
+timeCreated: 1497942612
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone_Arm_L
+    100002: Bone_Arm_R
+    100004: Bone_ArmFingerA_Lower_L
+    100006: Bone_ArmFingerA_Lower_R
+    100008: Bone_ArmFingerA_Upper_L
+    100010: Bone_ArmFingerA_Upper_R
+    100012: Bone_ArmFingerB_Lower_L
+    100014: Bone_ArmFingerB_Lower_R
+    100016: Bone_ArmFingerB_Upper_L
+    100018: Bone_ArmFingerB_Upper_R
+    100020: Bone_ArmFingerC_Lower_L
+    100022: Bone_ArmFingerC_Lower_R
+    100024: Bone_ArmFingerC_Upper_L
+    100026: Bone_ArmFingerC_Upper_R
+    100028: Bone_ArmFingerD_Lower_L
+    100030: Bone_ArmFingerD_Lower_R
+    100032: Bone_ArmFingerD_Upper_L
+    100034: Bone_ArmFingerD_Upper_R
+    100036: Bone_ArmFingerE_Lower_L
+    100038: Bone_ArmFingerE_Lower_R
+    100040: Bone_ArmFingerE_Upper_L
+    100042: Bone_ArmFingerE_Upper_R
+    100044: Bone_ArmFore_L
+    100046: Bone_ArmFore_R
+    100048: Bone_ArmHand_L
+    100050: Bone_ArmHand_R
+    100052: Bone_Bag_Jiggle_Lower
+    100054: Bone_Bag_Jiggle_Lower_Front
+    100056: Bone_Bag_Jiggle_Mid_Front
+    100058: Bone_Bag_Jiggle_Upper_Back
+    100060: Bone_Bag_Jiggle_Upper_Front
+    100062: Bone_Bag_Lower
+    100064: Bone_Bag_Upper
+    100066: Bone_Beard_Lower
+    100068: Bone_Beard_Upper
+    100070: Bone_Cloth_Back
+    100072: Bone_Cloth_Front
+    100074: Bone_Hair_Lower
+    100076: Bone_Hair_Upper
+    100078: Bone_Head
+    100080: Bone_Hip
+    100082: Bone_Jaw
+    100084: Bone_LegCalf_L
+    100086: Bone_LegCalf_R
+    100088: Bone_LegFoot_L
+    100090: Bone_LegFoot_R
+    100092: Bone_LegKnee_L
+    100094: Bone_LegKnee_R
+    100096: Bone_LegThigh_L
+    100098: Bone_LegThigh_R
+    100100: Bone_LegToe_L
+    100102: Bone_LegToe_R
+    100104: Bone_Mandible_L
+    100106: Bone_Mandible_R
+    100108: Bone_Shoulder_L
+    100110: Bone_Shoulder_R
+    100112: Bone_Spine
+    100114: Bone_Tail
+    100116: Bone_Tail_01
+    100118: Bone_Tail_02
+    100120: Bone_Tail_03
+    100122: Bone_Torso
+    100124: Ctrl_Box_Lower
+    100126: Ctrl_LegFoot_L
+    100128: Ctrl_LegFoot_R
+    100130: Ctrl_Rock
+    100132: Hittestfuzzy
+    100134: HittestFuzzy03
+    100136: HittestFuzzy04
+    100138: HittestFuzzy05
+    100140: HittestFuzzy06
+    100142: HittestFuzzy07
+    100144: HittestFuzzy08
+    100146: HittestFuzzy09
+    100148: HitTestTight
+    100150: Mesh 1
+    100152: Mesh 2
+    100154: Mesh 3
+    100156: MESH_SiegeGiant
+    100158: MESH_Tail
+    100160: Ref_Center
+    100162: Ref_Center_BoneRef
+    100164: Ref_Origin
+    100166: Ref_Origin_BoneRef
+    100168: Ref_Overhead
+    100170: Ref_Overhead_BoneRef
+    100172: Ref_Shield
+    100174: Ref_Target
+    100176: Ref_Target 01
+    100178: Ref_Weapon Left
+    100180: Ref_Weapon Left_BoneRef
+    100182: Ref_Weapon Right
+    100184: Ref_Weapon Right_BoneRef
+    100186: //RootNode
+    100188: Storm_KingsCrest_BigChunkyRock_05
+    100190: Vol_Shield_BoneRef
+    100192: Vol_Target 01_BoneRef
+    100194: Vol_Target_BoneRef
+    400000: Bone_Arm_L
+    400002: Bone_Arm_R
+    400004: Bone_ArmFingerA_Lower_L
+    400006: Bone_ArmFingerA_Lower_R
+    400008: Bone_ArmFingerA_Upper_L
+    400010: Bone_ArmFingerA_Upper_R
+    400012: Bone_ArmFingerB_Lower_L
+    400014: Bone_ArmFingerB_Lower_R
+    400016: Bone_ArmFingerB_Upper_L
+    400018: Bone_ArmFingerB_Upper_R
+    400020: Bone_ArmFingerC_Lower_L
+    400022: Bone_ArmFingerC_Lower_R
+    400024: Bone_ArmFingerC_Upper_L
+    400026: Bone_ArmFingerC_Upper_R
+    400028: Bone_ArmFingerD_Lower_L
+    400030: Bone_ArmFingerD_Lower_R
+    400032: Bone_ArmFingerD_Upper_L
+    400034: Bone_ArmFingerD_Upper_R
+    400036: Bone_ArmFingerE_Lower_L
+    400038: Bone_ArmFingerE_Lower_R
+    400040: Bone_ArmFingerE_Upper_L
+    400042: Bone_ArmFingerE_Upper_R
+    400044: Bone_ArmFore_L
+    400046: Bone_ArmFore_R
+    400048: Bone_ArmHand_L
+    400050: Bone_ArmHand_R
+    400052: Bone_Bag_Jiggle_Lower
+    400054: Bone_Bag_Jiggle_Lower_Front
+    400056: Bone_Bag_Jiggle_Mid_Front
+    400058: Bone_Bag_Jiggle_Upper_Back
+    400060: Bone_Bag_Jiggle_Upper_Front
+    400062: Bone_Bag_Lower
+    400064: Bone_Bag_Upper
+    400066: Bone_Beard_Lower
+    400068: Bone_Beard_Upper
+    400070: Bone_Cloth_Back
+    400072: Bone_Cloth_Front
+    400074: Bone_Hair_Lower
+    400076: Bone_Hair_Upper
+    400078: Bone_Head
+    400080: Bone_Hip
+    400082: Bone_Jaw
+    400084: Bone_LegCalf_L
+    400086: Bone_LegCalf_R
+    400088: Bone_LegFoot_L
+    400090: Bone_LegFoot_R
+    400092: Bone_LegKnee_L
+    400094: Bone_LegKnee_R
+    400096: Bone_LegThigh_L
+    400098: Bone_LegThigh_R
+    400100: Bone_LegToe_L
+    400102: Bone_LegToe_R
+    400104: Bone_Mandible_L
+    400106: Bone_Mandible_R
+    400108: Bone_Shoulder_L
+    400110: Bone_Shoulder_R
+    400112: Bone_Spine
+    400114: Bone_Tail
+    400116: Bone_Tail_01
+    400118: Bone_Tail_02
+    400120: Bone_Tail_03
+    400122: Bone_Torso
+    400124: Ctrl_Box_Lower
+    400126: Ctrl_LegFoot_L
+    400128: Ctrl_LegFoot_R
+    400130: Ctrl_Rock
+    400132: Hittestfuzzy
+    400134: HittestFuzzy03
+    400136: HittestFuzzy04
+    400138: HittestFuzzy05
+    400140: HittestFuzzy06
+    400142: HittestFuzzy07
+    400144: HittestFuzzy08
+    400146: HittestFuzzy09
+    400148: HitTestTight
+    400150: Mesh 1
+    400152: Mesh 2
+    400154: Mesh 3
+    400156: MESH_SiegeGiant
+    400158: MESH_Tail
+    400160: Ref_Center
+    400162: Ref_Center_BoneRef
+    400164: Ref_Origin
+    400166: Ref_Origin_BoneRef
+    400168: Ref_Overhead
+    400170: Ref_Overhead_BoneRef
+    400172: Ref_Shield
+    400174: Ref_Target
+    400176: Ref_Target 01
+    400178: Ref_Weapon Left
+    400180: Ref_Weapon Left_BoneRef
+    400182: Ref_Weapon Right
+    400184: Ref_Weapon Right_BoneRef
+    400186: //RootNode
+    400188: Storm_KingsCrest_BigChunkyRock_05
+    400190: Vol_Shield_BoneRef
+    400192: Vol_Target 01_BoneRef
+    400194: Vol_Target_BoneRef
+    4300000: Mesh 1
+    4300002: Mesh 2
+    4300004: Mesh 3
+    9500000: //RootNode
+    13700000: Mesh 1
+    13700002: Mesh 2
+    13700004: Mesh 3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
